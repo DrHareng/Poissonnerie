@@ -403,8 +403,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "[E6DA9B]FARZAN[-] BSG, Minelayer",
-                  "Description": "Painted by Vokuhila\n\n[b]SK[/b] ● [AAFFAA]Regular[-] \r\n[sub]---------Attributes-------\r\n[/sub]\r\n[b]MOV[/b]: 4-4\r\n[b]CC[/b]: 16\r\n[b]BS[/b]: 12\r\n[b]PH[/b]: 11\r\n[b]WIP[/b]: 14\r\n[b]ARM[/b]: 0\r\n[b]BTS[/b]: 0\r\n[B]VITA[/B]: 1\r\n[b]S[/b]: 2\r\n[ffdddd][sub]----------Weapons---------\r\n[/sub]\r\nBoarding Shotgun ● Shock Mines ● Pistol ● CC Weapon [-]\r\n[ddddff][sub]----------Skills----------\r\n[/sub]\r\nSurprise Attack (-3) ● BS Attack (Shock) ● Camouflage ● Infiltration ● Mimetism (-3) ● Stealth ● Terrain (Total) ● Religious Troop [-]\r\n[00014c][-]",
+                  "Nickname": "[E6DA9B]FARZAN[-] BSG, CoC",
+                  "Description": "[b]SK[/b] ● [AAFFAA]Regular[-] \r\n[sub]---------Attributes-------\r\n[/sub]\r\n[b]MOV[/b]: 4-4\r\n[b]CC[/b]: 16\r\n[b]BS[/b]: 12\r\n[b]PH[/b]: 11\r\n[b]WIP[/b]: 14\r\n[b]ARM[/b]: 0\r\n[b]BTS[/b]: 0\r\n[B]VITA[/B]: 1\r\n[b]S[/b]: 2\r\n[ffdddd][sub]----------Weapons---------\r\n[/sub]\r\nBoarding Shotgun ● Shock Mines ● Silenced Pistol ● CC Weapon [-]\r\n[ddddff][sub]----------Skills----------\r\n[/sub]\r\nSurprise Attack (-3) ● BS Attack (Shock) ● Camouflage ● Infiltration ● Mimetism (-3) ● Stealth ● Chain of Command ● Terrain (Total) ● Religious Troop [-]\r\n[00014c][-]",
                   "GMNotes": "",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -513,7 +513,7 @@
                     "scaleZ": 1.0
                   },
                   "Nickname": "[E6DA9B]FARZAN[-] BSG, Minelayer",
-                  "Description": "Painted by Vokuhila\n\n[b]SK[/b] ● [AAFFAA]Regular[-] \r\n[sub]---------Attributes-------\r\n[/sub]\r\n[b]MOV[/b]: 4-4\r\n[b]CC[/b]: 16\r\n[b]BS[/b]: 12\r\n[b]PH[/b]: 11\r\n[b]WIP[/b]: 14\r\n[b]ARM[/b]: 0\r\n[b]BTS[/b]: 0\r\n[B]VITA[/B]: 1\r\n[b]S[/b]: 2\r\n[ffdddd][sub]----------Weapons---------\r\n[/sub]\r\nBoarding Shotgun ● Shock Mines ● Pistol ● CC Weapon [-]\r\n[ddddff][sub]----------Skills----------\r\n[/sub]\r\nSurprise Attack (-3) ● BS Attack (Shock) ● Camouflage ● Infiltration ● Mimetism (-3) ● Stealth ● Terrain (Total) ● Religious Troop [-]\r\n[00014c][-]",
+                  "Description": "[b]SK[/b] ● [AAFFAA]Regular[-] \r\n[sub]---------Attributes-------\r\n[/sub]\r\n[b]MOV[/b]: 4-4\r\n[b]CC[/b]: 16\r\n[b]BS[/b]: 12\r\n[b]PH[/b]: 11\r\n[b]WIP[/b]: 14\r\n[b]ARM[/b]: 0\r\n[b]BTS[/b]: 0\r\n[B]VITA[/B]: 1\r\n[b]S[/b]: 2\r\n[ffdddd][sub]----------Weapons---------\r\n[/sub]\r\nBoarding Shotgun ● Viral Mines ● Silenced Pistol ● CC Weapon [-]\r\n[ddddff][sub]----------Skills----------\r\n[/sub]\r\nSurprise Attack (-3) ● BS Attack (Shock) ● Camouflage ● Infiltration ● Mimetism (-3) ● Stealth ● Terrain (Total) ● Religious Troop [-]\r\n[00014c][-]",
                   "GMNotes": "",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -621,8 +621,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "[E6DA9B]FARZAN FO, BS Attack (Shock)[-] Rf+LSG, Mines, Flash",
-                  "Description": "Painted by Trox\n\n[b]SK[/b] ● [AAFFAA]Regular[-] \n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 4-4\n[b]CC[/b]: 16\n[b]BS[/b]: 12\n[b]PH[/b]: 11\n[b]WIP[/b]: 14\n[b]ARM[/b]: 0\n[b]BTS[/b]: 0\n[B]VITA[/B]: 1\n[b]S[/b]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nRifle ● Light Shotgun ● Flash Pulse ● Shock Mines ● D-Charges ● Pistol ● CC Weapon [-]\n[ddddff][sub]----------Skills----------\n[/sub]\nSurprise Attack (-3) ● BS Attack (Shock) ● Camouflage ● Infiltration ● Mimetism (-3) ● Stealth ● Terrain (Total) ● Religious Troop ● Forward Observer [-]\n[20014c][-]\n",
+                  "Nickname": "[E6DA9B]FARZAN FO[-] Rf, LSG, Shock Mines, FlashP, D-charges",
+                  "Description": "[b]SK[/b] ● [AAFFAA]Regular[-] \n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 4-4\n[b]CC[/b]: 16\n[b]BS[/b]: 12\n[b]PH[/b]: 11\n[b]WIP[/b]: 14\n[b]ARM[/b]: 0\n[b]BTS[/b]: 0\n[B]VITA[/B]: 1\n[b]S[/b]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nRifle ● Light Shotgun ● Flash Pulse ● Shock Mines ● D-Charges ● Silenced Pistol ● CC Weapon [-]\n[ddddff][sub]----------Skills----------\n[/sub]\nSurprise Attack (-3) ● BS Attack (Shock) ● Camouflage ● Infiltration ● Mimetism (-3) ● Stealth ● Terrain (Total) ● Religious Troop ● Forward Observer [-]\n[20014c][-]\n",
                   "GMNotes": "",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -740,8 +740,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "[E6DA9B]FARZAN FO, BS Attack (Shock)[-] Rf+LSG, Mines, Flash",
-                  "Description": "Painted by Perzan @Hortwerth\n\n[b]SK[/b] ● [AAFFAA]Regular[-] \n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 4-4\n[b]CC[/b]: 16\n[b]BS[/b]: 12\n[b]PH[/b]: 11\n[b]WIP[/b]: 14\n[b]ARM[/b]: 0\n[b]BTS[/b]: 0\n[B]VITA[/B]: 1\n[b]S[/b]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nRifle ● Light Shotgun ● Flash Pulse ● Shock Mines ● D-Charges ● Pistol ● CC Weapon [-]\n[ddddff][sub]----------Skills----------\n[/sub]\nSurprise Attack (-3) ● BS Attack (Shock) ● Camouflage ● Infiltration ● Mimetism (-3) ● Stealth ● Terrain (Total) ● Religious Troop ● Forward Observer [-]\n[20014c][-]\n",
+                  "Nickname": "[E6DA9B]FARZAN FO[-] Rf, LSG, Shock Mines, FlashP, D-charges",
+                  "Description": "[b]SK[/b] ● [AAFFAA]Regular[-] \n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 4-4\n[b]CC[/b]: 16\n[b]BS[/b]: 12\n[b]PH[/b]: 11\n[b]WIP[/b]: 14\n[b]ARM[/b]: 0\n[b]BTS[/b]: 0\n[B]VITA[/B]: 1\n[b]S[/b]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nRifle ● Light Shotgun ● Flash Pulse ● Shock Mines ● D-Charges ● Silenced Pistol ● CC Weapon [-]\n[ddddff][sub]----------Skills----------\n[/sub]\nSurprise Attack (-3) ● BS Attack (Shock) ● Camouflage ● Infiltration ● Mimetism (-3) ● Stealth ● Terrain (Total) ● Religious Troop ● Forward Observer [-]\n[20014c][-]\n",
                   "GMNotes": "",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -1165,8 +1165,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "[E6DA9B] SHUJAE[-] Specialist, SMG, Flammenspeer, E/M Mines",
-                  "Description": "[b]SK[/b] ● Cube ● [AAFFAA]Regular[-]\n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 4-4\n[b]CC[/b]: 17\n[b]BS[/b]: 13\n[b]PH[/b]: 10\n[b]WIP[/b]: 14\n[b]ARM[/b]: 1\n[b]BTS[/b]: 3\n[B]VITA[/B]: 1\n[B]S[/B]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nSubmachine Gun ● Flammenspeer ● E/M Mines ● Breaker Pistol ● CC Weapon[-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nReligious Troop ● Stealth ● Mimetism(-6) ● Dodge(+3) ● Terrain(Total) ● Forward Deployment(+8\") ● Specialist Operative[-]\n[000191][-][00060B][-][000001][-][000001][-][000003][-]",
+                  "Nickname": "[E6DA9B] SHUJAE[-] AP Rfl, LSG, D-Charges",
+                  "Description": "[b]SK[/b] ● Cube ● [AAFFAA]Regular[-]\n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 4-4\n[b]CC[/b]: 17\n[b]BS[/b]: 13\n[b]PH[/b]: 10\n[b]WIP[/b]: 14\n[b]ARM[/b]: 1\n[b]BTS[/b]: 3\n[B]VITA[/B]: 1\n[B]S[/B]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nAP Rifle ● Light Shotgun ● D-Charges ● Breaker Pistol ● CC Weapon[-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nReligious Troop ● Stealth ● Mimetism(-6) ● Surprise Attack(-3) ● Hidden Deployment ● Terrain(Total) ● Forward Deployment(+8\") ● Specialist Operative[-]\n[000191][sub]----------Equipment ---------\n[/sub]\nBangbomb(+4)[-][00060B][-][000001][-][000001][-][000003][-]",
                   "GMNotes": "",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -1274,8 +1274,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "[E6DA9B] SHUJAE[-] Specialist, SMG, Flammenspeer, E/M Mines",
-                  "Description": "[b]SK[/b] ● Cube ● [AAFFAA]Regular[-]\n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 4-4\n[b]CC[/b]: 17\n[b]BS[/b]: 13\n[b]PH[/b]: 10\n[b]WIP[/b]: 14\n[b]ARM[/b]: 1\n[b]BTS[/b]: 3\n[B]VITA[/B]: 1\n[B]S[/B]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nSubmachine Gun ● Flammenspeer ● E/M Mines ● Breaker Pistol ● CC Weapon[-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nReligious Troop ● Stealth ● Mimetism(-6) ● Dodge(+3) ● Terrain(Total) ● Forward Deployment(+8\") ● Specialist Operative[-]\n[000191][-][00060B][-][000001][-][000001][-][000003][-]",
+                  "Nickname": "[E6DA9B] SHUJAE[-] BSG, Shock Mines (minelayer x2)",
+                  "Description": "[b]SK[/b] ● Cube ● [AAFFAA]Regular[-]\n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 4-4\n[b]CC[/b]: 17\n[b]BS[/b]: 13\n[b]PH[/b]: 10\n[b]WIP[/b]: 14\n[b]ARM[/b]: 1\n[b]BTS[/b]: 3\n[B]VITA[/B]: 1\n[B]S[/B]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nBoarding Shotgun ● Shock Mines ● Breaker Pistol ● CC Weapon[-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nReligious Troop ● Stealth ● Mimetism(-6) ● Surprise Attack(-3) ● Hidden Deployment ● Terrain(Total) ● Forward Deployment(+8\") ● Specialist Operative[-]\n[000191][sub]----------Equipment ---------\n[/sub]\nBangbomb(+4)[-][00060B][-][000001][-][000001][-][000003][-]",
                   "GMNotes": "",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -1383,8 +1383,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "[E6DA9B] SHUJAE[-] Specialist, SMG, Flammenspeer, E/M Mines",
-                  "Description": "[b]SK[/b] ● Cube ● [AAFFAA]Regular[-]\n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 4-4\n[b]CC[/b]: 17\n[b]BS[/b]: 13\n[b]PH[/b]: 10\n[b]WIP[/b]: 14\n[b]ARM[/b]: 1\n[b]BTS[/b]: 3\n[B]VITA[/B]: 1\n[B]S[/B]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nSubmachine Gun ● Flammenspeer ● E/M Mines ● Breaker Pistol ● CC Weapon[-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nReligious Troop ● Stealth ● Mimetism(-6) ● Dodge(+3) ● Terrain(Total) ● Forward Deployment(+8\") ● Specialist Operative[-]\n[000191][-][00060B][-][000001][-][000001][-][000003][-]",
+                  "Nickname": "[E6DA9B] SHUJAE[-] SMG, Flammenspeer, E/M Mines (minelayer x2)",
+                  "Description": "[b]SK[/b] ● Cube ● [AAFFAA]Regular[-]\n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 4-4\n[b]CC[/b]: 17\n[b]BS[/b]: 13\n[b]PH[/b]: 10\n[b]WIP[/b]: 14\n[b]ARM[/b]: 1\n[b]BTS[/b]: 3\n[B]VITA[/B]: 1\n[B]S[/B]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nSMG ● Flammenspeer ● E/M Mines ● Breaker Pistol ● CC Weapon[-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nReligious Troop ● Stealth ● Mimetism(-6) ● Surprise Attack(-3) ● Hidden Deployment ● Terrain(Total) ● Forward Deployment(+8\") ● Specialist Operative[-]\n[000191][sub]----------Equipment ---------\n[/sub]\nBangbomb(+4)[-][00060B][-][000001][-][000001][-][000003][-]",
                   "GMNotes": "",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -1492,8 +1492,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "[E6DA9B] SHUJAE[-] Specialist, SMG, Flammenspeer, E/M Mines",
-                  "Description": "[b]SK[/b] ● Cube ● [AAFFAA]Regular[-]\n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 4-4\n[b]CC[/b]: 17\n[b]BS[/b]: 13\n[b]PH[/b]: 10\n[b]WIP[/b]: 14\n[b]ARM[/b]: 1\n[b]BTS[/b]: 3\n[B]VITA[/B]: 1\n[B]S[/B]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nSubmachine Gun ● Flammenspeer ● E/M Mines ● Breaker Pistol ● CC Weapon[-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nReligious Troop ● Stealth ● Mimetism(-6) ● Dodge(+3) ● Terrain(Total) ● Forward Deployment(+8\") ● Specialist Operative[-]\n[000191][-][00060B][-][000001][-][000001][-][000003][-]",
+                  "Nickname": "[E6DA9B] SHUJAE[-] Viral Rfl, LSG, D-Charges",
+                  "Description": "[b]SK[/b] ● Cube ● [AAFFAA]Regular[-]\n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 4-4\n[b]CC[/b]: 17\n[b]BS[/b]: 13\n[b]PH[/b]: 10\n[b]WIP[/b]: 14\n[b]ARM[/b]: 1\n[b]BTS[/b]: 3\n[B]VITA[/B]: 1\n[B]S[/B]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nViral Rifle ● Light Shotgun ● D-Charges ● Breaker Pistol ● CC Weapon[-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nReligious Troop ● Stealth ● Mimetism(-6) ● Surprise Attack(-3) ● Hidden Deployment ● Terrain(Total) ● Forward Deployment(+8\") ● Specialist Operative[-]\n[000191][sub]----------Equipment ---------\n[/sub]\nBangbomb(+4)[-][00060B][-][000001][-][000001][-][000003][-]",
                   "GMNotes": "",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -1918,7 +1918,7 @@
                     "scaleZ": 1.0
                   },
                   "Nickname": "[E6DA9B]ALl-DJABELL[-] Rf, LSG, Smoke",
-                  "Description": "Painted by Perzan @Hortwerth\n\n[b]SK[/b] ● [AAFFAA]Regular[-] \n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 4-4\n[b]CC[/b]: 23\n[b]BS[/b]: 12\n[b]PH[/b]: 13\n[b]WIP[/b]: 15\n[b]ARM[/b]: 1\n[b]BTS[/b]: 0\n[B]VITA[/B]: 1\n[b]S[/b]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nRifle ● Light Shotgun ● Smoke Grenades ● Pistol ● Viral CC Weapon [-]\n[ddddff][sub]----------Skills----------\n[/sub]\nMartial Arts L4 ● BS Attack (Shock) ● Surprise Attack (-3) ● Dodge (+1\") ● Stealth ● Impersonation ● Terrain (Total) ● Religious Troop [-]\n[00014f][-]",
+                  "Description": "[b]SK[/b] ● [AAFFAA]Regular[-] \n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 4-4\n[b]CC[/b]: 23\n[b]BS[/b]: 12\n[b]PH[/b]: 13\n[b]WIP[/b]: 15\n[b]ARM[/b]: 1\n[b]BTS[/b]: 0\n[B]VITA[/B]: 1\n[b]S[/b]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nRifle ● Light Shotgun ● Smoke Grenades ● Silenced Pistol ● Viral CC Weapon (PS=5) [-]\n[ddddff][sub]----------Skills----------\n[/sub]\nMartial Arts L4 ● BS Attack (Continuous Damage) ● Surprise Attack (-3) ● Climbing Plus ● Dodge (+2\") ● Stealth ● Impersonation ● Terrain (Total) ● Religious Troop [-]\n[00014f][-]",
                   "GMNotes": "",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -2130,8 +2130,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "[E6DA9B]FIDAY[-] Rf, LSG, Smoke, DA CCW, Shock Mines",
-                  "Description": "Painted By: trox\r\n\r\n[b]SK[/b] ● [AAFFAA]Regular[-] \r\n[sub]---------Attributes-------\r\n[/sub]\r\n[b]MOV[/b]: 4-4\r\n[b]CC[/b]: 23\r\n[b]BS[/b]: 11\r\n[b]PH[/b]: 12\r\n[b]WIP[/b]: 15\r\n[b]ARM[/b]: 1\r\n[b]BTS[/b]: 0\r\n[B]VITA[/B]: 1\r\n[b]S[/b]: 2\r\n[ffdddd][sub]----------Weapons---------\r\n[/sub]\r\nRifle ● Light Shotgun ● Smoke Grenades ● Pistol ● Shock Mines ● DA CC Weapon [-]\r\n[ddddff][sub]----------Skills----------\r\n[/sub]\r\nMartial Arts L3 ● Surprise Attack (-3) ● Dodge (+1\") ● Stealth ● Impersonation ● Terrain (Total) ● Religious Troop [-]\r\n[100138][-]",
+                  "Nickname": "[E6DA9B]FIDAY[-] BSG, Smoke",
+                  "Description": "[b]SK[/b] ● [AAFFAA]Regular[-] \r\n[sub]---------Attributes-------\r\n[/sub]\r\n[b]MOV[/b]: 4-4\r\n[b]CC[/b]: 23\r\n[b]BS[/b]: 11\r\n[b]PH[/b]: 12\r\n[b]WIP[/b]: 15\r\n[b]ARM[/b]: 1\r\n[b]BTS[/b]: 0\r\n[B]VITA[/B]: 1\r\n[b]S[/b]: 2\r\n[ffdddd][sub]----------Weapons---------\r\n[/sub]\r\nBoarding Shotgun ● Smoke Grenades ● Pistol ● DA CC Weapon [-]\r\n[ddddff][sub]----------Skills----------\r\n[/sub]\r\nMartial Arts L3 ● Surprise Attack (-3) ● Dodge (+1\") ● Stealth ● Impersonation ● Terrain (Total) ● Religious Troop [-]\r\n[100138][-]",
                   "GMNotes": "",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -2343,8 +2343,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "[E6DA9B]FIDAY[-] Rf, LSG, Smoke, Mines, DACCW",
-                  "Description": "Painted by Perzan @Hortwerth\n\n[b]SK[/b] ● [AAFFAA]Regular[-] \n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 4-4\n[b]CC[/b]: 23\n[b]BS[/b]: 11\n[b]PH[/b]: 12\n[b]WIP[/b]: 15\n[b]ARM[/b]: 1\n[b]BTS[/b]: 0\n[B]VITA[/B]: 1\n[b]S[/b]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nRifle ● Light Shotgun ● Shock Mines ● Smoke Grenades ● Pistol ● DA CC Weapon [-]\n[ddddff][sub]----------Skills----------\n[/sub]\nMartial Arts L3 ● Surprise Attack (-3) ● Dodge (+1\") ● Stealth ● Impersonation ● Terrain (Total) ● Religious Troop [-]\n[200138][-]",
+                  "Nickname": "[E6DA9B]FIDAY[-] BSG, Smoke",
+                  "Description": "[b]SK[/b] ● [AAFFAA]Regular[-] \r\n[sub]---------Attributes-------\r\n[/sub]\r\n[b]MOV[/b]: 4-4\r\n[b]CC[/b]: 23\r\n[b]BS[/b]: 11\r\n[b]PH[/b]: 12\r\n[b]WIP[/b]: 15\r\n[b]ARM[/b]: 1\r\n[b]BTS[/b]: 0\r\n[B]VITA[/B]: 1\r\n[b]S[/b]: 2\r\n[ffdddd][sub]----------Weapons---------\r\n[/sub]\r\nBoarding Shotgun ● Smoke Grenades ● Pistol ● DA CC Weapon [-]\r\n[ddddff][sub]----------Skills----------\r\n[/sub]\r\nMartial Arts L3 ● Surprise Attack (-3) ● Dodge (+1\") ● Stealth ● Impersonation ● Terrain (Total) ● Religious Troop [-]\r\n[100138][-]",
                   "GMNotes": "",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -2556,221 +2556,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "[E6DA9B]FIDAY[-] Rf, LSG, Smoke, DA CCW, Shock Mines",
-                  "Description": "Painted By: trox\r\n\r\n[b]SK[/b] ● [AAFFAA]Regular[-] \r\n[sub]---------Attributes-------\r\n[/sub]\r\n[b]MOV[/b]: 4-4\r\n[b]CC[/b]: 23\r\n[b]BS[/b]: 11\r\n[b]PH[/b]: 12\r\n[b]WIP[/b]: 15\r\n[b]ARM[/b]: 1\r\n[b]BTS[/b]: 0\r\n[B]VITA[/B]: 1\r\n[b]S[/b]: 2\r\n[ffdddd][sub]----------Weapons---------\r\n[/sub]\r\nRifle ● Light Shotgun ● Smoke Grenades ● Pistol ● Shock Mines ● DA CC Weapon [-]\r\n[ddddff][sub]----------Skills----------\r\n[/sub]\r\nMartial Arts L3 ● Surprise Attack (-3) ● Dodge (+1\") ● Stealth ● Impersonation ● Terrain (Total) ● Religious Troop [-]\r\n[100138][-]",
-                  "GMNotes": "",
-                  "AltLookAngle": {
-                    "x": 0.0,
-                    "y": 0.0,
-                    "z": 0.0
-                  },
-                  "ColorDiffuse": {
-                    "r": 0.9019608,
-                    "g": 0.854901969,
-                    "b": 0.607843161
-                  },
-                  "LayoutGroupSortIndex": 0,
-                  "Value": 0,
-                  "Locked": false,
-                  "Grid": true,
-                  "Snap": true,
-                  "IgnoreFoW": false,
-                  "MeasureMovement": false,
-                  "DragSelectable": true,
-                  "Autoraise": true,
-                  "Sticky": true,
-                  "Tooltip": true,
-                  "GridProjection": false,
-                  "HideWhenFaceDown": false,
-                  "Hands": false,
-                  "CustomAssetbundle": {
-                    "AssetbundleURL": "https://steamusercontent-a.akamaihd.net/ugc/1056604690734261490/0C8C2E7715C172971875BF5B395173C5B9398A38/",
-                    "AssetbundleSecondaryURL": "",
-                    "MaterialIndex": 0,
-                    "TypeIndex": 1,
-                    "LoopingEffectIndex": 0
-                  },
-                  "LuaScript": "",
-                  "LuaScriptState": "",
-                  "XmlUI": "",
-                  "States": {
-                    "2": {
-                      "GUID": "af7ebf",
-                      "Name": "Custom_Assetbundle",
-                      "Transform": {
-                        "posX": -2.96093535,
-                        "posY": 0.960000038,
-                        "posZ": -11.9993057,
-                        "rotX": -2.2825323E-05,
-                        "rotY": 209.982391,
-                        "rotZ": -1.979743E-05,
-                        "scaleX": 1.0,
-                        "scaleY": 1.0,
-                        "scaleZ": 1.0
-                      },
-                      "Nickname": "[DA1917]Impersonation L2[-]",
-                      "Description": "painted by Zapp\n\nFriendly Model\nNo Discover Mods",
-                      "GMNotes": "",
-                      "AltLookAngle": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                      },
-                      "ColorDiffuse": {
-                        "r": 0.9019608,
-                        "g": 0.854901969,
-                        "b": 0.607843161
-                      },
-                      "LayoutGroupSortIndex": 0,
-                      "Value": 0,
-                      "Locked": false,
-                      "Grid": true,
-                      "Snap": true,
-                      "IgnoreFoW": false,
-                      "MeasureMovement": false,
-                      "DragSelectable": true,
-                      "Autoraise": true,
-                      "Sticky": true,
-                      "Tooltip": true,
-                      "GridProjection": false,
-                      "HideWhenFaceDown": false,
-                      "Hands": false,
-                      "CustomAssetbundle": {
-                        "AssetbundleURL": "https://steamusercontent-a.akamaihd.net/ugc/1016070398286825115/2BBCD7BA8E2085342C05FAB15347A7FCB2AD5976/",
-                        "AssetbundleSecondaryURL": "",
-                        "MaterialIndex": 0,
-                        "TypeIndex": 0,
-                        "LoopingEffectIndex": 0
-                      },
-                      "LuaScript": "",
-                      "LuaScriptState": "",
-                      "XmlUI": ""
-                    },
-                    "3": {
-                      "GUID": "8dac58",
-                      "Name": "Custom_Assetbundle",
-                      "Transform": {
-                        "posX": -2.96093535,
-                        "posY": 0.9599997,
-                        "posZ": -11.9993057,
-                        "rotX": -4.919358E-06,
-                        "rotY": 209.982391,
-                        "rotZ": -7.850089E-07,
-                        "scaleX": 1.0,
-                        "scaleY": 1.0,
-                        "scaleZ": 1.0
-                      },
-                      "Nickname": "[8BD1EC]Impersonation L1[-]",
-                      "Description": "Painted by Perzan @Hortwerth\n\n-6 Discover MOD.",
-                      "GMNotes": "",
-                      "AltLookAngle": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                      },
-                      "ColorDiffuse": {
-                        "r": 0.9019608,
-                        "g": 0.854901969,
-                        "b": 0.607843161
-                      },
-                      "LayoutGroupSortIndex": 0,
-                      "Value": 0,
-                      "Locked": false,
-                      "Grid": true,
-                      "Snap": true,
-                      "IgnoreFoW": false,
-                      "MeasureMovement": false,
-                      "DragSelectable": true,
-                      "Autoraise": true,
-                      "Sticky": true,
-                      "Tooltip": true,
-                      "GridProjection": false,
-                      "HideWhenFaceDown": false,
-                      "Hands": false,
-                      "CustomAssetbundle": {
-                        "AssetbundleURL": "https://steamusercontent-a.akamaihd.net/ugc/1254763972106470262/15675A7F8C416804F2A73FC3C0173E98F679E17F/",
-                        "AssetbundleSecondaryURL": "",
-                        "MaterialIndex": 2,
-                        "TypeIndex": 1,
-                        "LoopingEffectIndex": 0
-                      },
-                      "LuaScript": "",
-                      "LuaScriptState": "",
-                      "XmlUI": ""
-                    },
-                    "4": {
-                      "GUID": "12ae1e",
-                      "Name": "Custom_Model",
-                      "Transform": {
-                        "posX": -3.04089284,
-                        "posY": 0.960000634,
-                        "posZ": -10.2669888,
-                        "rotX": -1.77139846E-05,
-                        "rotY": 209.982361,
-                        "rotZ": 0.000153085683,
-                        "scaleX": 1.0,
-                        "scaleY": 1.0,
-                        "scaleZ": 1.0
-                      },
-                      "Nickname": "Silhouette 2",
-                      "Description": "",
-                      "GMNotes": "",
-                      "AltLookAngle": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                      },
-                      "ColorDiffuse": {
-                        "r": 0.9019608,
-                        "g": 0.854901969,
-                        "b": 0.607843161
-                      },
-                      "LayoutGroupSortIndex": 0,
-                      "Value": 0,
-                      "Locked": false,
-                      "Grid": true,
-                      "Snap": true,
-                      "IgnoreFoW": false,
-                      "MeasureMovement": false,
-                      "DragSelectable": true,
-                      "Autoraise": true,
-                      "Sticky": true,
-                      "Tooltip": true,
-                      "GridProjection": false,
-                      "HideWhenFaceDown": false,
-                      "Hands": false,
-                      "CustomMesh": {
-                        "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/1762566040434517424/7BD92CCD59122AA034293F6D291C3B4227CF46CC/",
-                        "DiffuseURL": "",
-                        "NormalURL": "",
-                        "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/1744573743622198051/6E77F14FEBB2339E041E526394205FF61110D508/",
-                        "Convex": true,
-                        "MaterialIndex": 3,
-                        "TypeIndex": 1,
-                        "CastShadows": true
-                      },
-                      "LuaScript": "",
-                      "LuaScriptState": "",
-                      "XmlUI": ""
-                    }
-                  }
-                },
-                {
-                  "GUID": "8ab06a",
-                  "Name": "Custom_Assetbundle",
-                  "Transform": {
-                    "posX": 7.137075,
-                    "posY": 2.82139754,
-                    "posZ": -10.6006546,
-                    "rotX": 7.758086E-05,
-                    "rotY": 209.982376,
-                    "rotZ": 0.000162504453,
-                    "scaleX": 1.0,
-                    "scaleY": 1.0,
-                    "scaleZ": 1.0
-                  },
-                  "Nickname": "[E6DA9B]FIDAY[-] Rf, LSG, Smoke, DA CCW, Shock Mines",
-                  "Description": "Painted By: trox\r\n\r\n[b]SK[/b] ● [AAFFAA]Regular[-] \r\n[sub]---------Attributes-------\r\n[/sub]\r\n[b]MOV[/b]: 4-4\r\n[b]CC[/b]: 23\r\n[b]BS[/b]: 11\r\n[b]PH[/b]: 12\r\n[b]WIP[/b]: 15\r\n[b]ARM[/b]: 1\r\n[b]BTS[/b]: 0\r\n[B]VITA[/B]: 1\r\n[b]S[/b]: 2\r\n[ffdddd][sub]----------Weapons---------\r\n[/sub]\r\nRifle ● Light Shotgun ● Smoke Grenades ● Pistol ● Shock Mines ● DA CC Weapon [-]\r\n[ddddff][sub]----------Skills----------\r\n[/sub]\r\nMartial Arts L3 ● Surprise Attack (-3) ● Dodge (+1\") ● Stealth ● Impersonation ● Terrain (Total) ● Religious Troop [-]\r\n[100138][-]",
+                  "Nickname": "[E6DA9B]FIDAY[-] Rfl, LSG, Smoke",
+                  "Description": "[b]SK[/b] ● [AAFFAA]Regular[-] \r\n[sub]---------Attributes-------\r\n[/sub]\r\n[b]MOV[/b]: 4-4\r\n[b]CC[/b]: 23\r\n[b]BS[/b]: 11\r\n[b]PH[/b]: 12\r\n[b]WIP[/b]: 15\r\n[b]ARM[/b]: 1\r\n[b]BTS[/b]: 0\r\n[B]VITA[/B]: 1\r\n[b]S[/b]: 2\r\n[ffdddd][sub]----------Weapons---------\r\n[/sub]\r\nRifle ● Light Shotgun ● Smoke Grenades ● Pistol ● DA CC Weapon [-]\r\n[ddddff][sub]----------Skills----------\r\n[/sub]\r\nMartial Arts L3 ● Surprise Attack (-3) ● Dodge (+1\") ● Stealth ● Impersonation ● Terrain (Total) ● Religious Troop [-]\r\n[100138][-]",
                   "GMNotes": "",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -2982,8 +2769,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "[E6DA9B]FIDAY[-] Rf, LSG, Smoke, Mines, DACCW",
-                  "Description": "Painted by Perzan @Hortwerth\n\n[b]SK[/b] ● [AAFFAA]Regular[-] \n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 4-4\n[b]CC[/b]: 23\n[b]BS[/b]: 11\n[b]PH[/b]: 12\n[b]WIP[/b]: 15\n[b]ARM[/b]: 1\n[b]BTS[/b]: 0\n[B]VITA[/B]: 1\n[b]S[/b]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nRifle ● Light Shotgun ● Shock Mines ● Smoke Grenades ● Pistol ● DA CC Weapon [-]\n[ddddff][sub]----------Skills----------\n[/sub]\nMartial Arts L3 ● Surprise Attack (-3) ● Dodge (+1\") ● Stealth ● Impersonation ● Terrain (Total) ● Religious Troop [-]\n[200138][-]",
+                  "Nickname": "[E6DA9B]FIDAY[-] Rfl, LSG, Smoke",
+                  "Description": "[b]SK[/b] ● [AAFFAA]Regular[-] \r\n[sub]---------Attributes-------\r\n[/sub]\r\n[b]MOV[/b]: 4-4\r\n[b]CC[/b]: 23\r\n[b]BS[/b]: 11\r\n[b]PH[/b]: 12\r\n[b]WIP[/b]: 15\r\n[b]ARM[/b]: 1\r\n[b]BTS[/b]: 0\r\n[B]VITA[/B]: 1\r\n[b]S[/b]: 2\r\n[ffdddd][sub]----------Weapons---------\r\n[/sub]\r\nRifle ● Light Shotgun ● Smoke Grenades ● Pistol ● DA CC Weapon [-]\r\n[ddddff][sub]----------Skills----------\r\n[/sub]\r\nMartial Arts L3 ● Surprise Attack (-3) ● Dodge (+1\") ● Stealth ● Impersonation ● Terrain (Total) ● Religious Troop [-]\r\n[100138][-]",
                   "GMNotes": "",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -3134,6 +2921,219 @@
                         "rotX": 8.784862E-06,
                         "rotY": 180.001923,
                         "rotZ": -6.42739769E-06,
+                        "scaleX": 1.0,
+                        "scaleY": 1.0,
+                        "scaleZ": 1.0
+                      },
+                      "Nickname": "Silhouette 2",
+                      "Description": "",
+                      "GMNotes": "",
+                      "AltLookAngle": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                      },
+                      "ColorDiffuse": {
+                        "r": 0.9019608,
+                        "g": 0.854901969,
+                        "b": 0.607843161
+                      },
+                      "LayoutGroupSortIndex": 0,
+                      "Value": 0,
+                      "Locked": false,
+                      "Grid": true,
+                      "Snap": true,
+                      "IgnoreFoW": false,
+                      "MeasureMovement": false,
+                      "DragSelectable": true,
+                      "Autoraise": true,
+                      "Sticky": true,
+                      "Tooltip": true,
+                      "GridProjection": false,
+                      "HideWhenFaceDown": false,
+                      "Hands": false,
+                      "CustomMesh": {
+                        "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/1762566040434517424/7BD92CCD59122AA034293F6D291C3B4227CF46CC/",
+                        "DiffuseURL": "",
+                        "NormalURL": "",
+                        "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/1744573743622198051/6E77F14FEBB2339E041E526394205FF61110D508/",
+                        "Convex": true,
+                        "MaterialIndex": 3,
+                        "TypeIndex": 1,
+                        "CastShadows": true
+                      },
+                      "LuaScript": "",
+                      "LuaScriptState": "",
+                      "XmlUI": ""
+                    }
+                  }
+                },
+                {
+                  "GUID": "8ab06a",
+                  "Name": "Custom_Assetbundle",
+                  "Transform": {
+                    "posX": 7.137075,
+                    "posY": 2.82139754,
+                    "posZ": -10.6006546,
+                    "rotX": 7.758086E-05,
+                    "rotY": 209.982376,
+                    "rotZ": 0.000162504453,
+                    "scaleX": 1.0,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.0
+                  },
+                  "Nickname": "[E6DA9B]FIDAY[-] Rfl, LSG, Shock Mines, Smoke",
+                  "Description": "[b]SK[/b] ● [AAFFAA]Regular[-] \r\n[sub]---------Attributes-------\r\n[/sub]\r\n[b]MOV[/b]: 4-4\r\n[b]CC[/b]: 23\r\n[b]BS[/b]: 11\r\n[b]PH[/b]: 12\r\n[b]WIP[/b]: 15\r\n[b]ARM[/b]: 1\r\n[b]BTS[/b]: 0\r\n[B]VITA[/B]: 1\r\n[b]S[/b]: 2\r\n[ffdddd][sub]----------Weapons---------\r\n[/sub]\r\nRifle ● Light Shotgun ● Shock Mines ● Smoke Grenades ● Pistol ● DA CC Weapon [-]\r\n[ddddff][sub]----------Skills----------\r\n[/sub]\r\nMartial Arts L3 ● Surprise Attack (-3) ● Dodge (+1\") ● Stealth ● Impersonation ● Terrain (Total) ● Religious Troop [-]\r\n[100138][-]",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.9019608,
+                    "g": 0.854901969,
+                    "b": 0.607843161
+                  },
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": false,
+                  "Hands": false,
+                  "CustomAssetbundle": {
+                    "AssetbundleURL": "https://steamusercontent-a.akamaihd.net/ugc/1056604690734261490/0C8C2E7715C172971875BF5B395173C5B9398A38/",
+                    "AssetbundleSecondaryURL": "",
+                    "MaterialIndex": 0,
+                    "TypeIndex": 1,
+                    "LoopingEffectIndex": 0
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": "",
+                  "States": {
+                    "2": {
+                      "GUID": "af7ebf",
+                      "Name": "Custom_Assetbundle",
+                      "Transform": {
+                        "posX": -2.96093535,
+                        "posY": 0.960000038,
+                        "posZ": -11.9993057,
+                        "rotX": -2.2825323E-05,
+                        "rotY": 209.982391,
+                        "rotZ": -1.979743E-05,
+                        "scaleX": 1.0,
+                        "scaleY": 1.0,
+                        "scaleZ": 1.0
+                      },
+                      "Nickname": "[DA1917]Impersonation L2[-]",
+                      "Description": "painted by Zapp\n\nFriendly Model\nNo Discover Mods",
+                      "GMNotes": "",
+                      "AltLookAngle": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                      },
+                      "ColorDiffuse": {
+                        "r": 0.9019608,
+                        "g": 0.854901969,
+                        "b": 0.607843161
+                      },
+                      "LayoutGroupSortIndex": 0,
+                      "Value": 0,
+                      "Locked": false,
+                      "Grid": true,
+                      "Snap": true,
+                      "IgnoreFoW": false,
+                      "MeasureMovement": false,
+                      "DragSelectable": true,
+                      "Autoraise": true,
+                      "Sticky": true,
+                      "Tooltip": true,
+                      "GridProjection": false,
+                      "HideWhenFaceDown": false,
+                      "Hands": false,
+                      "CustomAssetbundle": {
+                        "AssetbundleURL": "https://steamusercontent-a.akamaihd.net/ugc/1016070398286825115/2BBCD7BA8E2085342C05FAB15347A7FCB2AD5976/",
+                        "AssetbundleSecondaryURL": "",
+                        "MaterialIndex": 0,
+                        "TypeIndex": 0,
+                        "LoopingEffectIndex": 0
+                      },
+                      "LuaScript": "",
+                      "LuaScriptState": "",
+                      "XmlUI": ""
+                    },
+                    "3": {
+                      "GUID": "8dac58",
+                      "Name": "Custom_Assetbundle",
+                      "Transform": {
+                        "posX": -2.96093535,
+                        "posY": 0.9599997,
+                        "posZ": -11.9993057,
+                        "rotX": -4.919358E-06,
+                        "rotY": 209.982391,
+                        "rotZ": -7.850089E-07,
+                        "scaleX": 1.0,
+                        "scaleY": 1.0,
+                        "scaleZ": 1.0
+                      },
+                      "Nickname": "[8BD1EC]Impersonation L1[-]",
+                      "Description": "Painted by Perzan @Hortwerth\n\n-6 Discover MOD.",
+                      "GMNotes": "",
+                      "AltLookAngle": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                      },
+                      "ColorDiffuse": {
+                        "r": 0.9019608,
+                        "g": 0.854901969,
+                        "b": 0.607843161
+                      },
+                      "LayoutGroupSortIndex": 0,
+                      "Value": 0,
+                      "Locked": false,
+                      "Grid": true,
+                      "Snap": true,
+                      "IgnoreFoW": false,
+                      "MeasureMovement": false,
+                      "DragSelectable": true,
+                      "Autoraise": true,
+                      "Sticky": true,
+                      "Tooltip": true,
+                      "GridProjection": false,
+                      "HideWhenFaceDown": false,
+                      "Hands": false,
+                      "CustomAssetbundle": {
+                        "AssetbundleURL": "https://steamusercontent-a.akamaihd.net/ugc/1254763972106470262/15675A7F8C416804F2A73FC3C0173E98F679E17F/",
+                        "AssetbundleSecondaryURL": "",
+                        "MaterialIndex": 2,
+                        "TypeIndex": 1,
+                        "LoopingEffectIndex": 0
+                      },
+                      "LuaScript": "",
+                      "LuaScriptState": "",
+                      "XmlUI": ""
+                    },
+                    "4": {
+                      "GUID": "12ae1e",
+                      "Name": "Custom_Model",
+                      "Transform": {
+                        "posX": -3.04089284,
+                        "posY": 0.960000634,
+                        "posZ": -10.2669888,
+                        "rotX": -1.77139846E-05,
+                        "rotY": 209.982361,
+                        "rotZ": 0.000153085683,
                         "scaleX": 1.0,
                         "scaleY": 1.0,
                         "scaleZ": 1.0
