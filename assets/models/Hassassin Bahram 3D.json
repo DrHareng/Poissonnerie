@@ -5534,8 +5534,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "[E6DA9B]Shakush[-] HMG, Heavy Flamethrower",
-                  "Description": "[b]TAG[/b] ● Cube ● [AAFFAA]Regular[-] ● Hackable\r\n[sub]---------Attributes-------\r\n[/sub]\r\n[b]MOV[/b]: 6-2\r\n[b]CC[/b]: 17\r\n[b]BS[/b]: 14[b]TAG[/b] ● Cube ● [AAFFAA]Regular[-] ● Hackable\n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 6-2\n[b]CC[/b]: 17\n[b]BS[/b]: 14\n[b]PH[/b]: 14\n[b]WIP[/b]: 14\n[b]ARM[/b]: 6\n[b]BTS[/b]: 6\n[B]STR[/B]: 3\n[B]S[/B]: 6\n[ffdddd][sub]----------Weapons---------\n[/sub]\nHeavy Machine Gun ● Heavy Flamethrower ● AP CC Weapon[-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nCourage ● Gizmokit(PH=11) ● Immunity(Shock) ● Tactical Awareness ● BS Attack(+1 Dam) ● Dodge(PH=11)[-]\n[000191][-][00060A][-][000001][-][000001][-][000001][-]\r\n[b]PH[/b]: 14\r\n[b]WIP[/b]: 14\r\n[b]ARM[/b]: 6\r\n[b]BTS[/b]: 6\r\n[B]STR[/B]: 3\r\n[B]S[/B]: 6\r\n[ffdddd][sub]----------Weapons---------\r\n[/sub]\r\nHeavy Machine Gun ● Heavy Flamethrower ● AP CC Weapon[-]\r\n[ddddff][sub]----------Skills ---------\r\n[/sub]\r\nCourage ● Gizmokit(PH=11) ● Immunity(Shock) ● Tactical Awareness ● BS Attack(+1 Dam) ● Dodge(PH=11)[-]\r\n[000191][-][000135][-][000001][-][000001][-][000002][-]",
+                  "Nickname": "[E6DA9B]Shakush[-] HMG (Continuous), Heavy Flamethrower",
+                  "Description": "[b]TAG[/b] ● Cube ● [AAFFAA]Regular[-] ● Hackable\r\n[sub]---------Attributes-------\r\n[/sub]\r\n[b]MOV[/b]: 6-2\n[b]CC[/b]: 17\n[b]BS[/b]: 14\n[b]PH[/b]: 14\n[b]WIP[/b]: 14\n[b]ARM[/b]: 6\n[b]BTS[/b]: 6\n[B]STR[/B]: 3\n[B]S[/B]: 6\n[ffdddd][sub]----------Weapons---------\n[/sub]\nHeavy Machine Gun (Continuous Damage) ● Heavy Flamethrower ● AP CC Weapon[-]\n[ddffdd][sub]---------Equipment--------\n[/sub]\nJANDAB[-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nCourage ● Gizmokit(PH=11) ● Immunity(Shock) ● Tactical Awareness ● BS Attack(SR-1) ● Dodge(PH=11)[-]\n[000191][-][00060A][-][000001][-][000001][-][000001][-]\r\n[b]PH[/b]: 14\r\n[b]WIP[/b]: 14\r\n[b]ARM[/b]: 6\r\n[b]BTS[/b]: 6\r\n[B]STR[/B]: 3\r\n[B]S[/B]: 6\r\n[ffdddd][sub]----------Weapons---------\r\n[/sub]\r\nHeavy Machine Gun ● Heavy Flamethrower ● AP CC Weapon[-]\r\n[ddddff][sub]----------Skills ---------\r\n[/sub]\r\nCourage ● Gizmokit(PH=11) ● Immunity(Shock) ● Tactical Awareness ● BS Attack(SR-1) ● Dodge(PH=11)[-]\r\n[000191][-][000135][-][000001][-][000001][-][000002][-]",
                   "GMNotes": "",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -5643,8 +5643,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "[E6DA9B]Shakush[-] HMG, Heavy Flamethrower",
-                  "Description": "[b]TAG[/b] ● Cube ● [AAFFAA]Regular[-] ● Hackable\r\n[sub]---------Attributes-------\r\n[/sub]\r\n[b]MOV[/b]: 6-2\r\n[b]CC[/b]: 17\r\n[b]BS[/b]: 14[b]TAG[/b] ● Cube ● [AAFFAA]Regular[-] ● Hackable\n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 6-2\n[b]CC[/b]: 17\n[b]BS[/b]: 14\n[b]PH[/b]: 14\n[b]WIP[/b]: 14\n[b]ARM[/b]: 6\n[b]BTS[/b]: 6\n[B]STR[/B]: 3\n[B]S[/B]: 6\n[ffdddd][sub]----------Weapons---------\n[/sub]\nHeavy Machine Gun ● Heavy Flamethrower ● AP CC Weapon[-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nCourage ● Gizmokit(PH=11) ● Immunity(Shock) ● Tactical Awareness ● BS Attack(+1 Dam) ● Dodge(PH=11)[-]\n[000191][-][00060A][-][000001][-][000001][-][000001][-]\r\n[b]PH[/b]: 14\r\n[b]WIP[/b]: 14\r\n[b]ARM[/b]: 6\r\n[b]BTS[/b]: 6\r\n[B]STR[/B]: 3\r\n[B]S[/B]: 6\r\n[ffdddd][sub]----------Weapons---------\r\n[/sub]\r\nHeavy Machine Gun ● Heavy Flamethrower ● AP CC Weapon[-]\r\n[ddddff][sub]----------Skills ---------\r\n[/sub]\r\nCourage ● Gizmokit(PH=11) ● Immunity(Shock) ● Tactical Awareness ● BS Attack(+1 Dam) ● Dodge(PH=11)[-]\r\n[000191][-][000135][-][000001][-][000001][-][000002][-]",
+                  "Nickname": "[E6DA9B]Shakush[-] AP Spitfire, Heavy Flamethrower",
+                  "Description": "[b]TAG[/b] ● Cube ● [AAFFAA]Regular[-] ● Hackable\r\n[sub]---------Attributes-------\r\n[/sub]\r\n[b]MOV[/b]: 6-2\n[b]CC[/b]: 17\n[b]BS[/b]: 14\n[b]PH[/b]: 14\n[b]WIP[/b]: 14\n[b]ARM[/b]: 6\n[b]BTS[/b]: 6\n[B]STR[/B]: 3\n[B]S[/B]: 6\n[ffdddd][sub]----------Weapons---------\n[/sub]\nAP Spitfire ● Heavy Flamethrower ● AP CC Weapon[-]\n[ddffdd][sub]---------Equipment--------\n[/sub]\nJANDAB[-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nCourage ● Gizmokit(PH=11) ● Immunity(Shock) ● Tactical Awareness ● BS Attack(SR-1) ● Dodge(PH=11)[-]\n[000191][-][00060A][-][000001][-][000001][-][000001][-]\r\n[b]PH[/b]: 14\r\n[b]WIP[/b]: 14\r\n[b]ARM[/b]: 6\r\n[b]BTS[/b]: 6\r\n[B]STR[/B]: 3\r\n[B]S[/B]: 6\r\n[ffdddd][sub]----------Weapons---------\r\n[/sub]\r\nHeavy Machine Gun ● Heavy Flamethrower ● AP CC Weapon[-]\r\n[ddddff][sub]----------Skills ---------\r\n[/sub]\r\nCourage ● Gizmokit(PH=11) ● Immunity(Shock) ● Tactical Awareness ● BS Attack(SR-1) ● Dodge(PH=11)[-]\r\n[000191][-][000135][-][000001][-][000001][-][000002][-]",
                   "GMNotes": "",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -5752,8 +5752,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "[E6DA9B]SHAKUSH[-] HMG, HFT proxy Azrail",
-                  "Description": "Painted by Perzan @Hortwerth\n\n[b]TAG[/b] ● Cube ● [AAFFAA]Regular[-] ● Hackable \n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 6-2\n[b]CC[/b]: 17\n[b]BS[/b]: 14\n[b]PH[/b]: 14\n[b]WIP[/b]: 14\n[b]ARM[/b]: 6\n[b]BTS[/b]: 6\n[B]STR[/B]: 3\n[b]S[/b]: 6\n[ffdddd][sub]----------Weapons---------\n[/sub]\nHeavy Machine Gun ● Heavy Flamethrower ● AP CC Weapon [-]\n[ddddff][sub]----------Skills----------\n[/sub]\nBS Attack (+1 Dam) ● Courage ● Dodge (PH=11) ● Fireteam: Duo ● Immunity (Shock) ● Tactical Awareness ● Gizmokit (PH=11) [-]\n[00060a][-]",
+                  "Nickname": "[E6DA9B]Shakush[-] HMG (Continuous), Heavy Flamethrower",
+                  "Description": "[b]TAG[/b] ● Cube ● [AAFFAA]Regular[-] ● Hackable\r\n[sub]---------Attributes-------\r\n[/sub]\r\n[b]MOV[/b]: 6-2\n[b]CC[/b]: 17\n[b]BS[/b]: 14\n[b]PH[/b]: 14\n[b]WIP[/b]: 14\n[b]ARM[/b]: 6\n[b]BTS[/b]: 6\n[B]STR[/B]: 3\n[B]S[/B]: 6\n[ffdddd][sub]----------Weapons---------\n[/sub]\nHeavy Machine Gun (Continuous Damage) ● Heavy Flamethrower ● AP CC Weapon[-]\n[ddffdd][sub]---------Equipment--------\n[/sub]\nJANDAB[-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nCourage ● Gizmokit(PH=11) ● Immunity(Shock) ● Tactical Awareness ● BS Attack(SR-1) ● Dodge(PH=11)[-]\n[000191][-][00060A][-][000001][-][000001][-][000001][-]\r\n[b]PH[/b]: 14\r\n[b]WIP[/b]: 14\r\n[b]ARM[/b]: 6\r\n[b]BTS[/b]: 6\r\n[B]STR[/B]: 3\r\n[B]S[/B]: 6\r\n[ffdddd][sub]----------Weapons---------\r\n[/sub]\r\nHeavy Machine Gun ● Heavy Flamethrower ● AP CC Weapon[-]\r\n[ddddff][sub]----------Skills ---------\r\n[/sub]\r\nCourage ● Gizmokit(PH=11) ● Immunity(Shock) ● Tactical Awareness ● BS Attack(SR-1) ● Dodge(PH=11)[-]\r\n[000191][-][000135][-][000001][-][000001][-][000002][-]",
                   "GMNotes": "",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -5871,8 +5871,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "[E6DA9B]SHAKUSH[-] HMG, HFT proxy Azrail",
-                  "Description": "Painted by Perzan @Hortwerth\n\n[b]TAG[/b] ● Cube ● [AAFFAA]Regular[-] ● Hackable \n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 6-2\n[b]CC[/b]: 17\n[b]BS[/b]: 14\n[b]PH[/b]: 14\n[b]WIP[/b]: 14\n[b]ARM[/b]: 6\n[b]BTS[/b]: 6\n[B]STR[/B]: 3\n[b]S[/b]: 6\n[ffdddd][sub]----------Weapons---------\n[/sub]\nHeavy Machine Gun ● Heavy Flamethrower ● AP CC Weapon [-]\n[ddddff][sub]----------Skills----------\n[/sub]\nBS Attack (+1 Dam) ● Courage ● Dodge (PH=11) ● Fireteam: Duo ● Immunity (Shock) ● Tactical Awareness ● Gizmokit (PH=11) [-]\n[00060a][-]",
+                  "Nickname": "[E6DA9B]Shakush[-] AP Spitfire, Heavy Flamethrower",
+                  "Description": "[b]TAG[/b] ● Cube ● [AAFFAA]Regular[-] ● Hackable\r\n[sub]---------Attributes-------\r\n[/sub]\r\n[b]MOV[/b]: 6-2\n[b]CC[/b]: 17\n[b]BS[/b]: 14\n[b]PH[/b]: 14\n[b]WIP[/b]: 14\n[b]ARM[/b]: 6\n[b]BTS[/b]: 6\n[B]STR[/B]: 3\n[B]S[/B]: 6\n[ffdddd][sub]----------Weapons---------\n[/sub]\nAP Spitfire ● Heavy Flamethrower ● AP CC Weapon[-]\n[ddffdd][sub]---------Equipment--------\n[/sub]\nJANDAB[-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nCourage ● Gizmokit(PH=11) ● Immunity(Shock) ● Tactical Awareness ● BS Attack(SR-1) ● Dodge(PH=11)[-]\n[000191][-][00060A][-][000001][-][000001][-][000001][-]\r\n[b]PH[/b]: 14\r\n[b]WIP[/b]: 14\r\n[b]ARM[/b]: 6\r\n[b]BTS[/b]: 6\r\n[B]STR[/B]: 3\r\n[B]S[/B]: 6\r\n[ffdddd][sub]----------Weapons---------\r\n[/sub]\r\nHeavy Machine Gun ● Heavy Flamethrower ● AP CC Weapon[-]\r\n[ddddff][sub]----------Skills ---------\r\n[/sub]\r\nCourage ● Gizmokit(PH=11) ● Immunity(Shock) ● Tactical Awareness ● BS Attack(SR-1) ● Dodge(PH=11)[-]\r\n[000191][-][000135][-][000001][-][000001][-][000002][-]",
                   "GMNotes": "",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -6349,7 +6349,7 @@
                     "scaleZ": 1.0
                   },
                   "Nickname": "[E6DA9B]SUNDUQBUT[-] Viral Rifle(+1B), Chain Rifle(+1B), Shock Mines",
-                  "Description": "[b]HI[/b] ● [AAFFAA]Regular[-] ● Hackable\n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 4-4\n[b]CC[/b]: 13\n[b]BS[/b]: 13\n[b]PH[/b]: 14\n[b]WIP[/b]: 12\n[b]ARM[/b]: 4\n[b]BTS[/b]: 3\n[B]STR[/B]: 2\n[B]S[/B]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nViral Rifle(+1B) ● Chain Rifle(+1B) ● Shock Mines ● Pistol ● CC Weapon[-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nCamouflage(1 Use) ● Courage ● Immunity(Shock) ● BS Attack(+1 Dam) ● Minelayer ● Surprise Attack(-3) ● Remote Presence ● Forward Deployment(+8\") ● Decoy(1)[-]\n[000191][-][000636][-][000001][-][000001][-][000003][-]",
+                  "Description": "[b]HI[/b] ● [AAFFAA]Regular[-] ● Hackable\n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 4-4\n[b]CC[/b]: 13\n[b]BS[/b]: 13\n[b]PH[/b]: 14\n[b]WIP[/b]: 12\n[b]ARM[/b]: 4\n[b]BTS[/b]: 3\n[B]STR[/B]: 2\n[B]S[/B]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nViral Rifle(+1B) ● Chain Rifle(+1B) ● Shock Mines ● Pistol ● CC Weapon[-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nCamouflage(1 Use) ● Courage ● Immunity(Shock) ● BS Attack(SR-1) ● Minelayer ● Surprise Attack(-3) ● Remote Presence ● Forward Deployment(+8\") ● Decoy(1)[-]\n[000191][-][000636][-][000001][-][000001][-][000003][-]",
                   "GMNotes": "",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -6457,8 +6457,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "[E6DA9B]SUNDUQBUT[-] Viral Rifle(+1B), Chain Rifle(+1B), Shock Mines",
-                  "Description": "[b]HI[/b] ● [AAFFAA]Regular[-] ● Hackable\n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 4-4\n[b]CC[/b]: 13\n[b]BS[/b]: 13\n[b]PH[/b]: 14\n[b]WIP[/b]: 12\n[b]ARM[/b]: 4\n[b]BTS[/b]: 3\n[B]STR[/B]: 2\n[B]S[/B]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nViral Rifle(+1B) ● Chain Rifle(+1B) ● Shock Mines ● Pistol ● CC Weapon[-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nCamouflage(1 Use) ● Courage ● Immunity(Shock) ● BS Attack(+1 Dam) ● Minelayer ● Surprise Attack(-3) ● Remote Presence ● Forward Deployment(+8\") ● Decoy(1)[-]\n[000191][-][000636][-][000001][-][000001][-][000003][-]",
+                  "Nickname": "[E6DA9B]SUNDUQBUT[-] AP Spitfire, LSG",
+                  "Description": "[b]HI[/b] ● [AAFFAA]Regular[-] ● Hackable\n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 4-4\n[b]CC[/b]: 13\n[b]BS[/b]: 13\n[b]PH[/b]: 14\n[b]WIP[/b]: 12\n[b]ARM[/b]: 4\n[b]BTS[/b]: 3\n[B]STR[/B]: 2\n[B]S[/B]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nAP Spitfire ● Light Shotgun ● Pistol ● CC Weapon[-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nCamouflage(1 Use) ● Courage ● Immunity(Shock) ● BS Attack(SR-1) ● Surprise Attack(-3) ● Remote Presence ● Forward Deployment(+8\") ● Decoy(1)[-]\n[000191][-][000636][-][000001][-][000001][-][000003][-]",
                   "GMNotes": "",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -6566,8 +6566,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "[E6DA9B]SUNDUQBUT[-] Viral Rifle(+1B), Chain Rifle(+1B), Shock Mines",
-                  "Description": "[b]HI[/b] ● [AAFFAA]Regular[-] ● Hackable\n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 4-4\n[b]CC[/b]: 13\n[b]BS[/b]: 13\n[b]PH[/b]: 14\n[b]WIP[/b]: 12\n[b]ARM[/b]: 4\n[b]BTS[/b]: 3\n[B]STR[/B]: 2\n[B]S[/B]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nViral Rifle(+1B) ● Chain Rifle(+1B) ● Shock Mines ● Pistol ● CC Weapon[-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nCamouflage(1 Use) ● Courage ● Immunity(Shock) ● BS Attack(+1 Dam) ● Minelayer ● Surprise Attack(-3) ● Remote Presence ● Forward Deployment(+8\") ● Decoy(1)[-]\n[000191][-][000636][-][000001][-][000001][-][000003][-]",
+                  "Nickname": "[E6DA9B]SUNDUQBUT[-] Viral Rifle, Chain Rifle, Neurocinetics(+1B)",
+                  "Description": "[b]HI[/b] ● [AAFFAA]Regular[-] ● Hackable\n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 4-4\n[b]CC[/b]: 13\n[b]BS[/b]: 13\n[b]PH[/b]: 14\n[b]WIP[/b]: 12\n[b]ARM[/b]: 4\n[b]BTS[/b]: 3\n[B]STR[/B]: 2\n[B]S[/B]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nViral Rifle ● Chain Rifle ● Pistol ● CC Weapon[-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nCamouflage(1 Use) ● Courage ● Immunity(Shock) ● BS Attack(SR-1) ● Neurocinetics(+1B) ● Remote Presence ● Forward Deployment(+8\") ● Decoy(1)[-]\n[000191][-][000636][-][000001][-][000001][-][000003][-]",
                   "GMNotes": "",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -6675,8 +6675,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "[E6DA9B]SUNDUQBUT[-] Viral Rifle(+1B), Chain Rifle(+1B), Shock Mines",
-                  "Description": "[b]HI[/b] ● [AAFFAA]Regular[-] ● Hackable\n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 4-4\n[b]CC[/b]: 13\n[b]BS[/b]: 13\n[b]PH[/b]: 14\n[b]WIP[/b]: 12\n[b]ARM[/b]: 4\n[b]BTS[/b]: 3\n[B]STR[/B]: 2\n[B]S[/B]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nViral Rifle(+1B) ● Chain Rifle(+1B) ● Shock Mines ● Pistol ● CC Weapon[-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nCamouflage(1 Use) ● Courage ● Immunity(Shock) ● BS Attack(+1 Dam) ● Minelayer ● Surprise Attack(-3) ● Remote Presence ● Forward Deployment(+8\") ● Decoy(1)[-]\n[000191][-][000636][-][000001][-][000001][-][000003][-]",
+                  "Nickname": "[E6DA9B]SUNDUQBUT[-] AP Spitfire, LSG, Neurocinetics",
+                  "Description": "[b]HI[/b] ● [AAFFAA]Regular[-] ● Hackable\n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 4-4\n[b]CC[/b]: 13\n[b]BS[/b]: 13\n[b]PH[/b]: 14\n[b]WIP[/b]: 12\n[b]ARM[/b]: 4\n[b]BTS[/b]: 3\n[B]STR[/B]: 2\n[B]S[/B]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nAP Spitfire ● Light Shotgun ● Pistol ● CC Weapon[-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nCamouflage(1 Use) ● Courage ● Immunity(Shock) ● BS Attack(SR-1) ● Neurocinetics ● Remote Presence ● Forward Deployment(+8\") ● Decoy(1)[-]\n[000191][-][000636][-][000001][-][000001][-][000003][-]",
                   "GMNotes": "",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -6784,8 +6784,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "[E6DA9B]SUNDUQBUT[-] Viral Rifle(+1B), Chain Rifle(+1B), Shock Mines",
-                  "Description": "[b]HI[/b] ● [AAFFAA]Regular[-] ● Hackable\n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 4-4\n[b]CC[/b]: 13\n[b]BS[/b]: 13\n[b]PH[/b]: 14\n[b]WIP[/b]: 12\n[b]ARM[/b]: 4\n[b]BTS[/b]: 3\n[B]STR[/B]: 2\n[B]S[/B]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nViral Rifle(+1B) ● Chain Rifle(+1B) ● Shock Mines ● Pistol ● CC Weapon[-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nCamouflage(1 Use) ● Courage ● Immunity(Shock) ● BS Attack(+1 Dam) ● Minelayer ● Surprise Attack(-3) ● Remote Presence ● Forward Deployment(+8\") ● Decoy(1)[-]\n[000191][-][000636][-][000001][-][000001][-][000003][-]",
+                  "Nickname": "[E6DA9B]SUNDUQBUT[-] Feuerbach, Neurocinetics",
+                  "Description": "[b]HI[/b] ● [AAFFAA]Regular[-] ● Hackable\n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 4-4\n[b]CC[/b]: 13\n[b]BS[/b]: 13\n[b]PH[/b]: 14\n[b]WIP[/b]: 12\n[b]ARM[/b]: 4\n[b]BTS[/b]: 3\n[B]STR[/B]: 2\n[B]S[/B]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nFeuerbach ● Pistol ● CC Weapon[-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nCamouflage(1 Use) ● Courage ● Immunity(Shock) ● BS Attack(SR-1) ● Neurocinetics ● Remote Presence ● Forward Deployment(+8\") ● Decoy(1)[-]\n[000191][-][000636][-][000001][-][000001][-][000003][-]",
                   "GMNotes": "",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -6945,8 +6945,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "[E6DA9B]BOKHTAR[-] Red Fury",
-                  "Description": "Painted by [C472E7]Sneaky Snake[-]\n\n[b]HI[/b] ● [AAFFAA]Regular[-] ● Hackable\n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 6-2\n[b]CC[/b]: 20\n[b]BS[/b]: 13\n[b]PH[/b]: 13\n[b]WIP[/b]: 14\n[b]ARM[/b]: 4\n[b]BTS[/b]: 3\n[B]VITA[/B]: 2\n[B]S[/B]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nRed Fury ● Viral Pistol ● Shock CC Weapon[-]\n[ddffdd][sub]---------Equipment--------\n[/sub]\nMultispectral Visor L1[-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nParachutist ● Dodge(+2\") ● NCO ● Religious Troop ● Immunity(Shock) ● Mimetism(-3) ● Dodge(+3) ● Super-Jump[-]\n[000191][-][000635][-][000001][-][000001][-][000003][-]",
+                  "Nickname": "[E6DA9B]BOKHTAR FTO[-] Red Fury",
+                  "Description": "[b]HI[/b] ● [AAFFAA]Regular[-] ● Hackable\n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 6-2\n[b]CC[/b]: 20\n[b]BS[/b]: 13\n[b]PH[/b]: 13\n[b]WIP[/b]: 14\n[b]ARM[/b]: 4\n[b]BTS[/b]: 3\n[B]VITA[/B]: 2\n[B]S[/B]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nRed Fury ● Viral Pistol ● Shock CC Weapon (PS=7)[-]\n[ddffdd][sub]---------Equipment--------\n[/sub]\nMultispectral Visor L1[-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nTactical Awareness ● Dodge(+3) ● Dodge(+2\") ● Religious Troop ● Immunity(Shock) ● Mimetism(-3) ● Super-Jump(Jet Propulsion)[-]\n[000191][-][000635][-][000001][-][000001][-][000003][-]",
                   "GMNotes": "",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -7054,8 +7054,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "[E6DA9B]BOKHTAR[-] Red Fury",
-                  "Description": "Painted by [C472E7]Sneaky Snake[-]\n\n[b]HI[/b] ● [AAFFAA]Regular[-] ● Hackable\n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 6-2\n[b]CC[/b]: 20\n[b]BS[/b]: 13\n[b]PH[/b]: 13\n[b]WIP[/b]: 14\n[b]ARM[/b]: 4\n[b]BTS[/b]: 3\n[B]VITA[/B]: 2\n[B]S[/B]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nRed Fury ● Viral Pistol ● Shock CC Weapon[-]\n[ddffdd][sub]---------Equipment--------\n[/sub]\nMultispectral Visor L1[-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nParachutist ● Dodge(+2\") ● NCO ● Religious Troop ● Immunity(Shock) ● Mimetism(-3) ● Dodge(+3) ● Super-Jump[-]\n[000191][-][000635][-][000001][-][000001][-][000003][-]",
+                  "Nickname": "[E6DA9B]BOKHTAR FTO (Paramedics)[-] Viral Rfl, LSG, D-Charges",
+                  "Description": "[b]HI[/b] ● [AAFFAA]Regular[-] ● Hackable\n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 6-2\n[b]CC[/b]: 20\n[b]BS[/b]: 13\n[b]PH[/b]: 13\n[b]WIP[/b]: 14\n[b]ARM[/b]: 4\n[b]BTS[/b]: 3\n[B]VITA[/B]: 2\n[B]S[/B]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nViral Rifle ● Light Shotgun ● Viral Pistol ● D-Charges ● Shock CC Weapon (PS=7)[-]\n[ddffdd][sub]---------Equipment--------\n[/sub]\nMultispectral Visor L1[-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nTactical Awareness ● Paramedic ● Dodge(+3) ● Dodge(+2\") ● Religious Troop ● Immunity(Shock) ● Mimetism(-3) ● Super-Jump(Jet Propulsion)[-]\n[000191][-][000635][-][000001][-][000001][-][000003][-]",
                   "GMNotes": "",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -7164,7 +7164,7 @@
                     "scaleZ": 1.0
                   },
                   "Nickname": "[E6DA9B]BOKHTAR[-] Red Fury",
-                  "Description": "Painted by [C472E7]Sneaky Snake[-]\n\n[b]HI[/b] ● [AAFFAA]Regular[-] ● Hackable\n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 6-2\n[b]CC[/b]: 20\n[b]BS[/b]: 13\n[b]PH[/b]: 13\n[b]WIP[/b]: 14\n[b]ARM[/b]: 4\n[b]BTS[/b]: 3\n[B]VITA[/B]: 2\n[B]S[/B]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nRed Fury ● Viral Pistol ● Shock CC Weapon[-]\n[ddffdd][sub]---------Equipment--------\n[/sub]\nMultispectral Visor L1[-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nParachutist ● Dodge(+2\") ● NCO ● Religious Troop ● Immunity(Shock) ● Mimetism(-3) ● Dodge(+3) ● Super-Jump[-]\n[000191][-][000635][-][000001][-][000001][-][000003][-]",
+                  "Description": "[b]HI[/b] ● [AAFFAA]Regular[-] ● Hackable\n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 6-2\n[b]CC[/b]: 20\n[b]BS[/b]: 13\n[b]PH[/b]: 13\n[b]WIP[/b]: 14\n[b]ARM[/b]: 4\n[b]BTS[/b]: 3\n[B]VITA[/B]: 2\n[B]S[/B]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nRed Fury ● Viral Pistol ● Shock CC Weapon (PS=7)[-]\n[ddffdd][sub]---------Equipment--------\n[/sub]\nMultispectral Visor L1[-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nParachutist ● Tactical Awareness ● Dodge(+3) ● Dodge(+2\") ● Religious Troop ● Immunity(Shock) ● Mimetism(-3) ● Super-Jump(Jet Propulsion)[-]\n[000191][-][000635][-][000001][-][000001][-][000003][-]",
                   "GMNotes": "",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -7272,226 +7272,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "[E6DA9B]BOKHTAR[-] Red Fury",
-                  "Description": "Painted by [C472E7]Sneaky Snake[-]\n\n[b]HI[/b] ● [AAFFAA]Regular[-] ● Hackable\n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 6-2\n[b]CC[/b]: 20\n[b]BS[/b]: 13\n[b]PH[/b]: 13\n[b]WIP[/b]: 14\n[b]ARM[/b]: 4\n[b]BTS[/b]: 3\n[B]VITA[/B]: 2\n[B]S[/B]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nRed Fury ● Viral Pistol ● Shock CC Weapon[-]\n[ddffdd][sub]---------Equipment--------\n[/sub]\nMultispectral Visor L1[-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nParachutist ● Dodge(+2\") ● NCO ● Religious Troop ● Immunity(Shock) ● Mimetism(-3) ● Dodge(+3) ● Super-Jump[-]\n[000191][-][000635][-][000001][-][000001][-][000003][-]",
-                  "GMNotes": "",
-                  "AltLookAngle": {
-                    "x": 0.0,
-                    "y": 0.0,
-                    "z": 0.0
-                  },
-                  "ColorDiffuse": {
-                    "r": 0.9019608,
-                    "g": 0.854901969,
-                    "b": 0.607843161
-                  },
-                  "LayoutGroupSortIndex": 0,
-                  "Value": 0,
-                  "Locked": false,
-                  "Grid": true,
-                  "Snap": true,
-                  "IgnoreFoW": false,
-                  "MeasureMovement": false,
-                  "DragSelectable": true,
-                  "Autoraise": true,
-                  "Sticky": true,
-                  "Tooltip": true,
-                  "GridProjection": false,
-                  "HideWhenFaceDown": false,
-                  "Hands": false,
-                  "CustomAssetbundle": {
-                    "AssetbundleURL": "https://steamusercontent-a.akamaihd.net/ugc/2036228562272020589/CC2BB6476E1147A666F7A2EF87838C7E36F4D20D/",
-                    "AssetbundleSecondaryURL": "",
-                    "MaterialIndex": 0,
-                    "TypeIndex": 0,
-                    "LoopingEffectIndex": 0
-                  },
-                  "LuaScript": "",
-                  "LuaScriptState": "",
-                  "XmlUI": "",
-                  "States": {
-                    "2": {
-                      "GUID": "01fb56",
-                      "Name": "Custom_Model",
-                      "Transform": {
-                        "posX": 39.43187,
-                        "posY": 0.960000157,
-                        "posZ": 3.20702887,
-                        "rotX": 1.46777084E-05,
-                        "rotY": 60.01354,
-                        "rotZ": -5.618274E-06,
-                        "scaleX": 1.0,
-                        "scaleY": 1.0,
-                        "scaleZ": 1.0
-                      },
-                      "Nickname": "Silhouette 2",
-                      "Description": "",
-                      "GMNotes": "",
-                      "AltLookAngle": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                      },
-                      "ColorDiffuse": {
-                        "r": 0.9019608,
-                        "g": 0.854901969,
-                        "b": 0.607843161
-                      },
-                      "LayoutGroupSortIndex": 0,
-                      "Value": 0,
-                      "Locked": false,
-                      "Grid": true,
-                      "Snap": true,
-                      "IgnoreFoW": false,
-                      "MeasureMovement": false,
-                      "DragSelectable": true,
-                      "Autoraise": true,
-                      "Sticky": true,
-                      "Tooltip": true,
-                      "GridProjection": false,
-                      "HideWhenFaceDown": false,
-                      "Hands": false,
-                      "CustomMesh": {
-                        "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/1762566040434517424/7BD92CCD59122AA034293F6D291C3B4227CF46CC/",
-                        "DiffuseURL": "",
-                        "NormalURL": "",
-                        "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/1744573743622198051/6E77F14FEBB2339E041E526394205FF61110D508/",
-                        "Convex": true,
-                        "MaterialIndex": 3,
-                        "TypeIndex": 1,
-                        "CastShadows": true
-                      },
-                      "LuaScript": "",
-                      "LuaScriptState": "",
-                      "XmlUI": ""
-                    }
-                  }
-                },
-                {
-                  "GUID": "a6b3ff",
-                  "Name": "Custom_Assetbundle",
-                  "Transform": {
-                    "posX": 37.5630722,
-                    "posY": 2.58106279,
-                    "posZ": 7.82800961,
-                    "rotX": -2.55840428E-06,
-                    "rotY": 180.012222,
-                    "rotZ": -5.83703468E-06,
-                    "scaleX": 1.0,
-                    "scaleY": 1.0,
-                    "scaleZ": 1.0
-                  },
-                  "Nickname": "[E6DA9B]BOKHTAR[-] Red Fury",
-                  "Description": "Painted by [C472E7]Sneaky Snake[-]\n\n[b]HI[/b] ● [AAFFAA]Regular[-] ● Hackable\n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 6-2\n[b]CC[/b]: 20\n[b]BS[/b]: 13\n[b]PH[/b]: 13\n[b]WIP[/b]: 14\n[b]ARM[/b]: 4\n[b]BTS[/b]: 3\n[B]VITA[/B]: 2\n[B]S[/B]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nRed Fury ● Viral Pistol ● Shock CC Weapon[-]\n[ddffdd][sub]---------Equipment--------\n[/sub]\nMultispectral Visor L1[-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nParachutist ● Dodge(+2\") ● NCO ● Religious Troop ● Immunity(Shock) ● Mimetism(-3) ● Dodge(+3) ● Super-Jump[-]\n[000191][-][000635][-][000001][-][000001][-][000003][-]",
-                  "GMNotes": "",
-                  "AltLookAngle": {
-                    "x": 0.0,
-                    "y": 0.0,
-                    "z": 0.0
-                  },
-                  "ColorDiffuse": {
-                    "r": 0.9019608,
-                    "g": 0.854901969,
-                    "b": 0.607843161
-                  },
-                  "LayoutGroupSortIndex": 0,
-                  "Value": 0,
-                  "Locked": false,
-                  "Grid": true,
-                  "Snap": true,
-                  "IgnoreFoW": false,
-                  "MeasureMovement": false,
-                  "DragSelectable": true,
-                  "Autoraise": true,
-                  "Sticky": true,
-                  "Tooltip": true,
-                  "GridProjection": false,
-                  "HideWhenFaceDown": false,
-                  "Hands": false,
-                  "CustomAssetbundle": {
-                    "AssetbundleURL": "https://steamusercontent-a.akamaihd.net/ugc/2036228562272020589/CC2BB6476E1147A666F7A2EF87838C7E36F4D20D/",
-                    "AssetbundleSecondaryURL": "",
-                    "MaterialIndex": 0,
-                    "TypeIndex": 0,
-                    "LoopingEffectIndex": 0
-                  },
-                  "LuaScript": "",
-                  "LuaScriptState": "",
-                  "XmlUI": "",
-                  "States": {
-                    "2": {
-                      "GUID": "01fb56",
-                      "Name": "Custom_Model",
-                      "Transform": {
-                        "posX": 39.43187,
-                        "posY": 0.960000157,
-                        "posZ": 3.20702887,
-                        "rotX": 1.46777084E-05,
-                        "rotY": 60.01354,
-                        "rotZ": -5.618274E-06,
-                        "scaleX": 1.0,
-                        "scaleY": 1.0,
-                        "scaleZ": 1.0
-                      },
-                      "Nickname": "Silhouette 2",
-                      "Description": "",
-                      "GMNotes": "",
-                      "AltLookAngle": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                      },
-                      "ColorDiffuse": {
-                        "r": 0.9019608,
-                        "g": 0.854901969,
-                        "b": 0.607843161
-                      },
-                      "LayoutGroupSortIndex": 0,
-                      "Value": 0,
-                      "Locked": false,
-                      "Grid": true,
-                      "Snap": true,
-                      "IgnoreFoW": false,
-                      "MeasureMovement": false,
-                      "DragSelectable": true,
-                      "Autoraise": true,
-                      "Sticky": true,
-                      "Tooltip": true,
-                      "GridProjection": false,
-                      "HideWhenFaceDown": false,
-                      "Hands": false,
-                      "CustomMesh": {
-                        "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/1762566040434517424/7BD92CCD59122AA034293F6D291C3B4227CF46CC/",
-                        "DiffuseURL": "",
-                        "NormalURL": "",
-                        "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/1744573743622198051/6E77F14FEBB2339E041E526394205FF61110D508/",
-                        "Convex": true,
-                        "MaterialIndex": 3,
-                        "TypeIndex": 1,
-                        "CastShadows": true
-                      },
-                      "LuaScript": "",
-                      "LuaScriptState": "",
-                      "XmlUI": ""
-                    }
-                  }
-                },
-                {
-                  "GUID": "772399",
-                  "Name": "Custom_Assetbundle",
-                  "Transform": {
-                    "posX": 36.4937172,
-                    "posY": 2.58106327,
-                    "posZ": 9.89542,
-                    "rotX": -4.62800563E-06,
-                    "rotY": 180.012253,
-                    "rotZ": 1.49863E-05,
-                    "scaleX": 1.0,
-                    "scaleY": 1.0,
-                    "scaleZ": 1.0
-                  },
-                  "Nickname": "[E6DA9B]BOKHTAR[-] Red Fury",
-                  "Description": "Painted by [C472E7]Sneaky Snake[-]\n\n[b]HI[/b] ● [AAFFAA]Regular[-] ● Hackable\n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 6-2\n[b]CC[/b]: 20\n[b]BS[/b]: 13\n[b]PH[/b]: 13\n[b]WIP[/b]: 14\n[b]ARM[/b]: 4\n[b]BTS[/b]: 3\n[B]VITA[/B]: 2\n[B]S[/B]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nRed Fury ● Viral Pistol ● Shock CC Weapon[-]\n[ddffdd][sub]---------Equipment--------\n[/sub]\nMultispectral Visor L1[-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nParachutist ● Dodge(+2\") ● NCO ● Religious Troop ● Immunity(Shock) ● Mimetism(-3) ● Dodge(+3) ● Super-Jump[-]\n[000191][-][000635][-][000001][-][000001][-][000003][-]",
+                  "Nickname": "[E6DA9B]BOKHTAR (Paramedics)[-] BSG(+1B), D-Charges",
+                  "Description": "[b]HI[/b] ● [AAFFAA]Regular[-] ● Hackable\n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 6-2\n[b]CC[/b]: 20\n[b]BS[/b]: 13\n[b]PH[/b]: 13\n[b]WIP[/b]: 14\n[b]ARM[/b]: 4\n[b]BTS[/b]: 3\n[B]VITA[/B]: 2\n[B]S[/B]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nBoarding Shotgun(+1B) ● Viral Pistol ● D-Charges ● Shock CC Weapon (PS=7)[-]\n[ddffdd][sub]---------Equipment--------\n[/sub]\nMultispectral Visor L1[-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nParachutist ● Tactical Awareness ● Paramedic ● Dodge(+3) ● Dodge(+2\") ● Religious Troop ● Immunity(Shock) ● Mimetism(-3) ● Super-Jump(Jet Propulsion)[-]\n[000191][-][000635][-][000001][-][000001][-][000003][-]",
                   "GMNotes": "",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -7599,8 +7381,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "[E6DA9B]BOKHTAR TacAwareness[-] Paramedic, Viral Rfl, LSG",
-                  "Description": "[b]HI[/b] ● [AAFFAA]Regular[-] ● Hackable\r\n[sub]---------Attributes-------\r\n[/sub]\r\n[b]MOV[/b]: 6-2\r\n[b]CC[/b]: 20\r\n[b]BS[/b]: 13\r\n[b]PH[/b]: 13\r\n[b]WIP[/b]: 14\r\n[b]ARM[/b]: 4\r\n[b]BTS[/b]: 3\r\n[B]VITA[/B]: 2\r\n[B]S[/B]: 2\r\n[ffdddd][sub]----------Weapons---------\r\n[/sub]\r\nViral Rifle ● Light Shotgun ● D-Charges ● Viral Pistol ● Shock CC Weapon[-]\r\n[ddffdd][sub]---------Equipment--------\r\n[/sub]\r\nMediKit ● Multispectral Visor L1[-]\r\n[ddddff][sub]----------Skills ---------\r\n[/sub]\r\nParamedic ● Dodge(+2\") ● Tactical Awareness ● Religious Troop ● Immunity(Shock) ● Mimetism(-3) ● Dodge(+3) ● Super-Jump[-]\r\n[000191][-][000635][-][000001][-][000001][-][000004][-]",
+                  "Nickname": "[E6DA9B]BOKHTAR FTO[-] Red Fury",
+                  "Description": "[b]HI[/b] ● [AAFFAA]Regular[-] ● Hackable\n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 6-2\n[b]CC[/b]: 20\n[b]BS[/b]: 13\n[b]PH[/b]: 13\n[b]WIP[/b]: 14\n[b]ARM[/b]: 4\n[b]BTS[/b]: 3\n[B]VITA[/B]: 2\n[B]S[/B]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nRed Fury ● Viral Pistol ● Shock CC Weapon (PS=7)[-]\n[ddffdd][sub]---------Equipment--------\n[/sub]\nMultispectral Visor L1[-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nTactical Awareness ● Dodge(+3) ● Dodge(+2\") ● Religious Troop ● Immunity(Shock) ● Mimetism(-3) ● Super-Jump(Jet Propulsion)[-]\n[000191][-][000635][-][000001][-][000001][-][000003][-]",
                   "GMNotes": "",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -7708,8 +7490,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "[E6DA9B]BOKHTAR TacAwareness[-] Paramedic, Viral Rfl, LSG",
-                  "Description": "[b]HI[/b] ● [AAFFAA]Regular[-] ● Hackable\r\n[sub]---------Attributes-------\r\n[/sub]\r\n[b]MOV[/b]: 6-2\r\n[b]CC[/b]: 20\r\n[b]BS[/b]: 13\r\n[b]PH[/b]: 13\r\n[b]WIP[/b]: 14\r\n[b]ARM[/b]: 4\r\n[b]BTS[/b]: 3\r\n[B]VITA[/B]: 2\r\n[B]S[/B]: 2\r\n[ffdddd][sub]----------Weapons---------\r\n[/sub]\r\nViral Rifle ● Light Shotgun ● D-Charges ● Viral Pistol ● Shock CC Weapon[-]\r\n[ddffdd][sub]---------Equipment--------\r\n[/sub]\r\nMediKit ● Multispectral Visor L1[-]\r\n[ddddff][sub]----------Skills ---------\r\n[/sub]\r\nParamedic ● Dodge(+2\") ● Tactical Awareness ● Religious Troop ● Immunity(Shock) ● Mimetism(-3) ● Dodge(+3) ● Super-Jump[-]\r\n[000191][-][000635][-][000001][-][000001][-][000004][-]",
+                  "Nickname": "[E6DA9B]BOKHTAR FTO (Paramedics)[-] Viral Rfl, LSG, D-Charges",
+                  "Description": "[b]HI[/b] ● [AAFFAA]Regular[-] ● Hackable\n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 6-2\n[b]CC[/b]: 20\n[b]BS[/b]: 13\n[b]PH[/b]: 13\n[b]WIP[/b]: 14\n[b]ARM[/b]: 4\n[b]BTS[/b]: 3\n[B]VITA[/B]: 2\n[B]S[/B]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nViral Rifle ● Light Shotgun ● Viral Pistol ● D-Charges ● Shock CC Weapon (PS=7)[-]\n[ddffdd][sub]---------Equipment--------\n[/sub]\nMultispectral Visor L1[-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nTactical Awareness ● Paramedic ● Dodge(+3) ● Dodge(+2\") ● Religious Troop ● Immunity(Shock) ● Mimetism(-3) ● Super-Jump(Jet Propulsion)[-]\n[000191][-][000635][-][000001][-][000001][-][000003][-]",
                   "GMNotes": "",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -7817,8 +7599,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "[E6DA9B]BOKHTAR TacAwareness[-] Paramedic, Viral Rfl, LSG",
-                  "Description": "[b]HI[/b] ● [AAFFAA]Regular[-] ● Hackable\r\n[sub]---------Attributes-------\r\n[/sub]\r\n[b]MOV[/b]: 6-2\r\n[b]CC[/b]: 20\r\n[b]BS[/b]: 13\r\n[b]PH[/b]: 13\r\n[b]WIP[/b]: 14\r\n[b]ARM[/b]: 4\r\n[b]BTS[/b]: 3\r\n[B]VITA[/B]: 2\r\n[B]S[/B]: 2\r\n[ffdddd][sub]----------Weapons---------\r\n[/sub]\r\nViral Rifle ● Light Shotgun ● D-Charges ● Viral Pistol ● Shock CC Weapon[-]\r\n[ddffdd][sub]---------Equipment--------\r\n[/sub]\r\nMediKit ● Multispectral Visor L1[-]\r\n[ddddff][sub]----------Skills ---------\r\n[/sub]\r\nParamedic ● Dodge(+2\") ● Tactical Awareness ● Religious Troop ● Immunity(Shock) ● Mimetism(-3) ● Dodge(+3) ● Super-Jump[-]\r\n[000191][-][000635][-][000001][-][000001][-][000004][-]",
+                  "Nickname": "[E6DA9B]BOKHTAR[-] Red Fury",
+                  "Description": "[b]HI[/b] ● [AAFFAA]Regular[-] ● Hackable\n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 6-2\n[b]CC[/b]: 20\n[b]BS[/b]: 13\n[b]PH[/b]: 13\n[b]WIP[/b]: 14\n[b]ARM[/b]: 4\n[b]BTS[/b]: 3\n[B]VITA[/B]: 2\n[B]S[/B]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nRed Fury ● Viral Pistol ● Shock CC Weapon (PS=7)[-]\n[ddffdd][sub]---------Equipment--------\n[/sub]\nMultispectral Visor L1[-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nParachutist ● Tactical Awareness ● Dodge(+3) ● Dodge(+2\") ● Religious Troop ● Immunity(Shock) ● Mimetism(-3) ● Super-Jump(Jet Propulsion)[-]\n[000191][-][000635][-][000001][-][000001][-][000003][-]",
                   "GMNotes": "",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -7926,226 +7708,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "[E6DA9B]BOKHTAR TacAwareness[-] Paramedic, Viral Rfl, LSG",
-                  "Description": "[b]HI[/b] ● [AAFFAA]Regular[-] ● Hackable\r\n[sub]---------Attributes-------\r\n[/sub]\r\n[b]MOV[/b]: 6-2\r\n[b]CC[/b]: 20\r\n[b]BS[/b]: 13\r\n[b]PH[/b]: 13\r\n[b]WIP[/b]: 14\r\n[b]ARM[/b]: 4\r\n[b]BTS[/b]: 3\r\n[B]VITA[/B]: 2\r\n[B]S[/B]: 2\r\n[ffdddd][sub]----------Weapons---------\r\n[/sub]\r\nViral Rifle ● Light Shotgun ● D-Charges ● Viral Pistol ● Shock CC Weapon[-]\r\n[ddffdd][sub]---------Equipment--------\r\n[/sub]\r\nMediKit ● Multispectral Visor L1[-]\r\n[ddddff][sub]----------Skills ---------\r\n[/sub]\r\nParamedic ● Dodge(+2\") ● Tactical Awareness ● Religious Troop ● Immunity(Shock) ● Mimetism(-3) ● Dodge(+3) ● Super-Jump[-]\r\n[000191][-][000635][-][000001][-][000001][-][000004][-]",
-                  "GMNotes": "",
-                  "AltLookAngle": {
-                    "x": 0.0,
-                    "y": 0.0,
-                    "z": 0.0
-                  },
-                  "ColorDiffuse": {
-                    "r": 0.9019608,
-                    "g": 0.854901969,
-                    "b": 0.607843161
-                  },
-                  "LayoutGroupSortIndex": 0,
-                  "Value": 0,
-                  "Locked": false,
-                  "Grid": true,
-                  "Snap": true,
-                  "IgnoreFoW": false,
-                  "MeasureMovement": false,
-                  "DragSelectable": true,
-                  "Autoraise": true,
-                  "Sticky": true,
-                  "Tooltip": true,
-                  "GridProjection": false,
-                  "HideWhenFaceDown": false,
-                  "Hands": false,
-                  "CustomAssetbundle": {
-                    "AssetbundleURL": "https://steamusercontent-a.akamaihd.net/ugc/1869583325940820721/9EA694F2319DD8293FD0CA08D10E374E1286A4FE/",
-                    "AssetbundleSecondaryURL": "",
-                    "MaterialIndex": 2,
-                    "TypeIndex": 1,
-                    "LoopingEffectIndex": 0
-                  },
-                  "LuaScript": "",
-                  "LuaScriptState": "",
-                  "XmlUI": "",
-                  "States": {
-                    "2": {
-                      "GUID": "c7429c",
-                      "Name": "Custom_Model",
-                      "Transform": {
-                        "posX": -34.5329132,
-                        "posY": 0.960000038,
-                        "posZ": -4.481899,
-                        "rotX": -7.54055827E-06,
-                        "rotY": 0.010873449,
-                        "rotZ": -4.1571775E-06,
-                        "scaleX": 1.0,
-                        "scaleY": 1.0,
-                        "scaleZ": 1.0
-                      },
-                      "Nickname": "Silhouette 2",
-                      "Description": "",
-                      "GMNotes": "",
-                      "AltLookAngle": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                      },
-                      "ColorDiffuse": {
-                        "r": 0.9019608,
-                        "g": 0.854901969,
-                        "b": 0.607843161
-                      },
-                      "LayoutGroupSortIndex": 0,
-                      "Value": 0,
-                      "Locked": false,
-                      "Grid": true,
-                      "Snap": true,
-                      "IgnoreFoW": false,
-                      "MeasureMovement": false,
-                      "DragSelectable": true,
-                      "Autoraise": true,
-                      "Sticky": true,
-                      "Tooltip": true,
-                      "GridProjection": false,
-                      "HideWhenFaceDown": false,
-                      "Hands": false,
-                      "CustomMesh": {
-                        "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/1762566040434517424/7BD92CCD59122AA034293F6D291C3B4227CF46CC/",
-                        "DiffuseURL": "",
-                        "NormalURL": "",
-                        "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/1744573743622198051/6E77F14FEBB2339E041E526394205FF61110D508/",
-                        "Convex": true,
-                        "MaterialIndex": 3,
-                        "TypeIndex": 1,
-                        "CastShadows": true
-                      },
-                      "LuaScript": "",
-                      "LuaScriptState": "",
-                      "XmlUI": ""
-                    }
-                  }
-                },
-                {
-                  "GUID": "401f53",
-                  "Name": "Custom_Assetbundle",
-                  "Transform": {
-                    "posX": 30.87167,
-                    "posY": 2.579241,
-                    "posZ": 11.9511585,
-                    "rotX": 1.77355887E-05,
-                    "rotY": 134.995331,
-                    "rotZ": -3.994974E-06,
-                    "scaleX": 1.0,
-                    "scaleY": 1.0,
-                    "scaleZ": 1.0
-                  },
-                  "Nickname": "[E6DA9B]BOKHTAR TacAwareness[-] Paramedic, Viral Rfl, LSG",
-                  "Description": "[b]HI[/b] ● [AAFFAA]Regular[-] ● Hackable\r\n[sub]---------Attributes-------\r\n[/sub]\r\n[b]MOV[/b]: 6-2\r\n[b]CC[/b]: 20\r\n[b]BS[/b]: 13\r\n[b]PH[/b]: 13\r\n[b]WIP[/b]: 14\r\n[b]ARM[/b]: 4\r\n[b]BTS[/b]: 3\r\n[B]VITA[/B]: 2\r\n[B]S[/B]: 2\r\n[ffdddd][sub]----------Weapons---------\r\n[/sub]\r\nViral Rifle ● Light Shotgun ● D-Charges ● Viral Pistol ● Shock CC Weapon[-]\r\n[ddffdd][sub]---------Equipment--------\r\n[/sub]\r\nMediKit ● Multispectral Visor L1[-]\r\n[ddddff][sub]----------Skills ---------\r\n[/sub]\r\nParamedic ● Dodge(+2\") ● Tactical Awareness ● Religious Troop ● Immunity(Shock) ● Mimetism(-3) ● Dodge(+3) ● Super-Jump[-]\r\n[000191][-][000635][-][000001][-][000001][-][000004][-]",
-                  "GMNotes": "",
-                  "AltLookAngle": {
-                    "x": 0.0,
-                    "y": 0.0,
-                    "z": 0.0
-                  },
-                  "ColorDiffuse": {
-                    "r": 0.9019608,
-                    "g": 0.854901969,
-                    "b": 0.607843161
-                  },
-                  "LayoutGroupSortIndex": 0,
-                  "Value": 0,
-                  "Locked": false,
-                  "Grid": true,
-                  "Snap": true,
-                  "IgnoreFoW": false,
-                  "MeasureMovement": false,
-                  "DragSelectable": true,
-                  "Autoraise": true,
-                  "Sticky": true,
-                  "Tooltip": true,
-                  "GridProjection": false,
-                  "HideWhenFaceDown": false,
-                  "Hands": false,
-                  "CustomAssetbundle": {
-                    "AssetbundleURL": "https://steamusercontent-a.akamaihd.net/ugc/1869583325940820721/9EA694F2319DD8293FD0CA08D10E374E1286A4FE/",
-                    "AssetbundleSecondaryURL": "",
-                    "MaterialIndex": 2,
-                    "TypeIndex": 1,
-                    "LoopingEffectIndex": 0
-                  },
-                  "LuaScript": "",
-                  "LuaScriptState": "",
-                  "XmlUI": "",
-                  "States": {
-                    "2": {
-                      "GUID": "c7429c",
-                      "Name": "Custom_Model",
-                      "Transform": {
-                        "posX": -34.5329132,
-                        "posY": 0.960000038,
-                        "posZ": -4.481899,
-                        "rotX": -7.54055827E-06,
-                        "rotY": 0.010873449,
-                        "rotZ": -4.1571775E-06,
-                        "scaleX": 1.0,
-                        "scaleY": 1.0,
-                        "scaleZ": 1.0
-                      },
-                      "Nickname": "Silhouette 2",
-                      "Description": "",
-                      "GMNotes": "",
-                      "AltLookAngle": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                      },
-                      "ColorDiffuse": {
-                        "r": 0.9019608,
-                        "g": 0.854901969,
-                        "b": 0.607843161
-                      },
-                      "LayoutGroupSortIndex": 0,
-                      "Value": 0,
-                      "Locked": false,
-                      "Grid": true,
-                      "Snap": true,
-                      "IgnoreFoW": false,
-                      "MeasureMovement": false,
-                      "DragSelectable": true,
-                      "Autoraise": true,
-                      "Sticky": true,
-                      "Tooltip": true,
-                      "GridProjection": false,
-                      "HideWhenFaceDown": false,
-                      "Hands": false,
-                      "CustomMesh": {
-                        "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/1762566040434517424/7BD92CCD59122AA034293F6D291C3B4227CF46CC/",
-                        "DiffuseURL": "",
-                        "NormalURL": "",
-                        "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/1744573743622198051/6E77F14FEBB2339E041E526394205FF61110D508/",
-                        "Convex": true,
-                        "MaterialIndex": 3,
-                        "TypeIndex": 1,
-                        "CastShadows": true
-                      },
-                      "LuaScript": "",
-                      "LuaScriptState": "",
-                      "XmlUI": ""
-                    }
-                  }
-                },
-                {
-                  "GUID": "70cdc8",
-                  "Name": "Custom_Assetbundle",
-                  "Transform": {
-                    "posX": 30.12123,
-                    "posY": 2.579242,
-                    "posZ": 13.4379749,
-                    "rotX": -7.85169E-06,
-                    "rotY": 134.995331,
-                    "rotZ": 2.076678E-05,
-                    "scaleX": 1.0,
-                    "scaleY": 1.0,
-                    "scaleZ": 1.0
-                  },
-                  "Nickname": "[E6DA9B]BOKHTAR TacAwareness[-] Paramedic, Viral Rfl, LSG",
-                  "Description": "[b]HI[/b] ● [AAFFAA]Regular[-] ● Hackable\r\n[sub]---------Attributes-------\r\n[/sub]\r\n[b]MOV[/b]: 6-2\r\n[b]CC[/b]: 20\r\n[b]BS[/b]: 13\r\n[b]PH[/b]: 13\r\n[b]WIP[/b]: 14\r\n[b]ARM[/b]: 4\r\n[b]BTS[/b]: 3\r\n[B]VITA[/B]: 2\r\n[B]S[/B]: 2\r\n[ffdddd][sub]----------Weapons---------\r\n[/sub]\r\nViral Rifle ● Light Shotgun ● D-Charges ● Viral Pistol ● Shock CC Weapon[-]\r\n[ddffdd][sub]---------Equipment--------\r\n[/sub]\r\nMediKit ● Multispectral Visor L1[-]\r\n[ddddff][sub]----------Skills ---------\r\n[/sub]\r\nParamedic ● Dodge(+2\") ● Tactical Awareness ● Religious Troop ● Immunity(Shock) ● Mimetism(-3) ● Dodge(+3) ● Super-Jump[-]\r\n[000191][-][000635][-][000001][-][000001][-][000004][-]",
+                  "Nickname": "[E6DA9B]BOKHTAR (Paramedics)[-] BSG(+1B), D-Charges",
+                  "Description": "[b]HI[/b] ● [AAFFAA]Regular[-] ● Hackable\n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 6-2\n[b]CC[/b]: 20\n[b]BS[/b]: 13\n[b]PH[/b]: 13\n[b]WIP[/b]: 14\n[b]ARM[/b]: 4\n[b]BTS[/b]: 3\n[B]VITA[/B]: 2\n[B]S[/B]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nBoarding Shotgun(+1B) ● Viral Pistol ● D-Charges ● Shock CC Weapon (PS=7)[-]\n[ddffdd][sub]---------Equipment--------\n[/sub]\nMultispectral Visor L1[-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nParachutist ● Tactical Awareness ● Paramedic ● Dodge(+3) ● Dodge(+2\") ● Religious Troop ● Immunity(Shock) ● Mimetism(-3) ● Super-Jump(Jet Propulsion)[-]\n[000191][-][000635][-][000001][-][000001][-][000003][-]",
                   "GMNotes": "",
                   "AltLookAngle": {
                     "x": 0.0,
