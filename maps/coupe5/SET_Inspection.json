@@ -6144,7 +6144,7 @@
           "HideWhenFaceDown": false,
           "Hands": false,
           "CustomAssetbundle": {
-            "AssetbundleURL": "http://infinitebucket.com/tts/scenesystem/steam.unity3d",
+            "AssetbundleURL": "https://raw.githubusercontent.com/DrHareng/Poissonnerie/refs/heads/main/assets/maps/effects/httpinfinitebucketcomttsscenesystemsteamunity3d.unity3d",
             "AssetbundleSecondaryURL": "",
             "MaterialIndex": 3,
             "TypeIndex": 0,
@@ -6196,7 +6196,7 @@
           "HideWhenFaceDown": false,
           "Hands": false,
           "CustomAssetbundle": {
-            "AssetbundleURL": "http://infinitebucket.com/tts/scenesystem/steam.unity3d",
+            "AssetbundleURL": "https://raw.githubusercontent.com/DrHareng/Poissonnerie/refs/heads/main/assets/maps/effects/httpinfinitebucketcomttsscenesystemsteamunity3d.unity3d",
             "AssetbundleSecondaryURL": "",
             "MaterialIndex": 3,
             "TypeIndex": 0,
