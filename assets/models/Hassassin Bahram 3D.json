@@ -15635,8 +15635,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "[FFFCA4]WARCOR[-] 6th Sense",
-                  "Description": "Painted by Deklar\n\n[b]LI[/b] ● Cube ● [FFFFAA]Irregular[-] \n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 4-4\n[b]CC[/b]: 11\n[b]BS[/b]: 9\n[b]PH[/b]: 11\n[b]WIP[/b]: 13\n[b]ARM[/b]: 0\n[b]BTS[/b]: 0\n[B]VITA[/B]: 1\n[b]S[/b]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nFlash Pulse ● Stun Pistol ● PARA CC Weapon (-3) [-]\n[ddddff][sub]----------Skills----------\n[/sub]\nJournalist (+3) ● Sixth Sense [-]\n[100032][-]\n",
+                  "Nickname": "[FFFCA4]WARCOR[-] 360º Visor",
+                  "Description": "[b]LI[/b] ● Cube ● [FFFFAA]Irregular[-] \n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 4-4\n[b]CC[/b]: 11\n[b]BS[/b]: 9\n[b]PH[/b]: 11\n[b]WIP[/b]: 13\n[b]ARM[/b]: 0\n[b]BTS[/b]: 0\n[B]VITA[/B]: 1\n[b]S[/b]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nFlash Pulse ● Stun Pistol ● PARA CC Weapon (-3) [-]\n[ddffdd][sub]---------Equipment--------\n[/sub]\n360º Visor[-]\n[ddddff][-]\n[100032][-]\n",
                   "GMNotes": "",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -15745,7 +15745,7 @@
                     "scaleZ": 1.0
                   },
                   "Nickname": "[FFFCA4]WARCOR[-] 6th Sense",
-                  "Description": "Painted by Deklar\n\n[b]LI[/b] ● Cube ● [FFFFAA]Irregular[-] \n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 4-4\n[b]CC[/b]: 11\n[b]BS[/b]: 9\n[b]PH[/b]: 11\n[b]WIP[/b]: 13\n[b]ARM[/b]: 0\n[b]BTS[/b]: 0\n[B]VITA[/B]: 1\n[b]S[/b]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nFlash Pulse ● Stun Pistol ● PARA CC Weapon (-3) [-]\n[ddddff][sub]----------Skills----------\n[/sub]\nJournalist (+3) ● Sixth Sense [-]\n[100032][-]\n",
+                  "Description": "[b]LI[/b] ● Cube ● [FFFFAA]Irregular[-] \n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 4-4\n[b]CC[/b]: 11\n[b]BS[/b]: 9\n[b]PH[/b]: 11\n[b]WIP[/b]: 13\n[b]ARM[/b]: 0\n[b]BTS[/b]: 0\n[B]VITA[/B]: 1\n[b]S[/b]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nFlash Pulse ● Stun Pistol ● PARA CC Weapon (-3) [-]\n[ddddff][sub]----------Skills----------\n[/sub]\nSixth Sense [-]\n[100032][-]\n",
                   "GMNotes": "",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -15905,8 +15905,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "[E6DA9B]SHAKUSH PILOT[-] Specialist, Light Shotgun",
-                  "Description": "Painted by Trox\n\n[b]LI[/b] ● Cube\n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 4-4\n[b]CC[/b]: 16\n[b]BS[/b]: 11\n[b]PH[/b]: 10\n[b]WIP[/b]: 14\n[b]ARM[/b]: 1\n[b]BTS[/b]: 0\n[B]VITA[/B]: 1\n[B]S[/B]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nLight Shotgun ● Pistol ● CC Weapon[-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nCourage ● Pilot ● Specialist Operative[-]\n[000191][-][00060A][-][000002][-][000001][-][000001][-]",
+                  "Nickname": "[E6DA9B]SHAKUSH PILOT[-] SMG, D-Charges",
+                  "Description": "[b]LI[/b] ● Cube\n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 4-4\n[b]CC[/b]: 16\n[b]BS[/b]: 11\n[b]PH[/b]: 10\n[b]WIP[/b]: 14\n[b]ARM[/b]: 1\n[b]BTS[/b]: 0\n[B]VITA[/B]: 1\n[B]S[/B]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nSubmachine Gun ● D-Charges ● Pistol ● CC Weapon[-]\n[ddffdd][sub]---------Equipment--------\n[/sub]\nGizmoKit [-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nCourage ● Religious Troop ● TAGCom(Dodge(PH+3), Gizmokit(PH+1)) ● Specialist Operative ● Terrain(Desert)[-]\n[000191][-][00060A][-][000002][-][000001][-][000001][-]",
                   "GMNotes": "",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -16024,8 +16024,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "[E6DA9B]HUNZAKUT [-] Sniper, Shock Mines",
-                  "Description": "Painted by Perzan @Hortwerth\n\n[b]SK[/b] ● [FFFFAA]Irregular[-]\n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 4-4\n[b]CC[/b]: 14\n[b]BS[/b]: 11\n[b]PH[/b]: 12\n[b]WIP[/b]: 14\n[b]ARM[/b]: 0\n[b]BTS[/b]: 0\n[B]VITA[/B]: 1\n[B]S[/B]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nSniper Rifle ● Shock Mines ● Pistol ● CC Weapon[-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nInfiltration ● Stealth ● Mimetism(-3) ● Surprise Attack(-3) ● Terrain(Total) ● Camouflage[-]\n[000191][-][000136][-][000001][-][000001][-][000002][-]",
+                  "Nickname": "[E6DA9B]SHAKUSH PILOT[-] SMG, D-Charges",
+                  "Description": "[b]LI[/b] ● Cube\n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 4-4\n[b]CC[/b]: 16\n[b]BS[/b]: 11\n[b]PH[/b]: 10\n[b]WIP[/b]: 14\n[b]ARM[/b]: 1\n[b]BTS[/b]: 0\n[B]VITA[/B]: 1\n[B]S[/B]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nSubmachine Gun ● D-Charges ● Pistol ● CC Weapon[-]\n[ddffdd][sub]---------Equipment--------\n[/sub]\nGizmoKit [-]\n[ddddff][sub]----------Skills ---------\n[/sub]\nCourage ● Religious Troop ● TAGCom(Dodge(PH+3), Gizmokit(PH+1)) ● Specialist Operative ● Terrain(Desert)[-]\n[000191][-][00060A][-][000002][-][000001][-][000001][-]",
                   "GMNotes": "",
                   "AltLookAngle": {
                     "x": 0.0,
