@@ -1,0 +1,152 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "20caef",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -19.8502579,
+        "posY": 7.59545374,
+        "posZ": 9.91694,
+        "rotX": -2.035555E-13,
+        "rotY": 180.0,
+        "rotZ": 0.0,
+        "scaleX": 1.23713756,
+        "scaleY": 1.05618978,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Ramp, Right Exit, No Support",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": true,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/2041869737218387758/148556010B53094F716C2899A7D7FF349B8A114F/",
+        "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/2041868205198984280/9C486C62D6D2E398F8194B4779E1BEACA967FCB7/",
+        "NormalURL": "",
+        "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/2041869737218387758/148556010B53094F716C2899A7D7FF349B8A114F/",
+        "Convex": false,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "States": {
+        "2": {
+          "GUID": "29791c",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -19.8502579,
+            "posY": 7.59545374,
+            "posZ": 9.91694,
+            "rotX": -2.035555E-13,
+            "rotY": 180.0,
+            "rotZ": 0.0,
+            "scaleX": 1.23713756,
+            "scaleY": 1.05618978,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Ramp, Toggle",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/2041868205270725056/FF3E5D2DCBC500DA8956379FF56743BA8C5548D6/",
+            "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/2041868205198984280/9C486C62D6D2E398F8194B4779E1BEACA967FCB7/",
+            "NormalURL": "",
+            "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/2041868205270725056/FF3E5D2DCBC500DA8956379FF56743BA8C5548D6/",
+            "Convex": false,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "SpecularIntensity": 0.0,
+              "SpecularSharpness": 2.0,
+              "FresnelStrength": 0.0
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      }
+    }
+  ]
+}

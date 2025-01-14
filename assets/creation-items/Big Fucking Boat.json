@@ -1,0 +1,75 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "5eab13",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 16.7126255,
+        "posY": 3.260978,
+        "posZ": 26.7439671,
+        "rotX": 9.54122152E-06,
+        "rotY": 90.01287,
+        "rotZ": 2.07167227E-06,
+        "scaleX": 2.299959,
+        "scaleY": 2.299959,
+        "scaleZ": 2.299959
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.6895652,
+        "g": 0.6895652,
+        "b": 0.6895652
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": true,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "https://gist.githubusercontent.com/anonymous/8d5dc0f3e4e4c66f521dcb2be3183754/raw/b95fcfd86f909b514476f998ed08eca14bde33b1/gistfile1.txt",
+        "DiffuseURL": "https://s13.postimg.cc/7bya6rqgl/fulltex.png",
+        "NormalURL": "",
+        "ColliderURL": "https://gist.githubusercontent.com/anonymous/4b2088da9e4f7b259fdad70465b627f4/raw/bc513847cd3a98152b36f4b43d5ca13a735048b2/gistfile1.txt",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 1,
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": ""
+    }
+  ]
+}

@@ -1,0 +1,821 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "205588",
+      "Name": "Custom_Model_Bag",
+      "Transform": {
+        "posX": 9.710343,
+        "posY": 3.503279,
+        "posZ": -3.617259,
+        "rotX": 358.9294,
+        "rotY": 269.9951,
+        "rotZ": 1.85673892,
+        "scaleX": 0.3,
+        "scaleY": 0.1,
+        "scaleZ": 2.7
+      },
+      "Nickname": "MAS District 5 walls",
+      "Description": "Micro Art Studio 3d scanned terrain designed for Infinity free for use. \nPlease retain credits information. \n(c)Micro Art Studio, (c)Perzan, (c)Zulu_Sauer",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.12156833,
+        "g": 0.5294118,
+        "b": 1.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1019447627780556745/E996D2C48681FE7EC6EDE0353D253BEF9C4E7801/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/783000497271621469/98975FF6B92CA276D7488D7C5DABC0511A7A07A8/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1019447627780556745/E996D2C48681FE7EC6EDE0353D253BEF9C4E7801/",
+        "Convex": true,
+        "MaterialIndex": 0,
+        "TypeIndex": 6,
+        "CastShadows": true
+      },
+      "Bag": {
+        "Order": 0
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ContainedObjects": [
+        {
+          "GUID": "f5b5e8",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -15.3642759,
+            "posY": 2.15344238,
+            "posZ": -19.760025,
+            "rotX": 4.509311,
+            "rotY": 354.3796,
+            "rotZ": 358.508636,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "District 5 Walls by [6B7D91]Micro[-] [C20D0D]Art[-] [6B7D91]Studio[-]\n\nPainted by Smoked Herring\n\nwww.shop.microartstudio.com\n",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1546380927207453584/89A8163320BB4FAA3D896B8D8F1FA0F525824FAC/",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 2,
+            "TypeIndex": 1,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "463f4b",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -27.6854439,
+            "posY": 2.179745,
+            "posZ": -18.1003647,
+            "rotX": 359.989136,
+            "rotY": 89.9999542,
+            "rotZ": 0.0141071659,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "District 5 Walls by [6B7D91]Micro[-] [C20D0D]Art[-] [6B7D91]Studio[-]\n\nPainted by Smoked Herring\n\nwww.shop.microartstudio.com\n",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1546380927207459244/43F3D0767C3E7C0C9DB57E58235DC74BF49F1245/",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 2,
+            "TypeIndex": 1,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "States": {
+            "2": {
+              "GUID": "82f53f",
+              "Name": "Custom_Assetbundle",
+              "Transform": {
+                "posX": -6.53474331,
+                "posY": 0.936147,
+                "posZ": -0.770987153,
+                "rotX": 0.005926873,
+                "rotY": 359.924255,
+                "rotZ": 359.94577,
+                "scaleX": 1.0,
+                "scaleY": 1.0,
+                "scaleZ": 1.0
+              },
+              "Nickname": "District 5 Walls by [6B7D91]Micro[-] [C20D0D]Art[-] [6B7D91]Studio[-]",
+              "Description": "Painted by Smoked Herring\n\nwww.shop.microartstudio.com\n",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomAssetbundle": {
+                "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1546380927207448941/ED4C675CC0C2B2F29BE7A65996F3F5AD0AEB113B/",
+                "AssetbundleSecondaryURL": "",
+                "MaterialIndex": 2,
+                "TypeIndex": 1,
+                "LoopingEffectIndex": 0
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            }
+          }
+        },
+        {
+          "GUID": "e8b3a7",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -24.49087,
+            "posY": 2.14764047,
+            "posZ": -21.0372219,
+            "rotX": -6.049131E-06,
+            "rotY": 269.999878,
+            "rotZ": -2.2924216E-05,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "District 5 Walls by [6B7D91]Micro[-] [C20D0D]Art[-] [6B7D91]Studio[-]\n\nPainted by Smoked Herring\n\nwww.shop.microartstudio.com\n",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1546380927207454927/02617D5937D030CF556983E377C79D87546953E1/",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 2,
+            "TypeIndex": 1,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "States": {
+            "2": {
+              "GUID": "b38b6c",
+              "Name": "Custom_Assetbundle",
+              "Transform": {
+                "posX": 3.54342937,
+                "posY": 0.932000756,
+                "posZ": -5.85861063,
+                "rotX": 1.47712017E-05,
+                "rotY": -0.000297835126,
+                "rotZ": 0.000229600162,
+                "scaleX": 1.0,
+                "scaleY": 1.0,
+                "scaleZ": 1.0
+              },
+              "Nickname": "District 5 Walls by [6B7D91]Micro[-] [C20D0D]Art[-] [6B7D91]Studio[-]",
+              "Description": "www.shop.microartstudio.com",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomAssetbundle": {
+                "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1546380927207457899/A9C8FBC7ADE20F4D3E97373B767F932987E8CD82/",
+                "AssetbundleSecondaryURL": "",
+                "MaterialIndex": 2,
+                "TypeIndex": 1,
+                "LoopingEffectIndex": 0
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            }
+          }
+        },
+        {
+          "GUID": "8b19f5",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -21.1923218,
+            "posY": 2.12765312,
+            "posZ": -16.5047531,
+            "rotX": 3.0307714E-05,
+            "rotY": 89.99231,
+            "rotZ": -0.00282597379,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "District 5 Walls by [6B7D91]Micro[-] [C20D0D]Art[-] [6B7D91]Studio[-]\n\nPainted by Smoked Herring\n\nwww.shop.microartstudio.com\n",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1546380927207456753/ED1D9ACA2894EDC6F037188A050AB6C797DB000D/",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 2,
+            "TypeIndex": 1,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "4bc296",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -18.7522774,
+            "posY": 2.14764071,
+            "posZ": -22.8573875,
+            "rotX": -2.10998064E-06,
+            "rotY": 90.02436,
+            "rotZ": 6.63769E-06,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "District 5 Walls by [6B7D91]Micro[-] [C20D0D]Art[-] [6B7D91]Studio[-]\n\nPainted by Smoked Herring\n\nwww.shop.microartstudio.com\n",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1546380927207463281/BBFFD4FB8781348C7F2526E705D5F3554DCA3659/",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 2,
+            "TypeIndex": 1,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "f2a646",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -12.2850475,
+            "posY": 2.14765072,
+            "posZ": -18.3137112,
+            "rotX": 0.00142765383,
+            "rotY": 180.000031,
+            "rotZ": -0.0007220928,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "District 5 Walls by [6B7D91]Micro[-] [C20D0D]Art[-] [6B7D91]Studio[-]\n\nPainted by Smoked Herring\n\nwww.shop.microartstudio.com\n",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1546380927207452530/37ACAC564A693DF5C34BFC572052EF221D95A1F1/",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 2,
+            "TypeIndex": 1,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "7deeef",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -6.34786034,
+            "posY": 2.14764023,
+            "posZ": -15.8661919,
+            "rotX": -1.95379816E-05,
+            "rotY": 89.9993744,
+            "rotZ": -6.84379556E-05,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "District 5 Walls by [6B7D91]Micro[-] [C20D0D]Art[-] [6B7D91]Studio[-]\n\nPainted by Smoked Herring\n\nwww.shop.microartstudio.com\n",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1546380927207457899/A9C8FBC7ADE20F4D3E97373B767F932987E8CD82/",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 2,
+            "TypeIndex": 1,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "fa2a54",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -11.127409,
+            "posY": 2.1276536,
+            "posZ": -13.0261021,
+            "rotX": 0.0005882767,
+            "rotY": 89.9999847,
+            "rotZ": -0.005233162,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "District 5 Walls by [6B7D91]Micro[-] [C20D0D]Art[-] [6B7D91]Studio[-]\n\nPainted by Smoked Herring\n\nwww.shop.microartstudio.com\n",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1546380927207461904/FC091BD1D2C2DD353C82A79CB23EB00CFB1256D7/",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 2,
+            "TypeIndex": 1,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "baa280",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -15.8569717,
+            "posY": 2.13635254,
+            "posZ": -12.7405491,
+            "rotX": 0.00462946761,
+            "rotY": 89.95301,
+            "rotZ": 0.315587729,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "District 5 Walls by [6B7D91]Micro[-] [C20D0D]Art[-] [6B7D91]Studio[-]\n\nPainted by Smoked Herring\n\nwww.shop.microartstudio.com\n",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1546380927207461904/FC091BD1D2C2DD353C82A79CB23EB00CFB1256D7/",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 2,
+            "TypeIndex": 1,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "a14cbf",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -16.1215954,
+            "posY": 2.159719,
+            "posZ": -19.1185646,
+            "rotX": 0.128618762,
+            "rotY": 272.251282,
+            "rotZ": 3.76139665,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "District 5 Walls by [6B7D91]Micro[-] [C20D0D]Art[-] [6B7D91]Studio[-]\n\nPainted by Smoked Herring\n\nwww.shop.microartstudio.com\n",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1546380927207454927/02617D5937D030CF556983E377C79D87546953E1/",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 2,
+            "TypeIndex": 1,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      ],
+      "ChildObjects": [
+        {
+          "GUID": "7a2a05",
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.03549433E-10,
+            "posY": 0.880479157,
+            "posZ": -6.12143738E-11,
+            "rotX": 1.73659814E-07,
+            "rotY": 270.0,
+            "rotZ": 3.250337E-08,
+            "scaleX": 0.5617977,
+            "scaleY": 1.58730173,
+            "scaleZ": 0.999999762
+          },
+          "Nickname": "Lieutenant Order",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.6117647,
+            "g": 0.6,
+            "b": 0.607843161
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1753558107725732805/990B54B1C509ACD8D969B6D1298E3983D8AB684C/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 0,
+              "Thickness": 0.1,
+              "Stackable": true,
+              "Stretch": true
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "96a048",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -0.321331024,
+            "posY": -1.27998,
+            "posZ": -0.006554235,
+            "rotX": -2.378389E-06,
+            "rotY": -0.000184415112,
+            "rotZ": -2.15182572E-05,
+            "scaleX": 3.33333278,
+            "scaleY": 10.0,
+            "scaleZ": 0.370370358
+          },
+          "Nickname": "District 5 Walls by [6B7D91]Micro[-] [C20D0D]Art[-] [6B7D91]Studio[-]",
+          "Description": "Painted by Smoked Herring\n\nwww.shop.microartstudio.com\n",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1546380927207454927/02617D5937D030CF556983E377C79D87546953E1/",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 2,
+            "TypeIndex": 1,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      ]
+    }
+  ]
+}

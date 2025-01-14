@@ -1,0 +1,132 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "47844d",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 5.28472233,
+        "posY": 2.211077,
+        "posZ": 7.155201,
+        "rotX": -0.000609960349,
+        "rotY": 315.0223,
+        "rotZ": 180.000931,
+        "scaleX": 0.33,
+        "scaleY": 0.5,
+        "scaleZ": 0.6
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/960844484159480635/46B1E4F1C5F9650FA95587AADA651FC18010C12B/",
+        "DiffuseURL": "https://opengameart.org/sites/default/files/oga-textures/22251/vegetation_hedge_22.png",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/960844484159481437/3D6B6796766AE18E55AD504F05571523E9D208A7/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ChildObjects": [
+        {
+          "GUID": "a441ee",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -0.022574082,
+            "posY": 1.990815E-08,
+            "posZ": 3.77058268,
+            "rotX": -1.15100909E-06,
+            "rotY": 0.008409534,
+            "rotZ": -5.879201E-06,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "http://cloud-3.steamusercontent.com/ugc/960844484159480635/46B1E4F1C5F9650FA95587AADA651FC18010C12B/",
+            "DiffuseURL": "https://opengameart.org/sites/default/files/oga-textures/22251/vegetation_hedge_22.png",
+            "NormalURL": "",
+            "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/960844484159481437/3D6B6796766AE18E55AD504F05571523E9D208A7/",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "28d610",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 22.1316566,
+        "posY": 1.57700086,
+        "posZ": -1.28273165,
+        "rotX": 1.63850586E-06,
+        "rotY": 179.999939,
+        "rotZ": -7.02952866E-06,
+        "scaleX": 3.74999857,
+        "scaleY": 3.74999857,
+        "scaleZ": 3.74999857
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.5273617,
+        "g": 0.126197428,
+        "b": 0.6878261
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "https://gist.githubusercontent.com/anonymous/0e42acec0762e84419ab4bb9123049ba/raw/4b1f536e01c7d731d13f77ab743de6a162c818da/gistfile1.txt",
+        "DiffuseURL": "https://s27.postimg.cc/wd4vs53xt/Lampy.png",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 0,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": ""
+    }
+  ]
+}

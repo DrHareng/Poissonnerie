@@ -1,0 +1,219 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "f06bfa",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -8.21198,
+        "posY": 5.05,
+        "posZ": 15.3558054,
+        "rotX": 0.0,
+        "rotY": 90.0,
+        "rotZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Building",
+      "Description": "2.1\" tall.\nTrue Line of Fire.\nOpen windows and doors - Move through and Line of Fire through.\nClosed doors - Move through, no Line of Fire through.",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": true,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/2041870107031584511/7B2E86F63C551C7433335C7173BE92263F966C84/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/2041868205198984280/9C486C62D6D2E398F8194B4779E1BEACA967FCB7/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/2041870107031584511/7B2E86F63C551C7433335C7173BE92263F966C84/",
+        "Convex": false,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "States": {
+        "1": {
+          "GUID": "1a74ca",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -8.21198,
+            "posY": 5.05,
+            "posZ": 15.3558054,
+            "rotX": 0.0,
+            "rotY": 90.0,
+            "rotZ": 0.0,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Building",
+          "Description": "2.1\" tall.\nTrue Line of Fire.\nOpen windows and doors - Move through and Line of Fire through.\nClosed doors - Move through, no Line of Fire through.",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": true,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "http://cloud-3.steamusercontent.com/ugc/2041870107031584511/7B2E86F63C551C7433335C7173BE92263F966C84/",
+            "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/2041868205198984280/9C486C62D6D2E398F8194B4779E1BEACA967FCB7/",
+            "NormalURL": "",
+            "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/2041870107031584511/7B2E86F63C551C7433335C7173BE92263F966C84/",
+            "Convex": false,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "SpecularIntensity": 0.0,
+              "SpecularSharpness": 2.0,
+              "FresnelStrength": 0.0
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "ChildObjects": [
+            {
+              "GUID": "e72840",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": 0.0119574349,
+                "posY": 1.99997711,
+                "posZ": -0.0384341478,
+                "rotX": -0.000195095388,
+                "rotY": 359.9621,
+                "rotZ": -0.000498955662,
+                "scaleX": 1.00000012,
+                "scaleY": 1.0,
+                "scaleZ": 1.00000012
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/2041869737213570883/6DE386E04197307F1EFA9B53926AFAAF93B43781/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/2041868205198984280/9C486C62D6D2E398F8194B4779E1BEACA967FCB7/",
+                "NormalURL": "",
+                "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/2041869737213570883/6DE386E04197307F1EFA9B53926AFAAF93B43781/",
+                "Convex": false,
+                "MaterialIndex": 3,
+                "TypeIndex": 0,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 2.0,
+                  "FresnelStrength": 0.0
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

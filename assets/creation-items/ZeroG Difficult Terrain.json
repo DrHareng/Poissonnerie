@@ -1,0 +1,76 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "2be6cb",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 0.0,
+        "posY": 2.0,
+        "posZ": 0.0,
+        "rotX": 0.0,
+        "rotY": 90.04142,
+        "rotZ": -3.507302E-06,
+        "scaleX": 24.0,
+        "scaleY": 0.8,
+        "scaleZ": 24.0
+      },
+      "Nickname": "Zero-G (Difficult Terrain)",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.113725282,
+        "g": 0.0627449453,
+        "b": 0.4666664,
+        "a": 0.429368079
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": true,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/1019447627780556745/E996D2C48681FE7EC6EDE0353D253BEF9C4E7801/",
+        "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/783000497271621469/98975FF6B92CA276D7488D7C5DABC0511A7A07A8/",
+        "NormalURL": "",
+        "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/1019447627780556745/E996D2C48681FE7EC6EDE0353D253BEF9C4E7801/",
+        "Convex": true,
+        "MaterialIndex": 0,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": ""
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "fb11e4",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 8.48973,
+        "posY": 2.911181,
+        "posZ": -20.882843,
+        "rotX": 0.208981425,
+        "rotY": 270.000061,
+        "rotZ": -8.335688E-05,
+        "scaleX": 0.250000417,
+        "scaleY": 0.2384055,
+        "scaleZ": 0.250000417
+      },
+      "Nickname": "Manufacturer",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "https://pastebin.com/raw/8HStGmvc",
+        "DiffuseURL": "http://orig02.deviantart.net/2ac4/f/2017/094/b/9/mach_by_itchydani3l-db4ohxj.png",
+        "NormalURL": "",
+        "ColliderURL": "https://pastebin.com/raw/qM8G2Gwc",
+        "Convex": true,
+        "MaterialIndex": 2,
+        "TypeIndex": 1,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 0.7372549,
+            "g": 0.7372549,
+            "b": 0.7372549
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": ""
+    }
+  ]
+}

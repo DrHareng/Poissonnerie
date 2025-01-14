@@ -1,0 +1,77 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "b82b3d",
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": -18.35608,
+        "posY": 5.698768,
+        "posZ": 15.6428614,
+        "rotX": 345.6726,
+        "rotY": 90.97172,
+        "rotZ": 3.76131177,
+        "scaleX": 12.0,
+        "scaleY": 1.0,
+        "scaleZ": 16.0
+      },
+      "Nickname": "Shallow Water",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.249995589,
+        "g": 0.249995589,
+        "b": 0.249995589
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": false,
+      "Snap": false,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": false,
+      "Tooltip": false,
+      "GridProjection": true,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1263771316479223192/A4327020697A2458C37E8FB58DAB203794DAD2CA/",
+        "ImageSecondaryURL": "http://cloud-3.steamusercontent.com/ugc/1764818447610162076/077667514B9647A58E54408941578615A56F05A7/",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 0,
+          "Thickness": 0.1,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": ""
+    }
+  ]
+}

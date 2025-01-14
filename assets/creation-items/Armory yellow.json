@@ -1,0 +1,2830 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "da47e4",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -0.02360998,
+        "posY": 1.09836137,
+        "posZ": 0.03256546,
+        "rotX": 6.513776E-12,
+        "rotY": 0.0,
+        "rotZ": 0.0,
+        "scaleX": 2.0,
+        "scaleY": 0.73,
+        "scaleZ": 2.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.960784256,
+        "g": 0.8,
+        "b": 0.06274395,
+        "a": 0.235294119
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": true,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+        "DiffuseURL": "",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "States": {
+        "2": {
+          "GUID": "90ba5d",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -0.02360998,
+            "posY": 1.09836137,
+            "posZ": 0.03256546,
+            "rotX": 6.513776E-12,
+            "rotY": 0.0,
+            "rotZ": 0.0,
+            "scaleX": 2.0,
+            "scaleY": 0.73,
+            "scaleZ": 2.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.960784256,
+            "g": 0.8,
+            "b": 0.062744,
+            "a": 0.235294119
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": true,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+            "DiffuseURL": "",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "SpecularIntensity": 0.0,
+              "SpecularSharpness": 2.0,
+              "FresnelStrength": 0.0
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "ChildObjects": [
+            {
+              "GUID": "e17a7d",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": -1.20001423,
+                "posY": 3.643835,
+                "posZ": 2.0,
+                "rotX": 90.0,
+                "rotY": 0.0,
+                "rotZ": 0.0,
+                "scaleX": 0.3900906,
+                "scaleY": 0.366801053,
+                "scaleZ": 1.84274387
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 0.996078432,
+                "b": 1.0,
+                "a": 0.7058824
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1664605849280126167/554AEA0F3618A59F80C92D4E74B20A45D57E6968/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 3,
+                "TypeIndex": 0,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 2.0,
+                  "FresnelStrength": 0.0
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "f2991c",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": -1.99501419,
+                "posY": 3.643835,
+                "posZ": 1.205,
+                "rotX": 90.0,
+                "rotY": 90.0,
+                "rotZ": 0.0,
+                "scaleX": 0.39,
+                "scaleY": 0.3667936,
+                "scaleZ": 1.84931493
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 0.996078432,
+                "b": 1.0,
+                "a": 0.7058824
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1664605849280126167/554AEA0F3618A59F80C92D4E74B20A45D57E6968/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 3,
+                "TypeIndex": 0,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 2.0,
+                  "FresnelStrength": 0.0
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "062eb8",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": -1.99501419,
+                "posY": 3.643835,
+                "posZ": -1.20431089,
+                "rotX": 90.0,
+                "rotY": 90.0,
+                "rotZ": 0.0,
+                "scaleX": 0.3885897,
+                "scaleY": 0.3667936,
+                "scaleZ": 1.84931493
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 0.996078432,
+                "b": 1.0,
+                "a": 0.7058824
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1664605849280126167/554AEA0F3618A59F80C92D4E74B20A45D57E6968/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 3,
+                "TypeIndex": 0,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 2.0,
+                  "FresnelStrength": 0.0
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "be92ef",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": -1.20001423,
+                "posY": 3.64381027,
+                "posZ": -2.0,
+                "rotX": 90.0,
+                "rotY": 0.0,
+                "rotZ": 0.0,
+                "scaleX": 0.3900906,
+                "scaleY": 0.366801053,
+                "scaleZ": 1.84274387
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 0.996078432,
+                "b": 1.0,
+                "a": 0.7058824
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1664605849280126167/554AEA0F3618A59F80C92D4E74B20A45D57E6968/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 3,
+                "TypeIndex": 0,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 2.0,
+                  "FresnelStrength": 0.0
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "c8fc9c",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": 1.20998585,
+                "posY": 3.643835,
+                "posZ": -2.0,
+                "rotX": 90.0,
+                "rotY": 0.0,
+                "rotZ": 0.0,
+                "scaleX": 0.3900906,
+                "scaleY": 0.366801053,
+                "scaleZ": 1.84274387
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 0.996078432,
+                "b": 1.0,
+                "a": 0.7058824
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1664605849280126167/554AEA0F3618A59F80C92D4E74B20A45D57E6968/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 3,
+                "TypeIndex": 0,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 2.0,
+                  "FresnelStrength": 0.0
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "d95139",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": 2.00498581,
+                "posY": 3.643835,
+                "posZ": -1.205,
+                "rotX": 90.0,
+                "rotY": 90.0,
+                "rotZ": 0.0,
+                "scaleX": 0.3885897,
+                "scaleY": 0.3667936,
+                "scaleZ": 1.84931493
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.7058824
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1664605849280126167/554AEA0F3618A59F80C92D4E74B20A45D57E6968/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 3,
+                "TypeIndex": 0,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 2.0,
+                  "FresnelStrength": 0.0
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "569688",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": 1.20998585,
+                "posY": 3.643835,
+                "posZ": 2.0,
+                "rotX": 90.0,
+                "rotY": 0.0,
+                "rotZ": 0.0,
+                "scaleX": 0.3900906,
+                "scaleY": 0.366801053,
+                "scaleZ": 1.84274387
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 0.996078432,
+                "b": 1.0,
+                "a": 0.7058824
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1664605849280126167/554AEA0F3618A59F80C92D4E74B20A45D57E6968/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 3,
+                "TypeIndex": 0,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 2.0,
+                  "FresnelStrength": 0.0
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "344034",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": 2.00498581,
+                "posY": 3.643835,
+                "posZ": 1.205,
+                "rotX": 90.0,
+                "rotY": 90.0,
+                "rotZ": 0.0,
+                "scaleX": 0.39,
+                "scaleY": 0.3667936,
+                "scaleZ": 1.84931493
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 0.996078432,
+                "b": 1.0,
+                "a": 0.7058824
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1664605849280126167/554AEA0F3618A59F80C92D4E74B20A45D57E6968/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 3,
+                "TypeIndex": 0,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 2.0,
+                  "FresnelStrength": 0.0
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "87bc3e",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": 2.00498581,
+                "posY": 6.36986256,
+                "posZ": 0.0,
+                "rotX": 90.0,
+                "rotY": 89.99999,
+                "rotZ": 0.0,
+                "scaleX": 0.215,
+                "scaleY": 0.3667936,
+                "scaleZ": 0.452054769
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.7058824
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1664605849283491678/4E587D448DCA2C49B537C9A531C4D6E2B48F7110/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 3,
+                "TypeIndex": 0,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 2.0,
+                  "FresnelStrength": 0.0
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "States": {
+                "1": {
+                  "GUID": "fa8bb6",
+                  "Name": "Custom_Model",
+                  "Transform": {
+                    "posX": 32.6544838,
+                    "posY": 6.03552437,
+                    "posZ": 10.568882,
+                    "rotX": 90.0,
+                    "rotY": 89.99999,
+                    "rotZ": 0.0,
+                    "scaleX": 0.43,
+                    "scaleY": 0.7335872,
+                    "scaleZ": 0.33
+                  },
+                  "Nickname": "",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 0.7058824
+                  },
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": true,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": true,
+                  "HideWhenFaceDown": false,
+                  "Hands": false,
+                  "CustomMesh": {
+                    "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+                    "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1664605849283491678/4E587D448DCA2C49B537C9A531C4D6E2B48F7110/",
+                    "NormalURL": "",
+                    "ColliderURL": "",
+                    "Convex": true,
+                    "MaterialIndex": 3,
+                    "TypeIndex": 0,
+                    "CustomShader": {
+                      "SpecularColor": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0
+                      },
+                      "SpecularIntensity": 0.0,
+                      "SpecularSharpness": 2.0,
+                      "FresnelStrength": 0.0
+                    },
+                    "CastShadows": true
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": "",
+                  "ChildObjects": [
+                    {
+                      "GUID": "d1e881",
+                      "Name": "Custom_Model",
+                      "Transform": {
+                        "posX": 0.0,
+                        "posY": 0.0,
+                        "posZ": 8.09091,
+                        "rotX": 0.000315896265,
+                        "rotY": 1.70274132E-06,
+                        "rotZ": -0.00174340582,
+                        "scaleX": 1.0,
+                        "scaleY": 1.0,
+                        "scaleZ": 3.060606
+                      },
+                      "Nickname": "",
+                      "Description": "",
+                      "GMNotes": "",
+                      "AltLookAngle": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                      },
+                      "ColorDiffuse": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "a": 0.7058824
+                      },
+                      "LayoutGroupSortIndex": 0,
+                      "Value": 0,
+                      "Locked": true,
+                      "Grid": true,
+                      "Snap": true,
+                      "IgnoreFoW": false,
+                      "MeasureMovement": false,
+                      "DragSelectable": true,
+                      "Autoraise": true,
+                      "Sticky": true,
+                      "Tooltip": true,
+                      "GridProjection": true,
+                      "HideWhenFaceDown": false,
+                      "Hands": false,
+                      "CustomMesh": {
+                        "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+                        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1664605849283524034/0B096DA82753C247B5703A6F686C92D184785AEC/",
+                        "NormalURL": "",
+                        "ColliderURL": "",
+                        "Convex": true,
+                        "MaterialIndex": 3,
+                        "TypeIndex": 0,
+                        "CustomShader": {
+                          "SpecularColor": {
+                            "r": 1.0,
+                            "g": 1.0,
+                            "b": 1.0
+                          },
+                          "SpecularIntensity": 0.0,
+                          "SpecularSharpness": 2.0,
+                          "FresnelStrength": 0.0
+                        },
+                        "CastShadows": true
+                      },
+                      "LuaScript": "",
+                      "LuaScriptState": "",
+                      "XmlUI": ""
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "GUID": "26be3d",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": 0.00498580933,
+                "posY": 6.36986256,
+                "posZ": 2.0,
+                "rotX": 90.0,
+                "rotY": 0.0,
+                "rotZ": 0.0,
+                "scaleX": 0.215,
+                "scaleY": 0.366793573,
+                "scaleZ": 0.452054828
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.7058824
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1664605849283491678/4E587D448DCA2C49B537C9A531C4D6E2B48F7110/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 3,
+                "TypeIndex": 0,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 2.0,
+                  "FresnelStrength": 0.0
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "States": {
+                "1": {
+                  "GUID": "f91677",
+                  "Name": "Custom_Model",
+                  "Transform": {
+                    "posX": 28.6544838,
+                    "posY": 6.03552437,
+                    "posZ": 14.568882,
+                    "rotX": 90.0,
+                    "rotY": 0.0,
+                    "rotZ": 0.0,
+                    "scaleX": 0.43,
+                    "scaleY": 0.7335872,
+                    "scaleZ": 0.33
+                  },
+                  "Nickname": "",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 0.7058824
+                  },
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": true,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": true,
+                  "HideWhenFaceDown": false,
+                  "Hands": false,
+                  "CustomMesh": {
+                    "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+                    "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1664605849283491678/4E587D448DCA2C49B537C9A531C4D6E2B48F7110/",
+                    "NormalURL": "",
+                    "ColliderURL": "",
+                    "Convex": true,
+                    "MaterialIndex": 3,
+                    "TypeIndex": 0,
+                    "CustomShader": {
+                      "SpecularColor": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0
+                      },
+                      "SpecularIntensity": 0.0,
+                      "SpecularSharpness": 2.0,
+                      "FresnelStrength": 0.0
+                    },
+                    "CastShadows": true
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": "",
+                  "ChildObjects": [
+                    {
+                      "GUID": "d1e881",
+                      "Name": "Custom_Model",
+                      "Transform": {
+                        "posX": 0.0,
+                        "posY": 0.0,
+                        "posZ": 8.09091,
+                        "rotX": 0.000315896265,
+                        "rotY": 1.70274132E-06,
+                        "rotZ": -0.00174340582,
+                        "scaleX": 1.0,
+                        "scaleY": 1.0,
+                        "scaleZ": 3.060606
+                      },
+                      "Nickname": "",
+                      "Description": "",
+                      "GMNotes": "",
+                      "AltLookAngle": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                      },
+                      "ColorDiffuse": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "a": 0.7058824
+                      },
+                      "LayoutGroupSortIndex": 0,
+                      "Value": 0,
+                      "Locked": true,
+                      "Grid": true,
+                      "Snap": true,
+                      "IgnoreFoW": false,
+                      "MeasureMovement": false,
+                      "DragSelectable": true,
+                      "Autoraise": true,
+                      "Sticky": true,
+                      "Tooltip": true,
+                      "GridProjection": true,
+                      "HideWhenFaceDown": false,
+                      "Hands": false,
+                      "CustomMesh": {
+                        "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+                        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1664605849283524034/0B096DA82753C247B5703A6F686C92D184785AEC/",
+                        "NormalURL": "",
+                        "ColliderURL": "",
+                        "Convex": true,
+                        "MaterialIndex": 3,
+                        "TypeIndex": 0,
+                        "CustomShader": {
+                          "SpecularColor": {
+                            "r": 1.0,
+                            "g": 1.0,
+                            "b": 1.0
+                          },
+                          "SpecularIntensity": 0.0,
+                          "SpecularSharpness": 2.0,
+                          "FresnelStrength": 0.0
+                        },
+                        "CastShadows": true
+                      },
+                      "LuaScript": "",
+                      "LuaScriptState": "",
+                      "XmlUI": ""
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "GUID": "26be51",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": -1.99501419,
+                "posY": 6.36986256,
+                "posZ": 0.0,
+                "rotX": 90.0,
+                "rotY": 89.99999,
+                "rotZ": 0.0,
+                "scaleX": 0.215,
+                "scaleY": 0.3667936,
+                "scaleZ": 0.452054769
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.7058824
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1664605849283491678/4E587D448DCA2C49B537C9A531C4D6E2B48F7110/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 3,
+                "TypeIndex": 0,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 2.0,
+                  "FresnelStrength": 0.0
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "States": {
+                "1": {
+                  "GUID": "9b73bd",
+                  "Name": "Custom_Model",
+                  "Transform": {
+                    "posX": 24.6544838,
+                    "posY": 6.03552437,
+                    "posZ": 10.568882,
+                    "rotX": 90.0,
+                    "rotY": 89.99999,
+                    "rotZ": 0.0,
+                    "scaleX": 0.43,
+                    "scaleY": 0.7335872,
+                    "scaleZ": 0.33
+                  },
+                  "Nickname": "",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 0.7058824
+                  },
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": true,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": true,
+                  "HideWhenFaceDown": false,
+                  "Hands": false,
+                  "CustomMesh": {
+                    "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+                    "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1664605849283491678/4E587D448DCA2C49B537C9A531C4D6E2B48F7110/",
+                    "NormalURL": "",
+                    "ColliderURL": "",
+                    "Convex": true,
+                    "MaterialIndex": 3,
+                    "TypeIndex": 0,
+                    "CustomShader": {
+                      "SpecularColor": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0
+                      },
+                      "SpecularIntensity": 0.0,
+                      "SpecularSharpness": 2.0,
+                      "FresnelStrength": 0.0
+                    },
+                    "CastShadows": true
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": "",
+                  "ChildObjects": [
+                    {
+                      "GUID": "d1e881",
+                      "Name": "Custom_Model",
+                      "Transform": {
+                        "posX": 0.0,
+                        "posY": 0.0,
+                        "posZ": 8.09091,
+                        "rotX": 0.000315896265,
+                        "rotY": 1.70274132E-06,
+                        "rotZ": -0.00174340582,
+                        "scaleX": 1.0,
+                        "scaleY": 1.0,
+                        "scaleZ": 3.060606
+                      },
+                      "Nickname": "",
+                      "Description": "",
+                      "GMNotes": "",
+                      "AltLookAngle": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                      },
+                      "ColorDiffuse": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "a": 0.7058824
+                      },
+                      "LayoutGroupSortIndex": 0,
+                      "Value": 0,
+                      "Locked": true,
+                      "Grid": true,
+                      "Snap": true,
+                      "IgnoreFoW": false,
+                      "MeasureMovement": false,
+                      "DragSelectable": true,
+                      "Autoraise": true,
+                      "Sticky": true,
+                      "Tooltip": true,
+                      "GridProjection": true,
+                      "HideWhenFaceDown": false,
+                      "Hands": false,
+                      "CustomMesh": {
+                        "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+                        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1664605849283524034/0B096DA82753C247B5703A6F686C92D184785AEC/",
+                        "NormalURL": "",
+                        "ColliderURL": "",
+                        "Convex": true,
+                        "MaterialIndex": 3,
+                        "TypeIndex": 0,
+                        "CustomShader": {
+                          "SpecularColor": {
+                            "r": 1.0,
+                            "g": 1.0,
+                            "b": 1.0
+                          },
+                          "SpecularIntensity": 0.0,
+                          "SpecularSharpness": 2.0,
+                          "FresnelStrength": 0.0
+                        },
+                        "CastShadows": true
+                      },
+                      "LuaScript": "",
+                      "LuaScriptState": "",
+                      "XmlUI": ""
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "GUID": "2c42ce",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": 0.00498580933,
+                "posY": 6.36986256,
+                "posZ": -2.0,
+                "rotX": 90.0,
+                "rotY": 0.0,
+                "rotZ": 0.0,
+                "scaleX": 0.215,
+                "scaleY": 0.366793573,
+                "scaleZ": 0.452054828
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.7058824
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1664605849283491678/4E587D448DCA2C49B537C9A531C4D6E2B48F7110/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 3,
+                "TypeIndex": 0,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 2.0,
+                  "FresnelStrength": 0.0
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "States": {
+                "1": {
+                  "GUID": "70b9f2",
+                  "Name": "Custom_Model",
+                  "Transform": {
+                    "posX": 28.6544838,
+                    "posY": 6.03552437,
+                    "posZ": 6.568882,
+                    "rotX": 90.0,
+                    "rotY": 0.0,
+                    "rotZ": 0.0,
+                    "scaleX": 0.43,
+                    "scaleY": 0.7335872,
+                    "scaleZ": 0.33
+                  },
+                  "Nickname": "",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 0.7058824
+                  },
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": true,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": true,
+                  "HideWhenFaceDown": false,
+                  "Hands": false,
+                  "CustomMesh": {
+                    "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+                    "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1664605849283491678/4E587D448DCA2C49B537C9A531C4D6E2B48F7110/",
+                    "NormalURL": "",
+                    "ColliderURL": "",
+                    "Convex": true,
+                    "MaterialIndex": 3,
+                    "TypeIndex": 0,
+                    "CustomShader": {
+                      "SpecularColor": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0
+                      },
+                      "SpecularIntensity": 0.0,
+                      "SpecularSharpness": 2.0,
+                      "FresnelStrength": 0.0
+                    },
+                    "CastShadows": true
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": "",
+                  "ChildObjects": [
+                    {
+                      "GUID": "d1e881",
+                      "Name": "Custom_Model",
+                      "Transform": {
+                        "posX": 0.0,
+                        "posY": 0.0,
+                        "posZ": 8.09091,
+                        "rotX": 0.000315896265,
+                        "rotY": 1.70274132E-06,
+                        "rotZ": -0.00174340582,
+                        "scaleX": 1.0,
+                        "scaleY": 1.0,
+                        "scaleZ": 3.060606
+                      },
+                      "Nickname": "",
+                      "Description": "",
+                      "GMNotes": "",
+                      "AltLookAngle": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                      },
+                      "ColorDiffuse": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "a": 0.7058824
+                      },
+                      "LayoutGroupSortIndex": 0,
+                      "Value": 0,
+                      "Locked": true,
+                      "Grid": true,
+                      "Snap": true,
+                      "IgnoreFoW": false,
+                      "MeasureMovement": false,
+                      "DragSelectable": true,
+                      "Autoraise": true,
+                      "Sticky": true,
+                      "Tooltip": true,
+                      "GridProjection": true,
+                      "HideWhenFaceDown": false,
+                      "Hands": false,
+                      "CustomMesh": {
+                        "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+                        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1664605849283524034/0B096DA82753C247B5703A6F686C92D184785AEC/",
+                        "NormalURL": "",
+                        "ColliderURL": "",
+                        "Convex": true,
+                        "MaterialIndex": 3,
+                        "TypeIndex": 0,
+                        "CustomShader": {
+                          "SpecularColor": {
+                            "r": 1.0,
+                            "g": 1.0,
+                            "b": 1.0
+                          },
+                          "SpecularIntensity": 0.0,
+                          "SpecularSharpness": 2.0,
+                          "FresnelStrength": 0.0
+                        },
+                        "CastShadows": true
+                      },
+                      "LuaScript": "",
+                      "LuaScriptState": "",
+                      "XmlUI": ""
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      },
+      "ChildObjects": [
+        {
+          "GUID": "e17a7d",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -1.20001423,
+            "posY": 3.643835,
+            "posZ": 2.0,
+            "rotX": 90.0,
+            "rotY": 0.0,
+            "rotZ": 0.0,
+            "scaleX": 0.3900906,
+            "scaleY": 0.366801053,
+            "scaleZ": 1.84274387
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 0.996078432,
+            "b": 1.0,
+            "a": 0.7058824
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": true,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+            "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1664605849280126167/554AEA0F3618A59F80C92D4E74B20A45D57E6968/",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "SpecularIntensity": 0.0,
+              "SpecularSharpness": 2.0,
+              "FresnelStrength": 0.0
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "f2991c",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -1.99501419,
+            "posY": 3.643835,
+            "posZ": 1.205,
+            "rotX": 90.0,
+            "rotY": 90.0,
+            "rotZ": 0.0,
+            "scaleX": 0.39,
+            "scaleY": 0.3667936,
+            "scaleZ": 1.84931493
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 0.996078432,
+            "b": 1.0,
+            "a": 0.7058824
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": true,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+            "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1664605849280126167/554AEA0F3618A59F80C92D4E74B20A45D57E6968/",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "SpecularIntensity": 0.0,
+              "SpecularSharpness": 2.0,
+              "FresnelStrength": 0.0
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "062eb8",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -1.99501419,
+            "posY": 3.643835,
+            "posZ": -1.20431089,
+            "rotX": 90.0,
+            "rotY": 90.0,
+            "rotZ": 0.0,
+            "scaleX": 0.3885897,
+            "scaleY": 0.3667936,
+            "scaleZ": 1.84931493
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 0.996078432,
+            "b": 1.0,
+            "a": 0.7058824
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": true,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+            "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1664605849280126167/554AEA0F3618A59F80C92D4E74B20A45D57E6968/",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "SpecularIntensity": 0.0,
+              "SpecularSharpness": 2.0,
+              "FresnelStrength": 0.0
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "be92ef",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -1.20001423,
+            "posY": 3.64381027,
+            "posZ": -2.0,
+            "rotX": 90.0,
+            "rotY": 0.0,
+            "rotZ": 0.0,
+            "scaleX": 0.3900906,
+            "scaleY": 0.366801053,
+            "scaleZ": 1.84274387
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 0.996078432,
+            "b": 1.0,
+            "a": 0.7058824
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": true,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+            "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1664605849280126167/554AEA0F3618A59F80C92D4E74B20A45D57E6968/",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "SpecularIntensity": 0.0,
+              "SpecularSharpness": 2.0,
+              "FresnelStrength": 0.0
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "c8fc9c",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 1.20998585,
+            "posY": 3.643835,
+            "posZ": -2.0,
+            "rotX": 90.0,
+            "rotY": 0.0,
+            "rotZ": 0.0,
+            "scaleX": 0.3900906,
+            "scaleY": 0.366801053,
+            "scaleZ": 1.84274387
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 0.996078432,
+            "b": 1.0,
+            "a": 0.7058824
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": true,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+            "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1664605849280126167/554AEA0F3618A59F80C92D4E74B20A45D57E6968/",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "SpecularIntensity": 0.0,
+              "SpecularSharpness": 2.0,
+              "FresnelStrength": 0.0
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "d95139",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 2.00498581,
+            "posY": 3.643835,
+            "posZ": -1.205,
+            "rotX": 90.0,
+            "rotY": 90.0,
+            "rotZ": 0.0,
+            "scaleX": 0.3885897,
+            "scaleY": 0.3667936,
+            "scaleZ": 1.84931493
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 0.7058824
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": true,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+            "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1664605849280126167/554AEA0F3618A59F80C92D4E74B20A45D57E6968/",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "SpecularIntensity": 0.0,
+              "SpecularSharpness": 2.0,
+              "FresnelStrength": 0.0
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "569688",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 1.20998585,
+            "posY": 3.643835,
+            "posZ": 2.0,
+            "rotX": 90.0,
+            "rotY": 0.0,
+            "rotZ": 0.0,
+            "scaleX": 0.3900906,
+            "scaleY": 0.366801053,
+            "scaleZ": 1.84274387
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 0.996078432,
+            "b": 1.0,
+            "a": 0.7058824
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": true,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+            "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1664605849280126167/554AEA0F3618A59F80C92D4E74B20A45D57E6968/",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "SpecularIntensity": 0.0,
+              "SpecularSharpness": 2.0,
+              "FresnelStrength": 0.0
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "344034",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 2.00498581,
+            "posY": 3.643835,
+            "posZ": 1.205,
+            "rotX": 90.0,
+            "rotY": 90.0,
+            "rotZ": 0.0,
+            "scaleX": 0.39,
+            "scaleY": 0.3667936,
+            "scaleZ": 1.84931493
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 0.996078432,
+            "b": 1.0,
+            "a": 0.7058824
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": true,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+            "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1664605849280126167/554AEA0F3618A59F80C92D4E74B20A45D57E6968/",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "SpecularIntensity": 0.0,
+              "SpecularSharpness": 2.0,
+              "FresnelStrength": 0.0
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "0bdc27",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -1.99501419,
+            "posY": 6.36986256,
+            "posZ": 0.0,
+            "rotX": 90.0,
+            "rotY": 89.99999,
+            "rotZ": 0.0,
+            "scaleX": 0.215,
+            "scaleY": 0.3667936,
+            "scaleZ": 0.452054769
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 0.7058824
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": true,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+            "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1664605849283491678/4E587D448DCA2C49B537C9A531C4D6E2B48F7110/",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "SpecularIntensity": 0.0,
+              "SpecularSharpness": 2.0,
+              "FresnelStrength": 0.0
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "States": {
+            "2": {
+              "GUID": "26be51",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": -4.0,
+                "posY": 5.76,
+                "posZ": 0.0,
+                "rotX": 90.0,
+                "rotY": 89.99999,
+                "rotZ": 0.0,
+                "scaleX": 0.43,
+                "scaleY": 0.7335872,
+                "scaleZ": 0.33
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.7058824
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1664605849283491678/4E587D448DCA2C49B537C9A531C4D6E2B48F7110/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 3,
+                "TypeIndex": 0,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 2.0,
+                  "FresnelStrength": 0.0
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            }
+          },
+          "ChildObjects": [
+            {
+              "GUID": "d1e881",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": 0.0,
+                "posY": 0.0,
+                "posZ": 8.09091,
+                "rotX": 0.000315896265,
+                "rotY": 1.70274132E-06,
+                "rotZ": -0.00174340582,
+                "scaleX": 1.0,
+                "scaleY": 1.0,
+                "scaleZ": 3.060606
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.7058824
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1664605849283524034/0B096DA82753C247B5703A6F686C92D184785AEC/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 3,
+                "TypeIndex": 0,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 2.0,
+                  "FresnelStrength": 0.0
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            }
+          ]
+        },
+        {
+          "GUID": "6e6bee",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 0.00498580933,
+            "posY": 6.36986256,
+            "posZ": 2.0,
+            "rotX": 90.0,
+            "rotY": 0.0,
+            "rotZ": 0.0,
+            "scaleX": 0.215,
+            "scaleY": 0.366793573,
+            "scaleZ": 0.452054828
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 0.7058824
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": true,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+            "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1664605849283491678/4E587D448DCA2C49B537C9A531C4D6E2B48F7110/",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "SpecularIntensity": 0.0,
+              "SpecularSharpness": 2.0,
+              "FresnelStrength": 0.0
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "States": {
+            "2": {
+              "GUID": "26be3d",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": 0.0,
+                "posY": 5.76,
+                "posZ": 4.0,
+                "rotX": 90.0,
+                "rotY": 0.0,
+                "rotZ": 0.0,
+                "scaleX": 0.43,
+                "scaleY": 0.7335872,
+                "scaleZ": 0.33
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.7058824
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1664605849283491678/4E587D448DCA2C49B537C9A531C4D6E2B48F7110/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 3,
+                "TypeIndex": 0,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 2.0,
+                  "FresnelStrength": 0.0
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            }
+          },
+          "ChildObjects": [
+            {
+              "GUID": "d1e881",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": 0.0,
+                "posY": 0.0,
+                "posZ": 8.09091,
+                "rotX": 0.000315896265,
+                "rotY": 1.70274132E-06,
+                "rotZ": -0.00174340582,
+                "scaleX": 1.0,
+                "scaleY": 1.0,
+                "scaleZ": 3.060606
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.7058824
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1664605849283524034/0B096DA82753C247B5703A6F686C92D184785AEC/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 3,
+                "TypeIndex": 0,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 2.0,
+                  "FresnelStrength": 0.0
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            }
+          ]
+        },
+        {
+          "GUID": "d19fa2",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 0.00498580933,
+            "posY": 6.36986256,
+            "posZ": -2.0,
+            "rotX": 90.0,
+            "rotY": 0.0,
+            "rotZ": 0.0,
+            "scaleX": 0.215,
+            "scaleY": 0.366793573,
+            "scaleZ": 0.452054828
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 0.7058824
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": true,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+            "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1664605849283491678/4E587D448DCA2C49B537C9A531C4D6E2B48F7110/",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "SpecularIntensity": 0.0,
+              "SpecularSharpness": 2.0,
+              "FresnelStrength": 0.0
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "States": {
+            "2": {
+              "GUID": "2c42ce",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": 0.0,
+                "posY": 5.76,
+                "posZ": -4.0,
+                "rotX": 90.0,
+                "rotY": 0.0,
+                "rotZ": 0.0,
+                "scaleX": 0.43,
+                "scaleY": 0.7335872,
+                "scaleZ": 0.33
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.7058824
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1664605849283491678/4E587D448DCA2C49B537C9A531C4D6E2B48F7110/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 3,
+                "TypeIndex": 0,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 2.0,
+                  "FresnelStrength": 0.0
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            }
+          },
+          "ChildObjects": [
+            {
+              "GUID": "d1e881",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": 0.0,
+                "posY": 0.0,
+                "posZ": 8.09091,
+                "rotX": 0.000315896265,
+                "rotY": 1.70274132E-06,
+                "rotZ": -0.00174340582,
+                "scaleX": 1.0,
+                "scaleY": 1.0,
+                "scaleZ": 3.060606
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.7058824
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1664605849283524034/0B096DA82753C247B5703A6F686C92D184785AEC/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 3,
+                "TypeIndex": 0,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 2.0,
+                  "FresnelStrength": 0.0
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            }
+          ]
+        },
+        {
+          "GUID": "c31d76",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 2.00498581,
+            "posY": 6.36986256,
+            "posZ": 0.0,
+            "rotX": 90.0,
+            "rotY": 89.99999,
+            "rotZ": 0.0,
+            "scaleX": 0.215,
+            "scaleY": 0.3667936,
+            "scaleZ": 0.452054769
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 0.7058824
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": true,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+            "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1664605849283491678/4E587D448DCA2C49B537C9A531C4D6E2B48F7110/",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "SpecularIntensity": 0.0,
+              "SpecularSharpness": 2.0,
+              "FresnelStrength": 0.0
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "States": {
+            "2": {
+              "GUID": "87bc3e",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": 4.0,
+                "posY": 5.76,
+                "posZ": 0.0,
+                "rotX": 90.0,
+                "rotY": 89.99999,
+                "rotZ": 0.0,
+                "scaleX": 0.43,
+                "scaleY": 0.7335872,
+                "scaleZ": 0.33
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.7058824
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1664605849283491678/4E587D448DCA2C49B537C9A531C4D6E2B48F7110/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 3,
+                "TypeIndex": 0,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 2.0,
+                  "FresnelStrength": 0.0
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            }
+          },
+          "ChildObjects": [
+            {
+              "GUID": "d1e881",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": 0.0,
+                "posY": 0.0,
+                "posZ": 8.09091,
+                "rotX": 0.000315896265,
+                "rotY": 1.70274132E-06,
+                "rotZ": -0.00174340582,
+                "scaleX": 1.0,
+                "scaleY": 1.0,
+                "scaleZ": 3.060606
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 0.7058824
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "www.consoleclone.com/TTS/models/dun_tiles_pack_f/tiles_4x4v3.obj",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1664605849283524034/0B096DA82753C247B5703A6F686C92D184785AEC/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 3,
+                "TypeIndex": 0,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 2.0,
+                  "FresnelStrength": 0.0
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

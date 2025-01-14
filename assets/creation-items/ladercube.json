@@ -1,0 +1,72 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "61bc10",
+      "Name": "Custom_Assetbundle",
+      "Transform": {
+        "posX": -17.8047428,
+        "posY": 1.15342534,
+        "posZ": -19.82235,
+        "rotX": -1.2918862E-05,
+        "rotY": 0.0,
+        "rotZ": 1.17849968E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.2,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "[9CBFE6]Precinct Sigma[-]\nby [6B7D91]Micro[-] [C20D0D]Art[-] [6B7D91]Studio[-]\n[FF4000]PREPAINTED[-]\n[1E87FF]www.shop.microartstudio.com[-]",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": true,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomAssetbundle": {
+        "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1780587304122393870/8BF6CB94B5569FCC9B66D24E42E5749311CE7524/",
+        "AssetbundleSecondaryURL": "",
+        "MaterialIndex": 2,
+        "TypeIndex": 1,
+        "LoopingEffectIndex": 0
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": ""
+    }
+  ]
+}

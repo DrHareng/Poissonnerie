@@ -1,0 +1,72 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "9db146",
+      "Name": "Custom_Assetbundle",
+      "Transform": {
+        "posX": -10.0524149,
+        "posY": 7.312551,
+        "posZ": -7.9912324,
+        "rotX": 8.009973E-06,
+        "rotY": 270.0,
+        "rotZ": 0.0,
+        "scaleX": 1.05,
+        "scaleY": 1.05,
+        "scaleZ": 1.05
+      },
+      "Nickname": "District 5 News Walls by [6B7D91]Micro[-] [C20D0D]Art[-] [6B7D91]Studio[-]",
+      "Description": "[1E87FF]PREPAINTED[-]  www.shop.microartstudio.com",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomAssetbundle": {
+        "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1758064695944904953/2D8F74F5FED5CC5F5BCD6D5BDB67CD88037DD3E4/",
+        "AssetbundleSecondaryURL": "",
+        "MaterialIndex": 0,
+        "TypeIndex": 1,
+        "LoopingEffectIndex": 0
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": ""
+    }
+  ]
+}

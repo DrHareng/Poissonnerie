@@ -1,0 +1,113 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "a66fe6",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -1.77740657,
+        "posY": 7.0959177,
+        "posZ": -21.5330925,
+        "rotX": 1.59027736E-15,
+        "rotY": 120.000008,
+        "rotZ": 5.33910764E-08,
+        "scaleX": 1.2,
+        "scaleY": 1.2,
+        "scaleZ": 1.2
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/1000269372897293519/713B333D1E38E10AAF4CD0159BDE79F089413A6E/",
+        "DiffuseURL": "http://i.imgur.com/HqxoRSg.pnghttp://i.imgur.com/HqxoRSg.png",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 0,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "AttachedDecals": [
+        {
+          "Transform": {
+            "posX": 0.001998595,
+            "posY": 1.344806,
+            "posZ": -0.08534517,
+            "rotX": 9.29592048E-08,
+            "rotY": -1.02456879E-05,
+            "rotZ": 359.584076,
+            "scaleX": 1.06069434,
+            "scaleY": 1.46341658,
+            "scaleZ": 1.50000024
+          },
+          "CustomDecal": {
+            "Name": "5",
+            "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/786361074389631356/165EF169A9C8F37CF79D2CB8EC965E70E4970B7E/",
+            "Size": 3.0
+          }
+        },
+        {
+          "Transform": {
+            "posX": 0.018715838,
+            "posY": 1.32658923,
+            "posZ": 0.08534527,
+            "rotX": 1.81026416E-09,
+            "rotY": 180.0,
+            "rotZ": 0.0124630081,
+            "scaleX": 0.9097041,
+            "scaleY": 1.46341491,
+            "scaleZ": 1.500001
+          },
+          "CustomDecal": {
+            "Name": "4",
+            "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/786361074389729762/1597098B162981D5D935CDF9F8B3504BF764FA28/",
+            "Size": 3.0
+          }
+        }
+      ]
+    }
+  ]
+}

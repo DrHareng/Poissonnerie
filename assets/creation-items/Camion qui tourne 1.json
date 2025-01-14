@@ -1,0 +1,223 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "bc1659",
+      "Name": "Custom_Assetbundle",
+      "Transform": {
+        "posX": 37.43688,
+        "posY": 2.36766076,
+        "posZ": 7.55382061,
+        "rotX": 5.336087E-08,
+        "rotY": 210.54,
+        "rotZ": 3.1805543E-15,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomAssetbundle": {
+        "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1487830896372260435/6590EC4CC8FACAC151590EE5D284F0206D9E2C77/",
+        "AssetbundleSecondaryURL": "",
+        "MaterialIndex": 2,
+        "TypeIndex": 1,
+        "LoopingEffectIndex": 0
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ChildObjects": [
+        {
+          "GUID": "9549d9",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 0.895455241,
+            "posY": -1.100302,
+            "posZ": -2.31077123,
+            "rotX": -3.88792678E-08,
+            "rotY": 316.77,
+            "rotZ": 3.654839E-08,
+            "scaleX": 0.9999997,
+            "scaleY": 1.0,
+            "scaleZ": 0.9999997
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1487830896372162043/1E5B76C6D310AEDAD0B7968C43C0F3C706F58F1D/",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 2,
+            "TypeIndex": 1,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "b410bd",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 0.0118244886,
+            "posY": -1.10213661,
+            "posZ": 0.198942542,
+            "rotX": 7.67903536E-13,
+            "rotY": 359.69,
+            "rotZ": 2.887059E-10,
+            "scaleX": 0.9999999,
+            "scaleY": 1.0,
+            "scaleZ": 0.9999999
+          },
+          "Nickname": "",
+          "Description": "Manatee Hauler - by [6B7D91]Micro[-] [C20D0D]Art[-] [6B7D91]Studio[-]\n\nPainted by Perzan @Hortwerth\n\nwww.shop.microartstudio.com\n",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1487830896372223349/78766AA856B32A440A7C3D830E81CF4BD313F776/",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 2,
+            "TypeIndex": 1,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "b375ba",
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 0.1619989,
+            "posY": -0.594442844,
+            "posZ": -0.1545487,
+            "rotX": -2.48740958E-11,
+            "rotY": 181.750015,
+            "rotZ": 1.6295757E-09,
+            "scaleX": 0.7299999,
+            "scaleY": 1.23551857,
+            "scaleZ": 2.63763046
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.0879730061,
+            "g": 0.140132248,
+            "b": 0.325783879
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      ]
+    }
+  ]
+}

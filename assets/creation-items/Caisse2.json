@@ -1,0 +1,85 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "b764b9",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 12.8554382,
+        "posY": 0.9599815,
+        "posZ": 13.9946556,
+        "rotX": 5.97207134E-07,
+        "rotY": 179.975311,
+        "rotZ": 1.07964524E-06,
+        "scaleX": 0.575000346,
+        "scaleY": 0.575000346,
+        "scaleZ": 0.575000346
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992160261,
+        "b": 0.9999998
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/502526366068077592/F84E337542C6CD5EC18CB800AC82628480016A72/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/502526366068078299/A3456F6CDAD35AE8774512415AEE58E71AF9DE93/",
+        "NormalURL": "http://cloud-3.steamusercontent.com/ugc/502526366068078786/5C4E1892D145A57D3FB1AF6593857BAAFF2E3B15/",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/502526366068077592/F84E337542C6CD5EC18CB800AC82628480016A72/",
+        "Convex": true,
+        "MaterialIndex": 0,
+        "TypeIndex": 0,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.05,
+          "SpecularSharpness": 7.0,
+          "FresnelStrength": 0.4
+        },
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": ""
+    }
+  ]
+}

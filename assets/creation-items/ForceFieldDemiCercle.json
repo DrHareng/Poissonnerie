@@ -1,0 +1,78 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "bac512",
+      "Name": "Custom_Token",
+      "Transform": {
+        "posX": -23.7211723,
+        "posY": 1.01000035,
+        "posZ": -0.659063637,
+        "rotX": 2.49854651E-07,
+        "rotY": -2.41645466E-06,
+        "rotZ": 5.27469865E-07,
+        "scaleX": 9.0,
+        "scaleY": 1.0,
+        "scaleZ": 9.0
+      },
+      "Nickname": "[3CE9FF]Containment Field[-] - Zero-G",
+      "Description": "Prevents the artificial gravity from dropping inside the ship. Lots of scatter, so may be even saturation zone?",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.238674521,
+        "g": 0.915093839,
+        "b": 1.0,
+        "a": 0.392156869
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1263771316476342565/B8CA6E972D7581999DA7111BC27CFFD294113F09/",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomToken": {
+          "Thickness": 0.1,
+          "MergeDistancePixels": 5.0,
+          "StandUp": false,
+          "Stackable": false
+        }
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": ""
+    }
+  ]
+}

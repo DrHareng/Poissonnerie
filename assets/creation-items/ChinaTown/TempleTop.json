@@ -1,0 +1,72 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "8c753d",
+      "Name": "Custom_Assetbundle",
+      "Transform": {
+        "posX": -8.871092,
+        "posY": 4.34013271,
+        "posZ": -8.685757,
+        "rotX": -5.20765161E-06,
+        "rotY": 135.0,
+        "rotZ": 6.993107E-05,
+        "scaleX": 1.24999976,
+        "scaleY": 1.24999976,
+        "scaleZ": 1.24999976
+      },
+      "Nickname": "",
+      "Description": "Kokkyo Shrine - by [6B7D91]Micro[-] [C20D0D]Art[-] [6B7D91]Studio[-]\n\nPainted by Perzan @Hortwerth\n\nwww.shop.microartstudio.com\n",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": true,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomAssetbundle": {
+        "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1474318984935195219/3FE15EC5EB57F9E5779440C3EFD1A0A68BFEF5FE/",
+        "AssetbundleSecondaryURL": "",
+        "MaterialIndex": 2,
+        "TypeIndex": 1,
+        "LoopingEffectIndex": 0
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": ""
+    }
+  ]
+}

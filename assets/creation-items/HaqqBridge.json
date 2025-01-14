@@ -1,0 +1,132 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "7f1206",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -15.4118032,
+        "posY": 7.1,
+        "posZ": 10.9849482,
+        "rotX": 1.70703913E-07,
+        "rotY": 165.0,
+        "rotZ": 3.1454008E-06,
+        "scaleX": 1.065257,
+        "scaleY": 0.975000262,
+        "scaleZ": 0.9750093
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.85945785,
+        "g": 0.8994404,
+        "b": 0.921249
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": true,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/966480765117279505/8182E3A340062698877307FC66C2163E1D34711C/",
+        "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/966480765117279616/140B35288D45796C52B1449B7DD58EE1AC1B91D3/",
+        "NormalURL": "",
+        "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/966480765117279727/C693DD4FB5A2EC49E03B961EFC5DCA673D453332/",
+        "Convex": false,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "States": {
+        "1": {
+          "GUID": "ce2caa",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 1.55655253,
+            "posY": 4.02545071,
+            "posZ": -18.237669,
+            "rotX": 359.784668,
+            "rotY": 359.981781,
+            "rotZ": 359.84964,
+            "scaleX": 1.065257,
+            "scaleY": 0.975000262,
+            "scaleZ": 0.9750093
+          },
+          "Nickname": "Bridge Walkway [Heavy Cover]",
+          "Description": "Heavy Cover:\nMini size 3.5 and below\n\nSides:\nTrooper: Impassable\nGround Vehicle: Impassable\nRepulsor: Impassable\n\nMinis with size > 3.5 treat this as difficult terrain\n\nBalcony:\nAll - Open\n\nHeight: 1\n\nRight-Click and switch states to access different levels\n\nSpecial Thanks: corvusgamesterrain.com",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.858823538,
+            "g": 0.8980392,
+            "b": 0.917647064
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/966480765117279505/8182E3A340062698877307FC66C2163E1D34711C/",
+            "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/966480765117279616/140B35288D45796C52B1449B7DD58EE1AC1B91D3/",
+            "NormalURL": "",
+            "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/966480765117279809/526B72D419850EC7D9218D1AFB5657CEB10DE5C9/",
+            "Convex": false,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      }
+    }
+  ]
+}

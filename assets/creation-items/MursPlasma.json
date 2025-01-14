@@ -1,0 +1,85 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "e753b6",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -13.6153641,
+        "posY": 0.78,
+        "posZ": 1.50255668,
+        "rotX": 0.0,
+        "rotY": 315.0,
+        "rotZ": 0.0,
+        "scaleX": 0.4,
+        "scaleY": 0.6,
+        "scaleZ": 0.6
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992160261,
+        "b": 0.9999998
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": false,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": true,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "https://drive.google.com/uc?export=download&id=0BwpXdiEgZ5GzMllIZVI1MEcwU3M",
+        "DiffuseURL": "http://i.imgur.com/GE4A1h2.jpg",
+        "NormalURL": "http://i.imgur.com/OMj4RFQ.jpg",
+        "ColliderURL": "https://drive.google.com/uc?export=download&id=0BwpXdiEgZ5GzeGNBY2oxR1NweTQ",
+        "Convex": false,
+        "MaterialIndex": 2,
+        "TypeIndex": 1,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 0.7372549,
+            "g": 0.7372549,
+            "b": 0.7372549
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 7.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": ""
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "2a2564",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -12.4718285,
+        "posY": 0.959223,
+        "posZ": 3.98723149,
+        "rotX": 359.893036,
+        "rotY": 89.99731,
+        "rotZ": -0.00399906235,
+        "scaleX": 1.5,
+        "scaleY": 1.5,
+        "scaleZ": 1.5
+      },
+      "Nickname": "Barriers",
+      "Description": "No LoF can be drawn through the small gaps in the barriers.",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1302052401736895925/D740432A19B3715DBDCFC8ED267F2887B3142FE7/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1479947365411691196/BA1069871C51AC4B895F864FAA917F1CD414A11A/",
+        "NormalURL": "http://cloud-3.steamusercontent.com/ugc/1302052401736892638/AF03840B4BD8C97243EBB1D7AC0312BF9952DC35/",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1302052401736895925/D740432A19B3715DBDCFC8ED267F2887B3142FE7/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": ""
+    }
+  ]
+}

@@ -1,0 +1,661 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "eca5e7",
+      "Name": "Custom_Model_Bag",
+      "Transform": {
+        "posX": 10.6238079,
+        "posY": 6.35165453,
+        "posZ": -2.36432314,
+        "rotX": 38.4537468,
+        "rotY": 277.3432,
+        "rotZ": 25.383707,
+        "scaleX": 2.15,
+        "scaleY": 0.1,
+        "scaleZ": 4.17
+      },
+      "Nickname": "MAS District 5 elements",
+      "Description": "Micro Art Studio 3d scanned terrain designed for Infinity free for use. \nPlease retain credits information. \n(c)Micro Art Studio, (c)Perzan, (c)Zulu_Sauer",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.12156833,
+        "g": 0.5294118,
+        "b": 1.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1019447627780556745/E996D2C48681FE7EC6EDE0353D253BEF9C4E7801/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/783000497271621469/98975FF6B92CA276D7488D7C5DABC0511A7A07A8/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1019447627780556745/E996D2C48681FE7EC6EDE0353D253BEF9C4E7801/",
+        "Convex": true,
+        "MaterialIndex": 0,
+        "TypeIndex": 6,
+        "CastShadows": true
+      },
+      "Bag": {
+        "Order": 0
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ContainedObjects": [
+        {
+          "GUID": "d39aa5",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -16.7279949,
+            "posY": 1.13500929,
+            "posZ": 10.0028229,
+            "rotX": 1.26865243E-05,
+            "rotY": 195.0011,
+            "rotZ": 5.5930127E-06,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "District 5 by [6B7D91]Micro[-] [C20D0D]Art[-] [6B7D91]Studio[-]\n[1E87FF]PREPAINTED[-]  www.shop.microartstudio.com",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1546380927207421650/2226ADE4F6635BA7A95F4CA65C9B41DFE744DD2C/",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 2,
+            "TypeIndex": 4,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "189592",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -16.60996,
+            "posY": 1.16501,
+            "posZ": 10.094842,
+            "rotX": 1.27824751E-05,
+            "rotY": 180.0078,
+            "rotZ": -1.61148091E-06,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "District 5 by [6B7D91]Micro[-] [C20D0D]Art[-] [6B7D91]Studio[-]\n[1E87FF]PREPAINTED[-]  www.shop.microartstudio.com",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1546380927207395428/31481D5DB75971EAE46F0AF5B6A40821A8F66DE3/",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 2,
+            "TypeIndex": 1,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "9f2063",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -14.7014189,
+            "posY": 1.16945529,
+            "posZ": 9.788738,
+            "rotX": 1.19861816E-05,
+            "rotY": 104.9997,
+            "rotZ": 0.07039648,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "District 5 L by [6B7D91]Micro[-] [C20D0D]Art[-] [6B7D91]Studio[-]\n[1E87FF]PREPAINTED[-]  www.shop.microartstudio.com",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1546380927207401924/CF4B6826FCAE64DEE7B5CBFF5CB6F3F18E6E4226/",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 2,
+            "TypeIndex": 1,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "5eea8c",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -18.2222614,
+            "posY": 1.16667771,
+            "posZ": 9.733999,
+            "rotX": 5.249865E-06,
+            "rotY": 285.0231,
+            "rotZ": -2.799157E-07,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "District 5 by [6B7D91]Micro[-] [C20D0D]Art[-] [6B7D91]Studio[-]\n[1E87FF]PREPAINTED[-]  www.shop.microartstudio.com",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1546380927207360718/35A7C991E1E7F6F59B1D803167AB2FC4BBCF029D/",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 2,
+            "TypeIndex": 1,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "9e53f6",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -17.3771172,
+            "posY": 1.16634715,
+            "posZ": 10.4604387,
+            "rotX": 7.67094E-06,
+            "rotY": 239.981873,
+            "rotZ": 1.34942184E-05,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "District 5 by [6B7D91]Micro[-] [C20D0D]Art[-] [6B7D91]Studio[-]\n[1E87FF]PREPAINTED[-]  www.shop.microartstudio.com",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1546380927207384805/82C99E4706333B548C3DE4C6E84A0C1647BB85F4/",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 2,
+            "TypeIndex": 1,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "9fd73f",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -16.9051838,
+            "posY": 1.166309,
+            "posZ": 9.642982,
+            "rotX": -1.3075055E-05,
+            "rotY": 14.977849,
+            "rotZ": -1.8316199E-06,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "District 5 by [6B7D91]Micro[-] [C20D0D]Art[-] [6B7D91]Studio[-]\n[1E87FF]PREPAINTED[-]  www.shop.microartstudio.com",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1546380927207368430/5A14E1C27F8A20A73C8ABB24097CC108BD9FEA9E/",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 2,
+            "TypeIndex": 1,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "6d2115",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -17.1449966,
+            "posY": 1.16642046,
+            "posZ": 10.9294167,
+            "rotX": -1.82268241E-06,
+            "rotY": 89.9778,
+            "rotZ": -1.43375346E-05,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "District 5 by [6B7D91]Micro[-] [C20D0D]Art[-] [6B7D91]Studio[-]\n[1E87FF]PREPAINTED[-]  www.shop.microartstudio.com",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1546380927207369866/D460CA90A271D59974B747F63B3EBE5F4D647867/",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 2,
+            "TypeIndex": 1,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "dbb304",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -17.4384937,
+            "posY": 1.16634393,
+            "posZ": 10.4221592,
+            "rotX": 5.28964E-06,
+            "rotY": 255.023651,
+            "rotZ": 1.304184E-05,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "District 5 by [6B7D91]Micro[-] [C20D0D]Art[-] [6B7D91]Studio[-]\n[1E87FF]PREPAINTED[-]  www.shop.microartstudio.com",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1546380927207377841/6B1781141BB093EF3CA948A68C762D2D4F073B76/",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 2,
+            "TypeIndex": 1,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "86d8c0",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -15.7984629,
+            "posY": 1.16630948,
+            "posZ": 9.943936,
+            "rotX": -7.8815E-06,
+            "rotY": 314.967377,
+            "rotZ": 9.46343E-06,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "District 5 by [6B7D91]Micro[-] [C20D0D]Art[-] [6B7D91]Studio[-]\n[1E87FF]PREPAINTED[-]  www.shop.microartstudio.com",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1546380927207410497/F328A4BA07CE9DEB65CCE3154BAB0E20E7694D11/",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 2,
+            "TypeIndex": 1,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      ],
+      "ChildObjects": [
+        {
+          "GUID": "7a2a05",
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.03549433E-10,
+            "posY": 0.880479157,
+            "posZ": -6.12143738E-11,
+            "rotX": 1.73659814E-07,
+            "rotY": 270.0,
+            "rotZ": 3.250337E-08,
+            "scaleX": 0.5617977,
+            "scaleY": 1.58730173,
+            "scaleZ": 0.999999762
+          },
+          "Nickname": "Lieutenant Order",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.6117647,
+            "g": 0.6,
+            "b": 0.607843161
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1753558107725732805/990B54B1C509ACD8D969B6D1298E3983D8AB684C/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 0,
+              "Thickness": 0.1,
+              "Stackable": true,
+              "Stretch": true
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "0e7441",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 0.001904697,
+            "posY": 0.5903971,
+            "posZ": -0.009362019,
+            "rotX": 2.29184366E-06,
+            "rotY": 179.977417,
+            "rotZ": 1.37532961E-05,
+            "scaleX": 0.4651161,
+            "scaleY": 10.0,
+            "scaleZ": 0.239808112
+          },
+          "Nickname": "",
+          "Description": "District 5 by [6B7D91]Micro[-] [C20D0D]Art[-] [6B7D91]Studio[-]\n[1E87FF]PREPAINTED[-]  www.shop.microartstudio.com",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1546380927207369866/D460CA90A271D59974B747F63B3EBE5F4D647867/",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 2,
+            "TypeIndex": 1,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      ]
+    }
+  ]
+}

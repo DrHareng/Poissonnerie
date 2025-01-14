@@ -1,0 +1,158 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "bbdd6b",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 4.36370945,
+        "posY": 3.13256526,
+        "posZ": 18.8379,
+        "rotX": 3.01220727,
+        "rotY": 90.01595,
+        "rotZ": 0.000483049545,
+        "scaleX": 6.88119936,
+        "scaleY": 0.84999305,
+        "scaleZ": 1.9596684
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992160261,
+        "b": 0.9999998
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": true,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1764818447609948273/C93152EC4DF86D2A25ADD98AA6C4BAA1C6FDEB84/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1764818744295935487/5997657705F57A4611E91314222ED045C4046D87/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1764819136339520137/0CBAE8A439B3DB2CEAEA6871D22B98F90E06ECFB/",
+        "Convex": false,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "PhysicsMaterial": {
+        "StaticFriction": 0.4,
+        "DynamicFriction": 0.4,
+        "Bounciness": 0.0,
+        "FrictionCombine": 0,
+        "BounceCombine": 0
+      },
+      "Rigidbody": {
+        "Mass": 1.0,
+        "Drag": 5.0,
+        "AngularDrag": 50.0,
+        "UseGravity": true
+      },
+      "States": {
+        "2": {
+          "GUID": "994220",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -0.05,
+            "posY": 8.1,
+            "posZ": 15.9701881,
+            "rotX": -3.383065E-06,
+            "rotY": -0.004838218,
+            "rotZ": -5.75944341E-07,
+            "scaleX": 6.88119936,
+            "scaleY": 0.84999305,
+            "scaleZ": 1.9596684
+          },
+          "Nickname": "Open Bridge",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.9999998,
+            "g": 0.992160261,
+            "b": 0.9999998
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1764818447609953653/A0BF980F28A216075FC18C29146C00DF322B8753/",
+            "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1764818744295935487/5997657705F57A4611E91314222ED045C4046D87/",
+            "NormalURL": "",
+            "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1764818447609953653/A0BF980F28A216075FC18C29146C00DF322B8753/",
+            "Convex": false,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "PhysicsMaterial": {
+            "StaticFriction": 0.4,
+            "DynamicFriction": 0.4,
+            "Bounciness": 0.0,
+            "FrictionCombine": 0,
+            "BounceCombine": 0
+          },
+          "Rigidbody": {
+            "Mass": 1.0,
+            "Drag": 5.0,
+            "AngularDrag": 50.0,
+            "UseGravity": true
+          }
+        }
+      }
+    }
+  ]
+}

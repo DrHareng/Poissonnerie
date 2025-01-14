@@ -1,0 +1,88 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "390633",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 0.00118988485,
+        "posY": 3.122232,
+        "posZ": -8.405736,
+        "rotX": -0.000100540732,
+        "rotY": 359.989746,
+        "rotZ": 3.47361521E-07,
+        "scaleX": 3.57752,
+        "scaleY": 2.049961,
+        "scaleZ": 1.5301851
+      },
+      "Nickname": "Boaty Mc Boatface",
+      "Description": "Models cannot be deployed or moved onto the bridge\n",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": false,
+      "Snap": false,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": true,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/789750075042736928/EB0E6E27864D7C2E00CC03E9012FF44EC4D64E49/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/789750075042737058/1AE32D997B03054FCA58E8858FF21A5506CB8FDB/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/789750075042737338/EA69091B7713261FC7F2AD55B33BD0A6EA8A9FA9/",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 1,
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "PhysicsMaterial": {
+        "StaticFriction": 1.0,
+        "DynamicFriction": 0.7,
+        "Bounciness": 0.0,
+        "FrictionCombine": 0,
+        "BounceCombine": 0
+      },
+      "Rigidbody": {
+        "Mass": 1.26249,
+        "Drag": 0.1,
+        "AngularDrag": 0.1,
+        "UseGravity": true
+      }
+    }
+  ]
+}

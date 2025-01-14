@@ -1,0 +1,75 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "c51c6d",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -2.07444954,
+        "posY": 5.47463465,
+        "posZ": -18.528204,
+        "rotX": 0.114202768,
+        "rotY": 209.999969,
+        "rotZ": 0.190433085,
+        "scaleX": 1.1,
+        "scaleY": 1.1,
+        "scaleZ": 0.9
+      },
+      "Nickname": "3.1\" to climb (ignore parapet)",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": true,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/966480765117277880/2D1CC9AE9EE1B583ECBA13328DA1BE93D1D175B5/",
+        "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/966480765117277986/33200B4FB2E71631673E432D5829D8E4515F4F4F/",
+        "NormalURL": "",
+        "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/966480765117278084/4834536FCF5E77708B84638C2A0B0432774B1FD8/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": ""
+    }
+  ]
+}

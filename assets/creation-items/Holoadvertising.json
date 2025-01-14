@@ -1,0 +1,117 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "916657",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 13.8018913,
+        "posY": 5.80417156,
+        "posZ": 8.679337,
+        "rotX": 11.9901361,
+        "rotY": 71.26526,
+        "rotZ": 359.107941,
+        "scaleX": 0.237497464,
+        "scaleY": 0.247098684,
+        "scaleZ": 0.2750084
+      },
+      "Nickname": "Holoadvertising",
+      "Description": "Blocks LoF",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/1705158688443687206/5D581F319A5A37C3293089B87D58EACB11EDE68E/",
+        "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1705158688443687333/EF9BF6BC211FDC26228F1498C7CF6B9A2CC49E34/",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 2,
+        "TypeIndex": 4,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 0.7372549,
+            "g": 0.7372549,
+            "b": 0.7372549
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": false
+      },
+      "LuaScript": "adList = {\r\n    \"https://i.imgur.com/rZViDWc.jpeg\",\r\n    \"https://i.imgur.com/YBHwWAk.jpeg\",\r\n    \"https://i.imgur.com/VNwkPVF.jpeg\",\r\n\t\"https://i.imgur.com/Yi1AcWX.jpeg\",\r\n    \"https://i.imgur.com/sM4PQBs.jpeg\",\r\n    \"https://i.imgur.com/1MQ74Yi.jpeg\",\r\n}\r\n\r\nadconfig = {\r\n    P1_COLOR = \"Green\",\r\n    P2_COLOR = \"Red\",\r\n    ADTIME = {6,10},\r\n    SCORETIME = {6,14},\r\n    MODE = \"both\",\r\n    INITIALDISPLAY = \"random\",\r\n}\r\n\r\nlocal anim = 0;\r\nlocal current = 0;\r\n\r\nadconfig = {\r\n    ADTIME = {6,10},\r\n    INITIALDISPLAY = \"random\",\r\n}\r\n\r\nlocal anim = 0;\r\nlocal current = 0;\r\n\r\nfunction randomAd()\r\n    if (#adList > 0) then\r\n        math.randomseed(os.time() + self.guid:byte())\r\n        current = math.random(1, #adList)\r\n        for i,v in ipairs(adList) do\r\n            if (i ~= current) then\r\n                self.UI.hide(\"ad_\"..i)\r\n            end\r\n        end\r\n        self.UI.show(\"ad_\"..current)\r\n        anim = Wait.time(randomAd, math.random(adconfig.ADTIME[1], adconfig.ADTIME[2]) + math.random())\r\n    end\r\nend\r\n\r\nfunction sequenceAd()\r\n    if (#adList > 0) then\r\n        math.randomseed(os.time() + self.guid:byte())\r\n        current = current + 1\r\n        if (current > #adList) then\r\n            current = 1\r\n        end\r\n        for i,v in ipairs(adList) do\r\n            if (i ~= current) then\r\n                self.UI.hide(\"ad_\"..i)\r\n            end\r\n        end\r\n        self.UI.show(\"ad_\"..current)\r\n        anim = Wait.time(sequenceAd, math.random(adconfig.ADTIME[1], adconfig.ADTIME[2]) + math.random())\r\n    end\r\nend\r\n\r\nfunction displayRandom()\r\n    Wait.stop(anim)\r\n    math.randomseed(os.time() + self.guid:byte())\r\n    current = math.random(1, #adList)\r\n    for i,v in ipairs(adList) do\r\n        if (current ~= i) then\r\n            self.UI.hide(\"ad_\"..i)\r\n        end\r\n    end\r\n    self.UI.show(\"ad_\"..current)\r\n    anim = Wait.time(randomAd, math.random(adconfig.ADTIME[1], adconfig.ADTIME[2]) + math.random())\r\nend\r\n\r\nfunction displaySequence()\r\n    Wait.stop(anim)\r\n    current = 1\r\n    for i,v in ipairs(adList) do\r\n        if (i ~= current) then\r\n            self.UI.hide(\"ad_\"..i)\r\n        end\r\n    end\r\n    self.UI.show(\"ad_\"..current)\r\n    anim = Wait.time(sequenceAd, math.random(adconfig.ADTIME[1], adconfig.ADTIME[2]) + math.random())\r\nend\r\n\r\nfunction rebuildUI()\r\n\r\n    local scoreChildren = {}\r\n\r\n    table.insert(scoreChildren, {\r\n            tag=\"Panel\", attributes={\r\n                width=3600/3.5,\r\n                height=6400/3.5,\r\n                position=\"0 100 1100\",\r\n                rotation=\"260 0 0\",\r\n                color=\"#000000c0\"\r\n            }, children = {\r\n                {\r\n                    tag=\"Text\",\r\n                    attributes={\r\n                        color=adconfig.P1_COLOR,\r\n                        id=\"score_player1_name\",\r\n                        text=\"\",\r\n                        resizeTextMinSize=\"60\",\r\n                        resizeTextMaxSize=\"140\",\r\n                        position=\"0 700 0\",\r\n                        alignment=\"TopCenter\",\r\n                        resizeTextForBestFit=true,\r\n                        width=\"800\",\r\n                        height=\"200\",\r\n                        outline=\"black\",\r\n                        outlineSize=\"-5 -5\",\r\n\r\n                    }\r\n                },\r\n                {\r\n                    tag=\"Text\",\r\n                    attributes={\r\n                        color=adconfig.P2_COLOR,\r\n                        id=\"score_player2_name\",\r\n                        text=\"\",\r\n                        resizeTextMinSize=\"60\",\r\n                        resizeTextMaxSize=\"140\",\r\n                        position=\"0 -100 0\",\r\n                        alignment=\"TopCenter\",\r\n                        resizeTextForBestFit=true,\r\n                        width=\"800\",\r\n                        height=\"200\",\r\n                        outline=\"black\",\r\n                        outlineSize=\"-5 -5\",\r\n\r\n                    }\r\n                },\r\n                {\r\n                    tag=\"Text\",\r\n                    attributes={\r\n                        color=adconfig.P1_COLOR,\r\n                        id=\"score_player1_value\",\r\n                        text=\"-\",\r\n                        resizeTextMinSize=\"100\",\r\n                        resizeTextMaxSize=\"400\",\r\n                        position=\"0 400 0\",\r\n                        alignment=\"TopCenter\",\r\n                        resizeTextForBestFit=true,\r\n                        width=\"800\",\r\n                        height=\"800\",\r\n                        outline=\"black\",\r\n                        outlineSize=\"-5 -5\",\r\n\r\n                    }\r\n                },\r\n                {\r\n                    tag=\"Text\",\r\n                    attributes={\r\n                        color=adconfig.P2_COLOR,\r\n                        id=\"score_player2_value\",\r\n                        text=\"-\",\r\n                        resizeTextMinSize=\"100\",\r\n                        resizeTextMaxSize=\"400\",\r\n                        position=\"0 -400 0\",\r\n                        alignment=\"TopCenter\",\r\n                        resizeTextForBestFit=true,\r\n                        width=\"800\",\r\n                        height=\"800\",\r\n                        outline=\"black\",\r\n                        outlineSize=\"-5 -5\",\r\n\r\n                    }\r\n                }\r\n            }\r\n    })\r\n\r\n    local ui = {\r\n        {\r\n            tag=\"Panel\",\r\n            attributes={\r\n                position=\"0 0 0\",\r\n                id=\"score\",\r\n                active=false,\r\n                showAnimation=\"Grow\",\r\n                hideAnimation=\"Shrink\",\r\n                animationDuration=1.0\r\n            },\r\n            children = scoreChildren\r\n        }\r\n    }\r\n\r\n    local assets = {}\r\n    local assetRefs = {}\r\n    local refLen = 0\r\n    for i,url in pairs(adList) do\r\n        if (assetRefs[url] == nil) then\r\n            refLen = refLen + 1\r\n            assetRefs[url] = self.guid..\"_ad_\"..refLen\r\n            table.insert(assets, {name=assetRefs[url], url=url})\r\n        end\r\n\r\n        table.insert(ui, {\r\n            tag=\"Panel\", children={\r\n                {\r\n                    tag=\"Image\",\r\n                    attributes={\r\n                        color=\"#ffffffc0\",\r\n                        image=(assetRefs[url]),\r\n                        width=3600/3.5,\r\n                        height=6400/3.5,\r\n                        position=\"0 100 1100\",\r\n                        rotation=\"260 0 0\",\r\n                    }\r\n                }\r\n            }, attributes={\r\n                position=\"0 0 0\",\r\n                id=(\"ad_\"..i),\r\n                active=false,\r\n                showAnimation=\"Grow\",\r\n                hideAnimation=\"Shrink\",\r\n                animationDuration=1.0\r\n            }\r\n        })\r\n    end\r\n    self.UI.setCustomAssets(assets)\r\n    self.UI.setXmlTable({ {tag=\"Panel\", children=ui} })\r\nend\r\n\r\nfunction refresh()\r\n    TRH = Global.getTable(\"TRH\") or {}\r\n    self.UI.setAttribute(\"score_player1_name\", \"text\", TRH['score_p1n'] or \"\")\r\n    self.UI.setAttribute(\"score_player1_value\", \"text\", TRH['score_p1v'] or \"-\")\r\n    self.UI.setAttribute(\"score_player2_name\", \"text\", TRH['score_p2n'] or \"\")\r\n    self.UI.setAttribute(\"score_player2_value\", \"text\", TRH['score_p2v'] or \"-\")\r\nend\r\n\r\nfunction onSave()\r\n    local component = self.getComponent(\"MeshCollider\") or self.getComponent(\"BoxCollider\")\r\n    local data = {col = component.get(\"enabled\")}\r\n    return JSON.encode(data)\r\nend\r\n\r\nfunction onLoad(save)\r\n    local data = JSON.decode(save) or { col = true }\r\n    component = self.getComponent(\"MeshCollider\") or self.getComponent(\"BoxCollider\")\r\n    component.set(\"enabled\", data.col)\r\n    self.interactable = data.col\r\n    rebuildUI()\r\n    Wait.frames(refresh, 2)\r\n    if (adconfig.INITIALDISPLAY == \"sequence\") then\r\n        Wait.frames(displaySequence, 3)\r\n    else\r\n        Wait.frames(displayRandom, 3)\r\n    end\r\nend\r\n--DO NOT EDIT THIS TABLE\r\ncmdconst = { OK = 0, STATUS_ERROR = 1, STATUS_BADARGS = 2, STATUS_PERMISSIONS = 3, SPECTATOR = 1, PLAYER = 2, PROMOTED = 4, BLACK = 8, HOST = 16, ALL = 31, NOSPECTATOR = 30 }\r\n\r\n--okay, now you can edit stuff\r\n\r\n--set your config here\r\ncmdconfig = {\r\n    PROMPT = \"!jumbotron\", --edit this to determine what you want your command line trigger to be. Recommend starting with an exclaimation point. You can make this an integer-key'd table to listen to multiple command prompts, if you want. Be careful\r\n    TERMINAL = \"[ff8000]JUMBOTRON>[-] \", --printed before each line in most cases\r\n    VERBOSITY = \"never\", --set to 'always' for complete feedback, 'error' for only errors, 'help' for only displaying help messages, 'never' to get it to shut up - this does not stop command calls from printing, but will stop command line errors\r\n    ACCESS = {cmdconst.HOST, cmdconst.BLACK},\r\n        --[[\r\n            \"\"\r\n            \"GUEST\" => Anyone can acess,\r\n            \"SEATED&PROMOTED\"\r\n            \"PROMOTED\" => Anyone promoted can access\r\n        ]]\r\n}\r\n\r\n--add your commands here\r\ncommands = {\r\n    [\"set\"] = false,\r\n    [\"add\"] = false,\r\n    [\"sub\"] = false,\r\n    [\"clear\"] = false,\r\n    [\"seated\"] = false,\r\n    [\"name\"] = false,\r\n    [\"unname\"] = false,\r\n    [\"display\"] = {\r\n        desc = \"Change the order in which the ads are displayed\",\r\n        arguments = {\r\n            {\"sequence|random\", \"one after another or randomly determined\", true}\r\n        },\r\n        requiredArgs = 1,\r\n        call = function(player, display)\r\n            if (display == \"sequence\") then displaySequence() end\r\n            if (display == \"random\") then displayRandom() end\r\n            --Wait.frames(refresh, 2)\r\n            return cmdconst.OK\r\n        end\r\n    },\r\n    [\"mode\"] = {\r\n        desc = \"toggles between game mode (disabled collisions and non-interactive) and edit mode\",\r\n        arguments = {\r\n            {\"edit|game\", \"'edit' will enabled interactibility, 'game' disables interactibility\", true}\r\n        },\r\n        requiredArgs = 1,\r\n        call = function(player, mode)\r\n            if (mode == \"game\") then\r\n                self.interactable = false\r\n                (self.getComponent(\"MeshCollider\") or self.getComponent(\"BoxCollider\")).set(\"enabled\", false)\r\n            elseif (mode == \"edit\") then\r\n                self.interactable = true\r\n                (self.getComponent(\"MeshCollider\") or self.getComponent(\"BoxCollider\")).set(\"enabled\", true)\r\n            end\r\n            return cmdconst.OK\r\n        end\r\n    }\r\n}\r\n\r\n--don't edit below here\r\n\r\ncommands=commands or{}cmdconfig.ACCESS=cmdconfig.ACCESS or{cmdconst.HOST}commands['help']={desc=\"lists out what commands are available, or describes a specific command\",arguments={{\"[command]\",\"Specific command to gather more information on\"}},call=function(a,b)if cmdconfig.VERBOSITY==\"always\"or cmdconfig.VERBOSITY==\"help\"then if b~=nil then if commands[b]~=false then printToAll(\"\\n================\\nHelp: \"..b..\"\\n================\\n\",{1.0,0.9,0.5})if commands[b]~=nil then local c=\"\"local d={}for e,f in ipairs(commands[b].arguments or{})do c=c..\" \"..((f[3]or false)and\"[b]\"..f[1]..\"[/b] \"or\"[i]\"..f[1]..\"[/i]\")d[e]=\"> [99ccff]\"..f[1]..\"[-] \"..((f[3]or false)and\"(required)\"or\"(optional)\")..\" - \"..f[2]end;a.print(commands[b].desc or\"No information found\",{1.0,1.0,1.0})a.print(\"\",{1.0,1.0,1.0})a.print(\"Syntax\",{1.0,1.0,1.0})a.print(\"[ffe680]\"..(type(cmdconfig.PROMPT)==\"table\"and cmdconfig.PROMPT[1]or cmdconfig.PROMPT)..\" \"..b..\"[-][99ccff]\"..c..\"[-]\",{1.0,1.0,1.0})a.print(\"\",{1.0,1.0,1.0})if#d>0 then a.print(\"Arguments\",{1.0,1.0,1.0})end;for g,h in ipairs(d)do a.print(h,{1.0,1.0,1.0})end else a.print(\"Help doesn't know anything about '\"..b..\"'\",{1.0,0.4,0.4})end end else printToAll(\"\\n================\\nHelp\\n================\\n\",{1.0,0.9,0.5})for i,h in pairs(commands)do if h~=false then if not(h.private or false)then local c=\"\"for e,f in ipairs(h.arguments or{})do c=c..\" \"..((f[3]or false)and\"[b]\"..f[1]..\"[/b] \"or\"[i]\"..f[1]..\"[/i]\")end;a.print(\"[ffe680]\"..(type(cmdconfig.PROMPT)==\"table\"and cmdconfig.PROMPT[1]or cmdconfig.PROMPT)..\" \"..i..\"[-][99ccff]\"..c..\"[-] - \"..(h.desc or\"[ff8080]Undocumented[-]\"),{1.0,1.0,1.0})end end end end end;return cmdconst.OK end}function onChat(j,a)local k=false;local l=\"\"if type(cmdconfig.PROMPT)==\"table\"then for g,m in ipairs(cmdconfig.PROMPT)do k=string.lower(string.sub(j,1,string.len(m)+1))==string.lower(m)..\" \"if k then l=m;break end end else k=string.lower(string.sub(j,1,string.len(cmdconfig.PROMPT)+1))==string.lower(cmdconfig.PROMPT)..\" \"l=cmdconfig.PROMPT end;if k then local n=bit32.bor(a.host and cmdconst.HOST or 0,a.color==\"Black\"and cmdconst.BLACK or 0,a.color~=\"Grey\"and a.color~=\"Black\"and cmdconst.PLAYER or 0,a.promoted and cmdconst.PROMOTED or 0,a.color==\"Grey\"and cmdconst.SPECTATOR or 0)if bit32.band(bit32.bor(table.unpack(cmdconfig.ACCESS)),n)==0 then if cmdconfig.VERBOSITY==\"always\"or cmdconfig.VERBOSITY==\"error\"then a.print(cmdconfig.TERMINAL..\"Insufficient Priviliges\",{1.0,0.4,0.4})end;return false end;local o={}local p=string.sub(j,string.len(l)+2)local q=0;while true do local r=q+1;r=p:find(\"%S\",r)if r==nil then break end;if p:sub(r,r)==\"'\"then q=p:find(\"'\",r+1)r=r+1 elseif p:sub(r,r)=='\"'then q=p:find('\"',r+1)r=r+1 else q=p:find(\"%s\",r+1)end;if q==nil then q=#p+1 end;o[#o+1]=p:sub(r,q-1)end;if#o<1 then if cmdconfig.VERBOSITY==\"always\"or cmdconfig.VERBOSITY==\"error\"then a.print(cmdconfig.TERMINAL..\"Command Expected\",{1.0,0.4,0.4})if commands.help~=nil then a.print(\"Use '\"..l..\" help' for a list of valid commands\",{1.0,0.4,0.4})else a.print(cmdconfig.TERMINAL..\"Help command not found!\",{1.0,0.4,0.4})end end;return false end;local b=string.lower(table.remove(o,1))if commands[b]~=nil then if commands[b]~=false then if bit32.band(bit32.bor(table.unpack(commands[b].access or{cmdconst.NOSPECTATOR})),n)==0 then if cmdconfig.VERBOSITY==\"always\"or cmdconfig.VERBOSITY==\"error\"then a.print(cmdconfig.TERMINAL..\"Insufficient Priviliges\",{1.0,0.4,0.4})end;return false else local s=commands[b].requiredArgs;if s==nil then s=0;for g,h in pairs(commands[b].arguments or{})do if h[3]then s=s+1 else break end end end;if#o<s then if cmdconfig.VERBOSITY==\"always\"or cmdconfig.VERBOSITY==\"error\"then a.print(cmdconfig.TERMINAL..\"Bad Arguments\",{1.0,0.4,0.4})if commands.help==nil then a.print(cmdconfig.TERMINAL..\"WARNING: Help command not found!\",{1.0,0.4,0.4})else a.print(cmdconfig.TERMINAL..\"Use '\"..l..\" help \"..b..\"' for help with this command\",{1.0,0.4,0.4})end end;return false end;local t=commands[b].call(a,table.unpack(o))if t~=nil then if cmdconfig.VERBOSITY==\"always\"or cmdconfig.VERBOSITY==\"error\"then if t==cmdconst.STATUS_ERROR then a.print(cmdconfig.TERMINAL..\"General Error\",{1.0,0.4,0.4})end;if t==cmdconst.STATUS_BADARGS then a.print(cmdconfig.TERMINAL..\"Bad Arguments\",{1.0,0.4,0.4})if commands.help~=nil then a.print(cmdconfig.TERMINAL..\"Use '\"..l..\" help \"..b..\"' for help with this command\",{1.0,0.4,0.4})else a.print(cmdconfig.TERMINAL..\"Help command not found!\",{1.0,0.4,0.4})end end;if t==cmdconst.STATUS_PERMISSIONS then a.print(cmdconfig.TERMINAL..\"Insufficient Priviliges \",{1.0,0.4,0.4})end end end end else return false end else if cmdconfig.VERBOSITY==\"always\"or cmdconfig.VERBOSITY==\"error\"then a.print(cmdconfig.TERMINAL..\"Unknown Command '\"..b..\"'\",{1.0,0.4,0.4})if commands.help~=nil then a.print(cmdconfig.TERMINAL..\"Use '\"..l..\" help' for a list of valid commands\",{1.0,0.4,0.4})else a.print(cmdconfig.TERMINAL..\"WARNING: Help command not found!\",{1.0,0.4,0.4})end end end;return false end end\r\n",
+      "LuaScriptState": "{\"col\":true}",
+      "XmlUI": "",
+      "CustomUIAssets": [
+        {
+          "Type": 0,
+          "Name": "916657_ad_1",
+          "URL": "https://i.imgur.com/rZViDWc.jpeg"
+        },
+        {
+          "Type": 0,
+          "Name": "916657_ad_2",
+          "URL": "https://i.imgur.com/YBHwWAk.jpeg"
+        },
+        {
+          "Type": 0,
+          "Name": "916657_ad_3",
+          "URL": "https://i.imgur.com/VNwkPVF.jpeg"
+        },
+        {
+          "Type": 0,
+          "Name": "916657_ad_4",
+          "URL": "https://i.imgur.com/Yi1AcWX.jpeg"
+        },
+        {
+          "Type": 0,
+          "Name": "916657_ad_5",
+          "URL": "https://i.imgur.com/sM4PQBs.jpeg"
+        },
+        {
+          "Type": 0,
+          "Name": "916657_ad_6",
+          "URL": "https://i.imgur.com/1MQ74Yi.jpeg"
+        }
+      ]
+    }
+  ]
+}

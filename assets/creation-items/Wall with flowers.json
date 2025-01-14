@@ -1,0 +1,75 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "e175ce",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 13.6676607,
+        "posY": 19.8057137,
+        "posZ": 7.551231,
+        "rotX": 3.60232343E-06,
+        "rotY": 90.0337143,
+        "rotZ": -4.985841E-05,
+        "scaleX": 1.00000453,
+        "scaleY": 1.0,
+        "scaleZ": 1.15732265
+      },
+      "Nickname": "Bespin Wall ",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.770688057,
+        "g": 0.770688057,
+        "b": 0.770688057
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/785234540542571500/3E825CA67AF0A048127E8E0A08B5C105D1E98588/",
+        "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/785234540542572275/5A7AF086E0B799434667D5198E56A3DBB9AD3019/",
+        "NormalURL": "",
+        "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/785234540542571500/3E825CA67AF0A048127E8E0A08B5C105D1E98588/",
+        "Convex": false,
+        "MaterialIndex": 1,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": ""
+    }
+  ]
+}

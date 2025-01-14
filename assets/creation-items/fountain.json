@@ -1,0 +1,132 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "366342",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 7.677599,
+        "posY": 7.587951,
+        "posZ": 19.7492542,
+        "rotX": 0.0002812112,
+        "rotY": 89.98785,
+        "rotZ": -0.00108361465,
+        "scaleX": 0.9,
+        "scaleY": 0.9,
+        "scaleZ": 0.9
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.721568644,
+        "g": 0.721568644,
+        "b": 0.721568644
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": true,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/785234540542564424/9FC66E31B79B8153120709104B273638AE48EBF0/",
+        "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/785234540542566377/16DFAB37337CEF01C945C4480FCD0DE4D4CCA70E/",
+        "NormalURL": "",
+        "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/785234540542567040/DB96E17562D4DF5AAF085C7A4A4633D60C504A8C/",
+        "Convex": false,
+        "MaterialIndex": 1,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ChildObjects": [
+        {
+          "GUID": "940806",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -0.1032104,
+            "posY": 0.9831253,
+            "posZ": -0.07121943,
+            "rotX": 0.7329888,
+            "rotY": 120.078331,
+            "rotZ": 358.732666,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Fountain ",
+          "Description": "Special Thanks: www.danwulfgames.com",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.8104719,
+            "g": 0.8104719,
+            "b": 0.8104719
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/785234540542503837/096C1D17DF3BF6DD5AC609A17C7C095876E67F76/",
+            "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/785234540542506616/D9923B9B09E800D1D8FC9D936E7B539280E70056/",
+            "NormalURL": "",
+            "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/785234540542503837/096C1D17DF3BF6DD5AC609A17C7C095876E67F76/",
+            "Convex": false,
+            "MaterialIndex": 1,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      ]
+    }
+  ]
+}

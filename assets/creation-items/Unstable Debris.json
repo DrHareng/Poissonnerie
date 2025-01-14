@@ -1,0 +1,85 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "d871e0",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -7.17064667,
+        "posY": 3.04,
+        "posZ": -9.408917,
+        "rotX": 2.75400851E-07,
+        "rotY": 0.0,
+        "rotZ": 0.0,
+        "scaleX": 1.5,
+        "scaleY": 1.0,
+        "scaleZ": 1.5
+      },
+      "Nickname": "Unstable Debris",
+      "Description": "Cannot deploy on or move onto this debris, due to it's lack of stability.\nWhich is why it's called unstable debris. \nAs I'm sure you realised immediately.",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": false,
+      "Snap": false,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": false,
+      "Tooltip": true,
+      "GridProjection": true,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1842530654461530124/4228CAA17E91863D898F54C84452FFA97EB85829/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1842530654461530233/B3E7A5B0B0FC602AF363ED94455C3EF4520C0F81/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1842530654461530124/4228CAA17E91863D898F54C84452FFA97EB85829/",
+        "Convex": false,
+        "MaterialIndex": 1,
+        "TypeIndex": 1,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 3.0,
+          "FresnelStrength": 0.1
+        },
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": ""
+    }
+  ]
+}

@@ -1,0 +1,1760 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "333756",
+      "Name": "Custom_Assetbundle",
+      "Transform": {
+        "posX": 38.6945572,
+        "posY": 1.55594623,
+        "posZ": 0.5092068,
+        "rotX": 0.0,
+        "rotY": 269.9857,
+        "rotZ": 0.0,
+        "scaleX": 1.39999974,
+        "scaleY": 1.39999974,
+        "scaleZ": 1.39999974
+      },
+      "Nickname": "Forest",
+      "Description": "Low Visibility (-3 MOD), Saturation Zone (-1 Burst).\nTroopers with Jungle Terrain (or Multiterrain) get a +3 MOD to PH for the Dodge, Engage and Change Facing skill.",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomAssetbundle": {
+        "AssetbundleURL": "https://drive.google.com/uc?export=download&id=1cceq6t9acfdeg6OtfoVGw9ipsJpu0JK8",
+        "AssetbundleSecondaryURL": "",
+        "MaterialIndex": 0,
+        "TypeIndex": 0,
+        "LoopingEffectIndex": 0
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "States": {
+        "1": {
+          "GUID": "afd62e",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 38.6945572,
+            "posY": 1.55594623,
+            "posZ": 0.5092068,
+            "rotX": 0.0,
+            "rotY": 269.9857,
+            "rotZ": 0.0,
+            "scaleX": 1.39999974,
+            "scaleY": 1.39999974,
+            "scaleZ": 1.39999974
+          },
+          "Nickname": "Forest",
+          "Description": "Low Visibility (-3 MOD), Saturation Zone (-1 Burst).\nTroopers with Jungle Terrain (or Multiterrain) get a +3 MOD to PH for the Dodge, Engage and Change Facing skill.",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": true,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "https://drive.google.com/uc?export=download&id=1cceq6t9acfdeg6OtfoVGw9ipsJpu0JK8",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 0,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "ChildObjects": [
+            {
+              "GUID": "061061",
+              "Name": "Custom_Assetbundle",
+              "Transform": {
+                "posX": -1.38998759,
+                "posY": 0.006284795,
+                "posZ": 2.81850219,
+                "rotX": 1.43324687E-05,
+                "rotY": 314.8817,
+                "rotZ": 5.092586E-06,
+                "scaleX": 2.142858,
+                "scaleY": 2.14285755,
+                "scaleZ": 2.142858
+              },
+              "Nickname": "Forest",
+              "Description": "Low Visibility (-3 MOD), Saturation Zone (-1 Burst).\nTroopers with Jungle Terrain (or Multiterrain) get a +3 MOD to PH for the Dodge, Engage and Change Facing skill.",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomAssetbundle": {
+                "AssetbundleURL": "https://drive.google.com/uc?export=download&id=1BpxAwpJAYB4R1WEUnEGPohPHio8JpAL7",
+                "AssetbundleSecondaryURL": "",
+                "MaterialIndex": 0,
+                "TypeIndex": 0,
+                "LoopingEffectIndex": 0
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "f96e11",
+              "Name": "Custom_Token",
+              "Transform": {
+                "posX": 0.2278637,
+                "posY": -0.105429091,
+                "posZ": 2.048702,
+                "rotX": -1.43801326E-05,
+                "rotY": 150.008667,
+                "rotZ": -9.876277E-06,
+                "scaleX": 2.14285755,
+                "scaleY": 0.714285851,
+                "scaleZ": 2.14285755
+              },
+              "Nickname": "Forest",
+              "Description": "Low Visibility (-3 MOD), Saturation Zone (-1 Burst).\nTroopers with Jungle Terrain (or Multiterrain) get a +3 MOD to PH for the Dodge, Engage and Change Facing skill.",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1473192297527967190/B5163DF32FCA91B08D71F6EABCBDB8709841DD98/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomToken": {
+                  "Thickness": 0.2,
+                  "MergeDistancePixels": 15.0,
+                  "StandUp": false,
+                  "Stackable": false
+                }
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "855af6",
+              "Name": "Custom_Assetbundle",
+              "Transform": {
+                "posX": 0.70253,
+                "posY": 0.006285303,
+                "posZ": 2.75600219,
+                "rotX": 7.803555E-06,
+                "rotY": 225.011566,
+                "rotZ": -1.73482858E-05,
+                "scaleX": 2.142858,
+                "scaleY": 2.14285755,
+                "scaleZ": 2.142858
+              },
+              "Nickname": "Forest",
+              "Description": "Low Visibility (-3 MOD), Saturation Zone (-1 Burst).\nTroopers with Jungle Terrain (or Multiterrain) get a +3 MOD to PH for the Dodge, Engage and Change Facing skill.",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomAssetbundle": {
+                "AssetbundleURL": "https://drive.google.com/uc?export=download&id=1BpxAwpJAYB4R1WEUnEGPohPHio8JpAL7",
+                "AssetbundleSecondaryURL": "",
+                "MaterialIndex": 0,
+                "TypeIndex": 0,
+                "LoopingEffectIndex": 0
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "ChildObjects": [
+                {
+                  "GUID": "5e192e",
+                  "Name": "Custom_Assetbundle",
+                  "Transform": {
+                    "posX": -0.62258637,
+                    "posY": 2.88593967E-08,
+                    "posZ": 1.01594615,
+                    "rotX": -1.106851E-06,
+                    "rotY": 134.992065,
+                    "rotZ": -1.10861583E-06,
+                    "scaleX": 0.9999999,
+                    "scaleY": 1.0,
+                    "scaleZ": 0.9999999
+                  },
+                  "Nickname": "Forest",
+                  "Description": "Low Visibility (-3 MOD), Saturation Zone (-1 Burst).\nTroopers with Jungle Terrain (or Multiterrain) get a +3 MOD to PH for the Dodge, Engage and Change Facing skill.",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": true,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": false,
+                  "Hands": false,
+                  "CustomAssetbundle": {
+                    "AssetbundleURL": "https://drive.google.com/uc?export=download&id=1BpxAwpJAYB4R1WEUnEGPohPHio8JpAL7",
+                    "AssetbundleSecondaryURL": "",
+                    "MaterialIndex": 0,
+                    "TypeIndex": 0,
+                    "LoopingEffectIndex": 0
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                }
+              ]
+            },
+            {
+              "GUID": "ba5dc5",
+              "Name": "Custom_Assetbundle",
+              "Transform": {
+                "posX": 0.0119179646,
+                "posY": -0.0514192134,
+                "posZ": 0.5319848,
+                "rotX": 7.844656E-06,
+                "rotY": 195.017365,
+                "rotZ": -1.96052442E-05,
+                "scaleX": 1.4285717,
+                "scaleY": 1.4285717,
+                "scaleZ": 1.4285717
+              },
+              "Nickname": "Forest",
+              "Description": "Low Visibility (-3 MOD), Saturation Zone (-1 Burst).\nTroopers with Jungle Terrain (or Multiterrain) get a +3 MOD to PH for the Dodge, Engage and Change Facing skill.",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomAssetbundle": {
+                "AssetbundleURL": "https://drive.google.com/uc?export=download&id=1XMaL2Z2vqYZfW5P_ZRXVk2hnRRcqIpq1",
+                "AssetbundleSecondaryURL": "",
+                "MaterialIndex": 0,
+                "TypeIndex": 0,
+                "LoopingEffectIndex": 0
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "ChildObjects": [
+                {
+                  "GUID": "2f63ee",
+                  "Name": "Custom_Assetbundle",
+                  "Transform": {
+                    "posX": 1.53123474,
+                    "posY": 0.03599343,
+                    "posZ": -0.137723565,
+                    "rotX": 1.5937736E-05,
+                    "rotY": 344.9912,
+                    "rotZ": 8.2732214E-07,
+                    "scaleX": 0.7000001,
+                    "scaleY": 0.699999869,
+                    "scaleZ": 0.7000001
+                  },
+                  "Nickname": "Forest",
+                  "Description": "Low Visibility (-3 MOD), Saturation Zone (-1 Burst).\nTroopers with Jungle Terrain (or Multiterrain) get a +3 MOD to PH for the Dodge, Engage and Change Facing skill.",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": true,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": false,
+                  "Hands": false,
+                  "CustomAssetbundle": {
+                    "AssetbundleURL": "https://drive.google.com/uc?export=download&id=1cceq6t9acfdeg6OtfoVGw9ipsJpu0JK8",
+                    "AssetbundleSecondaryURL": "",
+                    "MaterialIndex": 0,
+                    "TypeIndex": 0,
+                    "LoopingEffectIndex": 0
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "8be6df",
+                  "Name": "Custom_Assetbundle",
+                  "Transform": {
+                    "posX": -0.8708246,
+                    "posY": -6.435447E-07,
+                    "posZ": -2.62712479,
+                    "rotX": 3.63037452E-06,
+                    "rotY": 269.974854,
+                    "rotZ": 1.081446E-05,
+                    "scaleX": 1.00000012,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.00000012
+                  },
+                  "Nickname": "Forest",
+                  "Description": "Low Visibility (-3 MOD), Saturation Zone (-1 Burst).\nTroopers with Jungle Terrain (or Multiterrain) get a +3 MOD to PH for the Dodge, Engage and Change Facing skill.",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": true,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": false,
+                  "Hands": false,
+                  "CustomAssetbundle": {
+                    "AssetbundleURL": "https://drive.google.com/uc?export=download&id=1XMaL2Z2vqYZfW5P_ZRXVk2hnRRcqIpq1",
+                    "AssetbundleSecondaryURL": "",
+                    "MaterialIndex": 0,
+                    "TypeIndex": 0,
+                    "LoopingEffectIndex": 0
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                }
+              ]
+            },
+            {
+              "GUID": "087429",
+              "Name": "Custom_Assetbundle",
+              "Transform": {
+                "posX": -1.08767235,
+                "posY": 0.0062847673,
+                "posZ": 3.60526776,
+                "rotX": 4.58458226E-06,
+                "rotY": 210.018585,
+                "rotZ": -2.06537188E-05,
+                "scaleX": 2.14285851,
+                "scaleY": 2.14285755,
+                "scaleZ": 2.14285851
+              },
+              "Nickname": "Forest",
+              "Description": "Low Visibility (-3 MOD), Saturation Zone (-1 Burst).\nTroopers with Jungle Terrain (or Multiterrain) get a +3 MOD to PH for the Dodge, Engage and Change Facing skill.",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomAssetbundle": {
+                "AssetbundleURL": "https://drive.google.com/uc?export=download&id=1BpxAwpJAYB4R1WEUnEGPohPHio8JpAL7",
+                "AssetbundleSecondaryURL": "",
+                "MaterialIndex": 0,
+                "TypeIndex": 0,
+                "LoopingEffectIndex": 0
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "99864d",
+              "Name": "Custom_Assetbundle",
+              "Transform": {
+                "posX": -0.0277955141,
+                "posY": -0.05141974,
+                "posZ": 3.98676848,
+                "rotX": 9.897587E-06,
+                "rotY": 239.881287,
+                "rotZ": -2.12975665E-05,
+                "scaleX": 1.42857242,
+                "scaleY": 1.4285717,
+                "scaleZ": 1.42857242
+              },
+              "Nickname": "Forest",
+              "Description": "Low Visibility (-3 MOD), Saturation Zone (-1 Burst).\nTroopers with Jungle Terrain (or Multiterrain) get a +3 MOD to PH for the Dodge, Engage and Change Facing skill.",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomAssetbundle": {
+                "AssetbundleURL": "https://drive.google.com/uc?export=download&id=1XMaL2Z2vqYZfW5P_ZRXVk2hnRRcqIpq1",
+                "AssetbundleSecondaryURL": "",
+                "MaterialIndex": 0,
+                "TypeIndex": 0,
+                "LoopingEffectIndex": 0
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "b131b3",
+              "Name": "Custom_Assetbundle",
+              "Transform": {
+                "posX": 0.5406471,
+                "posY": 2.78177424E-07,
+                "posZ": 0.8488501,
+                "rotX": -3.07387745E-05,
+                "rotY": 45.00857,
+                "rotZ": -1.51860886E-05,
+                "scaleX": 1.00000024,
+                "scaleY": 1.0,
+                "scaleZ": 1.00000024
+              },
+              "Nickname": "Forest",
+              "Description": "Low Visibility (-3 MOD), Saturation Zone (-1 Burst).\nTroopers with Jungle Terrain (or Multiterrain) get a +3 MOD to PH for the Dodge, Engage and Change Facing skill.",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomAssetbundle": {
+                "AssetbundleURL": "https://drive.google.com/uc?export=download&id=1cceq6t9acfdeg6OtfoVGw9ipsJpu0JK8",
+                "AssetbundleSecondaryURL": "",
+                "MaterialIndex": 0,
+                "TypeIndex": 0,
+                "LoopingEffectIndex": 0
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "cf4c56",
+              "Name": "Custom_Assetbundle",
+              "Transform": {
+                "posX": -1.08312237,
+                "posY": -9.12029748E-07,
+                "posZ": 4.51455832,
+                "rotX": -2.88641531E-05,
+                "rotY": 120.008553,
+                "rotZ": -8.728854E-06,
+                "scaleX": 1.00000012,
+                "scaleY": 1.0,
+                "scaleZ": 1.00000012
+              },
+              "Nickname": "Forest",
+              "Description": "Low Visibility (-3 MOD), Saturation Zone (-1 Burst).\nTroopers with Jungle Terrain (or Multiterrain) get a +3 MOD to PH for the Dodge, Engage and Change Facing skill.",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomAssetbundle": {
+                "AssetbundleURL": "https://drive.google.com/uc?export=download&id=1cceq6t9acfdeg6OtfoVGw9ipsJpu0JK8",
+                "AssetbundleSecondaryURL": "",
+                "MaterialIndex": 0,
+                "TypeIndex": 0,
+                "LoopingEffectIndex": 0
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "33ee2a",
+              "Name": "Custom_Assetbundle",
+              "Transform": {
+                "posX": -2.1237402,
+                "posY": -0.05142012,
+                "posZ": 2.28273749,
+                "rotX": -1.41925439E-05,
+                "rotY": 150.241867,
+                "rotZ": -1.99677E-05,
+                "scaleX": 1.4285723,
+                "scaleY": 1.4285717,
+                "scaleZ": 1.4285723
+              },
+              "Nickname": "Forest",
+              "Description": "Low Visibility (-3 MOD), Saturation Zone (-1 Burst).\nTroopers with Jungle Terrain (or Multiterrain) get a +3 MOD to PH for the Dodge, Engage and Change Facing skill.",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomAssetbundle": {
+                "AssetbundleURL": "https://drive.google.com/uc?export=download&id=1XMaL2Z2vqYZfW5P_ZRXVk2hnRRcqIpq1",
+                "AssetbundleSecondaryURL": "",
+                "MaterialIndex": 0,
+                "TypeIndex": 0,
+                "LoopingEffectIndex": 0
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "d13d84",
+              "Name": "Custom_Assetbundle",
+              "Transform": {
+                "posX": 2.60525131,
+                "posY": 0.00628574332,
+                "posZ": 3.55849266,
+                "rotX": 3.36364974E-06,
+                "rotY": 14.992424,
+                "rotZ": 1.74124434E-05,
+                "scaleX": 2.14285851,
+                "scaleY": 2.14285755,
+                "scaleZ": 2.14285851
+              },
+              "Nickname": "Forest",
+              "Description": "Low Visibility (-3 MOD), Saturation Zone (-1 Burst).\nTroopers with Jungle Terrain (or Multiterrain) get a +3 MOD to PH for the Dodge, Engage and Change Facing skill.",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomAssetbundle": {
+                "AssetbundleURL": "https://drive.google.com/uc?export=download&id=1BpxAwpJAYB4R1WEUnEGPohPHio8JpAL7",
+                "AssetbundleSecondaryURL": "",
+                "MaterialIndex": 0,
+                "TypeIndex": 0,
+                "LoopingEffectIndex": 0
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "1926be",
+              "Name": "Custom_Assetbundle",
+              "Transform": {
+                "posX": 1.95507884,
+                "posY": 5.74940024E-08,
+                "posZ": 3.94336677,
+                "rotX": -8.59229E-06,
+                "rotY": 0.008575303,
+                "rotZ": 8.058379E-06,
+                "scaleX": 0.9999998,
+                "scaleY": 1.0,
+                "scaleZ": 0.9999998
+              },
+              "Nickname": "Forest",
+              "Description": "Low Visibility (-3 MOD), Saturation Zone (-1 Burst).\nTroopers with Jungle Terrain (or Multiterrain) get a +3 MOD to PH for the Dodge, Engage and Change Facing skill.",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomAssetbundle": {
+                "AssetbundleURL": "https://drive.google.com/uc?export=download&id=1cceq6t9acfdeg6OtfoVGw9ipsJpu0JK8",
+                "AssetbundleSecondaryURL": "",
+                "MaterialIndex": 0,
+                "TypeIndex": 0,
+                "LoopingEffectIndex": 0
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            }
+          ]
+        }
+      },
+      "ChildObjects": [
+        {
+          "GUID": "061061",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -1.38998759,
+            "posY": 0.006284795,
+            "posZ": 2.81850219,
+            "rotX": 1.43324687E-05,
+            "rotY": 314.8817,
+            "rotZ": 5.092586E-06,
+            "scaleX": 2.142858,
+            "scaleY": 2.14285755,
+            "scaleZ": 2.142858
+          },
+          "Nickname": "Forest",
+          "Description": "Low Visibility (-3 MOD), Saturation Zone (-1 Burst).\nTroopers with Jungle Terrain (or Multiterrain) get a +3 MOD to PH for the Dodge, Engage and Change Facing skill.",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "https://drive.google.com/uc?export=download&id=1BpxAwpJAYB4R1WEUnEGPohPHio8JpAL7",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 0,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "f96e11",
+          "Name": "Custom_Token",
+          "Transform": {
+            "posX": 0.2278637,
+            "posY": -0.105429091,
+            "posZ": 2.048702,
+            "rotX": -1.43801326E-05,
+            "rotY": 150.008667,
+            "rotZ": -9.876277E-06,
+            "scaleX": 2.14285755,
+            "scaleY": 0.714285851,
+            "scaleZ": 2.14285755
+          },
+          "Nickname": "Forest",
+          "Description": "Low Visibility (-3 MOD), Saturation Zone (-1 Burst).\nTroopers with Jungle Terrain (or Multiterrain) get a +3 MOD to PH for the Dodge, Engage and Change Facing skill.",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": true,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1473192297527967190/B5163DF32FCA91B08D71F6EABCBDB8709841DD98/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomToken": {
+              "Thickness": 0.2,
+              "MergeDistancePixels": 15.0,
+              "StandUp": false,
+              "Stackable": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "855af6",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 0.70253,
+            "posY": 0.006285303,
+            "posZ": 2.75600219,
+            "rotX": 7.803555E-06,
+            "rotY": 225.011566,
+            "rotZ": -1.73482858E-05,
+            "scaleX": 2.142858,
+            "scaleY": 2.14285755,
+            "scaleZ": 2.142858
+          },
+          "Nickname": "Forest",
+          "Description": "Low Visibility (-3 MOD), Saturation Zone (-1 Burst).\nTroopers with Jungle Terrain (or Multiterrain) get a +3 MOD to PH for the Dodge, Engage and Change Facing skill.",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "https://drive.google.com/uc?export=download&id=1BpxAwpJAYB4R1WEUnEGPohPHio8JpAL7",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 0,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "ChildObjects": [
+            {
+              "GUID": "5e192e",
+              "Name": "Custom_Assetbundle",
+              "Transform": {
+                "posX": -0.62258637,
+                "posY": 2.88593967E-08,
+                "posZ": 1.01594615,
+                "rotX": -1.106851E-06,
+                "rotY": 134.992065,
+                "rotZ": -1.10861583E-06,
+                "scaleX": 0.9999999,
+                "scaleY": 1.0,
+                "scaleZ": 0.9999999
+              },
+              "Nickname": "Forest",
+              "Description": "Low Visibility (-3 MOD), Saturation Zone (-1 Burst).\nTroopers with Jungle Terrain (or Multiterrain) get a +3 MOD to PH for the Dodge, Engage and Change Facing skill.",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomAssetbundle": {
+                "AssetbundleURL": "https://drive.google.com/uc?export=download&id=1BpxAwpJAYB4R1WEUnEGPohPHio8JpAL7",
+                "AssetbundleSecondaryURL": "",
+                "MaterialIndex": 0,
+                "TypeIndex": 0,
+                "LoopingEffectIndex": 0
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            }
+          ]
+        },
+        {
+          "GUID": "ba5dc5",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 0.0119179646,
+            "posY": -0.0514192134,
+            "posZ": 0.5319848,
+            "rotX": 7.844656E-06,
+            "rotY": 195.017365,
+            "rotZ": -1.96052442E-05,
+            "scaleX": 1.4285717,
+            "scaleY": 1.4285717,
+            "scaleZ": 1.4285717
+          },
+          "Nickname": "Forest",
+          "Description": "Low Visibility (-3 MOD), Saturation Zone (-1 Burst).\nTroopers with Jungle Terrain (or Multiterrain) get a +3 MOD to PH for the Dodge, Engage and Change Facing skill.",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1636486997857273961/B678ACCCF9CEF7A479DEA4C55253C14AD35F4B59/",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 0,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "ChildObjects": [
+            {
+              "GUID": "2f63ee",
+              "Name": "Custom_Assetbundle",
+              "Transform": {
+                "posX": 1.53123474,
+                "posY": 0.03599343,
+                "posZ": -0.137723565,
+                "rotX": 1.5937736E-05,
+                "rotY": 344.9912,
+                "rotZ": 8.2732214E-07,
+                "scaleX": 0.7000001,
+                "scaleY": 0.699999869,
+                "scaleZ": 0.7000001
+              },
+              "Nickname": "Forest",
+              "Description": "Low Visibility (-3 MOD), Saturation Zone (-1 Burst).\nTroopers with Jungle Terrain (or Multiterrain) get a +3 MOD to PH for the Dodge, Engage and Change Facing skill.",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomAssetbundle": {
+                "AssetbundleURL": "https://drive.google.com/uc?export=download&id=1cceq6t9acfdeg6OtfoVGw9ipsJpu0JK8",
+                "AssetbundleSecondaryURL": "",
+                "MaterialIndex": 0,
+                "TypeIndex": 0,
+                "LoopingEffectIndex": 0
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "8be6df",
+              "Name": "Custom_Assetbundle",
+              "Transform": {
+                "posX": -0.8708246,
+                "posY": -6.435447E-07,
+                "posZ": -2.62712479,
+                "rotX": 3.63037452E-06,
+                "rotY": 269.974854,
+                "rotZ": 1.081446E-05,
+                "scaleX": 1.00000012,
+                "scaleY": 1.0,
+                "scaleZ": 1.00000012
+              },
+              "Nickname": "Forest",
+              "Description": "Low Visibility (-3 MOD), Saturation Zone (-1 Burst).\nTroopers with Jungle Terrain (or Multiterrain) get a +3 MOD to PH for the Dodge, Engage and Change Facing skill.",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomAssetbundle": {
+                "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1636486997857273961/B678ACCCF9CEF7A479DEA4C55253C14AD35F4B59/",
+                "AssetbundleSecondaryURL": "",
+                "MaterialIndex": 0,
+                "TypeIndex": 0,
+                "LoopingEffectIndex": 0
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            }
+          ]
+        },
+        {
+          "GUID": "087429",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -1.08767235,
+            "posY": 0.0062847673,
+            "posZ": 3.60526776,
+            "rotX": 4.58458226E-06,
+            "rotY": 210.018585,
+            "rotZ": -2.06537188E-05,
+            "scaleX": 2.14285851,
+            "scaleY": 2.14285755,
+            "scaleZ": 2.14285851
+          },
+          "Nickname": "Forest",
+          "Description": "Low Visibility (-3 MOD), Saturation Zone (-1 Burst).\nTroopers with Jungle Terrain (or Multiterrain) get a +3 MOD to PH for the Dodge, Engage and Change Facing skill.",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "https://drive.google.com/uc?export=download&id=1BpxAwpJAYB4R1WEUnEGPohPHio8JpAL7",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 0,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "99864d",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -0.0277955141,
+            "posY": -0.05141974,
+            "posZ": 3.98676848,
+            "rotX": 9.897587E-06,
+            "rotY": 239.881287,
+            "rotZ": -2.12975665E-05,
+            "scaleX": 1.42857242,
+            "scaleY": 1.4285717,
+            "scaleZ": 1.42857242
+          },
+          "Nickname": "Forest",
+          "Description": "Low Visibility (-3 MOD), Saturation Zone (-1 Burst).\nTroopers with Jungle Terrain (or Multiterrain) get a +3 MOD to PH for the Dodge, Engage and Change Facing skill.",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1636486997857273961/B678ACCCF9CEF7A479DEA4C55253C14AD35F4B59/",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 0,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "b131b3",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 0.5406471,
+            "posY": 2.78177424E-07,
+            "posZ": 0.8488501,
+            "rotX": -3.07387745E-05,
+            "rotY": 45.00857,
+            "rotZ": -1.51860886E-05,
+            "scaleX": 1.00000024,
+            "scaleY": 1.0,
+            "scaleZ": 1.00000024
+          },
+          "Nickname": "Forest",
+          "Description": "Low Visibility (-3 MOD), Saturation Zone (-1 Burst).\nTroopers with Jungle Terrain (or Multiterrain) get a +3 MOD to PH for the Dodge, Engage and Change Facing skill.",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "https://drive.google.com/uc?export=download&id=1cceq6t9acfdeg6OtfoVGw9ipsJpu0JK8",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 0,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "cf4c56",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -1.08312237,
+            "posY": -9.12029748E-07,
+            "posZ": 4.51455832,
+            "rotX": -2.88641531E-05,
+            "rotY": 120.008553,
+            "rotZ": -8.728854E-06,
+            "scaleX": 1.00000012,
+            "scaleY": 1.0,
+            "scaleZ": 1.00000012
+          },
+          "Nickname": "Forest",
+          "Description": "Low Visibility (-3 MOD), Saturation Zone (-1 Burst).\nTroopers with Jungle Terrain (or Multiterrain) get a +3 MOD to PH for the Dodge, Engage and Change Facing skill.",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "https://drive.google.com/uc?export=download&id=1cceq6t9acfdeg6OtfoVGw9ipsJpu0JK8",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 0,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "33ee2a",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -2.1237402,
+            "posY": -0.05142012,
+            "posZ": 2.28273749,
+            "rotX": -1.41925439E-05,
+            "rotY": 150.241867,
+            "rotZ": -1.99677E-05,
+            "scaleX": 1.4285723,
+            "scaleY": 1.4285717,
+            "scaleZ": 1.4285723
+          },
+          "Nickname": "Forest",
+          "Description": "Low Visibility (-3 MOD), Saturation Zone (-1 Burst).\nTroopers with Jungle Terrain (or Multiterrain) get a +3 MOD to PH for the Dodge, Engage and Change Facing skill.",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1636486997857273961/B678ACCCF9CEF7A479DEA4C55253C14AD35F4B59/",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 0,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "d13d84",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.60525131,
+            "posY": 0.00628574332,
+            "posZ": 3.55849266,
+            "rotX": 3.36364974E-06,
+            "rotY": 14.992424,
+            "rotZ": 1.74124434E-05,
+            "scaleX": 2.14285851,
+            "scaleY": 2.14285755,
+            "scaleZ": 2.14285851
+          },
+          "Nickname": "Forest",
+          "Description": "Low Visibility (-3 MOD), Saturation Zone (-1 Burst).\nTroopers with Jungle Terrain (or Multiterrain) get a +3 MOD to PH for the Dodge, Engage and Change Facing skill.",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "https://drive.google.com/uc?export=download&id=1BpxAwpJAYB4R1WEUnEGPohPHio8JpAL7",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 0,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "1926be",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 1.95507884,
+            "posY": 5.74940024E-08,
+            "posZ": 3.94336677,
+            "rotX": -8.59229E-06,
+            "rotY": 0.008575303,
+            "rotZ": 8.058379E-06,
+            "scaleX": 0.9999998,
+            "scaleY": 1.0,
+            "scaleZ": 0.9999998
+          },
+          "Nickname": "Forest",
+          "Description": "Low Visibility (-3 MOD), Saturation Zone (-1 Burst).\nTroopers with Jungle Terrain (or Multiterrain) get a +3 MOD to PH for the Dodge, Engage and Change Facing skill.",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "https://drive.google.com/uc?export=download&id=1cceq6t9acfdeg6OtfoVGw9ipsJpu0JK8",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 0,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "d81a1f",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.45312428,
+            "posY": -0.06863208,
+            "posZ": 3.62102771,
+            "rotX": 356.523,
+            "rotY": 105.00058,
+            "rotZ": 0.442911953,
+            "scaleX": 0.660714447,
+            "scaleY": 0.6607145,
+            "scaleZ": 0.660714447
+          },
+          "Nickname": "Elm",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "https://drive.google.com/uc?export=download&id=14dFF79bfw6OggnP4ojJZjDIKfmIB407M",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 1,
+            "TypeIndex": 1,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "442553",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -2.56254935,
+            "posY": -0.150834143,
+            "posZ": 4.95579672,
+            "rotX": 358.1456,
+            "rotY": 14.9986343,
+            "rotZ": 0.4950057,
+            "scaleX": 0.9285721,
+            "scaleY": 0.9285718,
+            "scaleZ": 0.928571939
+          },
+          "Nickname": "Elm",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "https://drive.google.com/uc?export=download&id=14dFF79bfw6OggnP4ojJZjDIKfmIB407M",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 1,
+            "TypeIndex": 1,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "d2585b",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -2.79075646,
+            "posY": -0.07754563,
+            "posZ": 1.24508083,
+            "rotX": 358.28067,
+            "rotY": 150.14006,
+            "rotZ": 0.4944977,
+            "scaleX": 0.5000005,
+            "scaleY": 0.500000238,
+            "scaleZ": 0.500000536
+          },
+          "Nickname": "Elm",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "https://drive.google.com/uc?export=download&id=14dFF79bfw6OggnP4ojJZjDIKfmIB407M",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 1,
+            "TypeIndex": 1,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      ]
+    }
+  ]
+}

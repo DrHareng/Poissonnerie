@@ -1,0 +1,3666 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "cc22db",
+      "Name": "Custom_Model_Bag",
+      "Transform": {
+        "posX": 11.9280205,
+        "posY": 8.175921,
+        "posZ": -1.07333589,
+        "rotX": 359.53717,
+        "rotY": 0.00328408,
+        "rotZ": 359.745941,
+        "scaleX": 12.0396,
+        "scaleY": 0.31496,
+        "scaleZ": 12.0396013
+      },
+      "Nickname": "Micro Art Studio Mats",
+      "Description": "Micro Art Studio official mats designed for Infinity free for use. \nPlease retain credits information. \n(c)Micro Art Studio, (c)Corvus Belli, (c)Perzan\n\nby [6B7D91]Micro[-] [C20D0D]Art[-] [6B7D91]Studio[-]\n[FF4000]PREPAINTED[-]\n[1E87FF]www.shop.microartstudio.com[-]",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1666858152071990826/9AD455F2CBAEC01B2CBCDDB8B6DC4CE48D14B545/",
+        "DiffuseURL": "",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 0,
+        "TypeIndex": 6,
+        "CastShadows": true
+      },
+      "Bag": {
+        "Order": 0
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ContainedObjects": [
+        {
+          "GUID": "73888d",
+          "Name": "Bag",
+          "Transform": {
+            "posX": 11.1853123,
+            "posY": 1.79698932,
+            "posZ": -0.719602644,
+            "rotX": 0.00728683826,
+            "rotY": -0.000104305764,
+            "rotZ": 0.002643603,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Icestorm mat fragments",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.7058823,
+            "g": 0.366520882,
+            "b": 0.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "MaterialIndex": -1,
+          "MeshIndex": -1,
+          "Bag": {
+            "Order": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "ContainedObjects": [
+            {
+              "GUID": "65fc7a",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": -23.728241,
+                "posY": 3.081536,
+                "posZ": -68.62118,
+                "rotX": 359.789368,
+                "rotY": 240.018188,
+                "rotZ": 0.224883184,
+                "scaleX": 0.247529849,
+                "scaleY": 0.247529849,
+                "scaleZ": 0.2549403
+              },
+              "Nickname": "Icestorm Grate",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958062176122780/0484E88D088DBA7AE405003FA4D363EDA7298DA9/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "27907d",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": -23.9497261,
+                "posY": 3.093057,
+                "posZ": -69.00307,
+                "rotX": -4.810134E-08,
+                "rotY": 240.095,
+                "rotZ": -4.43886172E-08,
+                "scaleX": 0.476481259,
+                "scaleY": 0.476481259,
+                "scaleZ": 0.490745932
+              },
+              "Nickname": "Icestorm Loading Bay 1",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958062176093054/C7FCFEEFA87736FFCAC7A897EDE87C3FD5B44C9E/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "3b8984",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": -24.2961426,
+                "posY": 3.08980536,
+                "posZ": -68.9941,
+                "rotX": 359.986542,
+                "rotY": 59.9774437,
+                "rotZ": 359.837463,
+                "scaleX": 0.476481259,
+                "scaleY": 0.476481259,
+                "scaleZ": 0.490745932
+              },
+              "Nickname": "Icestorm Loading Bay 2",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958062176099514/629214DF363859D6C4182D27E95B9F132544C0F5/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "354ced",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": -24.6984,
+                "posY": 2.975668,
+                "posZ": -69.1152039,
+                "rotX": 1.0550667,
+                "rotY": 240.037415,
+                "rotZ": 1.34920788,
+                "scaleX": 0.6249991,
+                "scaleY": 0.6249991,
+                "scaleZ": 0.643709838
+              },
+              "Nickname": "Icestorm Pavement 1",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958062176120752/6C1E8AF2FE046913B344B1FBD4F22F1B6542F42D/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "aabd3e",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": -23.9273472,
+                "posY": 3.11633039,
+                "posZ": -68.88528,
+                "rotX": 359.941284,
+                "rotY": 240.221939,
+                "rotZ": 357.868134,
+                "scaleX": 0.6249991,
+                "scaleY": 0.6249991,
+                "scaleZ": 0.643709838
+              },
+              "Nickname": "Icestorm Pavement 2",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958062176116918/511E5CF107C88E7C140185BD13B1559531B1E283/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "c6a0fb",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": -23.9045811,
+                "posY": 3.09452629,
+                "posZ": -68.71042,
+                "rotX": 359.992432,
+                "rotY": 240.096283,
+                "rotZ": 0.0115781575,
+                "scaleX": 0.6249991,
+                "scaleY": 0.6249991,
+                "scaleZ": 0.643709838
+              },
+              "Nickname": "Icestorm Pavement 3",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958062176094462/1C0CF7BAE72F2F9ECE21E95A0B0D9380784E3A98/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "132cf2",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": -23.7230759,
+                "posY": 3.0943377,
+                "posZ": -68.3297,
+                "rotX": 359.973,
+                "rotY": 240.0162,
+                "rotZ": 0.0138395345,
+                "scaleX": 0.6249991,
+                "scaleY": 0.6249991,
+                "scaleZ": 0.643709838
+              },
+              "Nickname": "Icestorm Pavement 4",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958062176121875/6E2271F534B48733656D642BA2C3B50CED47D099/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "fdc5ea",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": -24.1782188,
+                "posY": 3.08494234,
+                "posZ": -68.62205,
+                "rotX": 359.919067,
+                "rotY": 240.025177,
+                "rotZ": 0.149926513,
+                "scaleX": 0.6249991,
+                "scaleY": 0.6249991,
+                "scaleZ": 0.643709838
+              },
+              "Nickname": "Icestorm Pavement 5",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958062176118033/DAC9783EC451F199E1E199BBB97B813D336B5831/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "ee268d",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": -23.7418,
+                "posY": 3.11267972,
+                "posZ": -68.67337,
+                "rotX": 1.1218096,
+                "rotY": 239.924622,
+                "rotZ": 0.05607741,
+                "scaleX": 0.6249991,
+                "scaleY": 0.6249991,
+                "scaleZ": 0.643709838
+              },
+              "Nickname": "Icestorm Platform 42",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958062176091149/8E6E4B002967E9A156F687AE5A900BD26706B055/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "77a17b",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": -24.2689285,
+                "posY": 3.078767,
+                "posZ": -69.12735,
+                "rotX": 0.0485858656,
+                "rotY": 240.024063,
+                "rotZ": 1.208177,
+                "scaleX": 0.6249991,
+                "scaleY": 0.6249991,
+                "scaleZ": 0.643709838
+              },
+              "Nickname": "Icestorm Platform 88",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958062176130625/E9B45ED2D49850EAF25F216285A778C8F6B33979/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "a38c8b",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": -24.2331219,
+                "posY": 3.08455276,
+                "posZ": -69.14357,
+                "rotX": 359.16803,
+                "rotY": 239.96463,
+                "rotZ": 0.194745541,
+                "scaleX": 0.6249991,
+                "scaleY": 0.6249991,
+                "scaleZ": 0.643709838
+              },
+              "Nickname": "Icestorm Platform 92",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958062176098536/0D5A902B93B3608DA5F48DCC60CDC7B9DFF32F25/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "40aa83",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": -24.8148441,
+                "posY": 3.06088662,
+                "posZ": -69.18388,
+                "rotX": 0.132302746,
+                "rotY": 240.122787,
+                "rotZ": 1.11613083,
+                "scaleX": 0.6249991,
+                "scaleY": 0.6249991,
+                "scaleZ": 0.643709838
+              },
+              "Nickname": "Icestorm Platform 113",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958062176129461/BBAC730850C964C77C8365633003E0BC35977D6C/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "ba0787",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": -24.7360363,
+                "posY": 2.96038532,
+                "posZ": -69.30689,
+                "rotX": 359.644745,
+                "rotY": 90.02779,
+                "rotZ": 357.859253,
+                "scaleX": 0.6249991,
+                "scaleY": 0.6249991,
+                "scaleZ": 0.643709838
+              },
+              "Nickname": "Icestorm Platform 121",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958062176097294/FC8820FF0547D5E492BC75BB915194C26302055D/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "d9a1b6",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": -24.143343,
+                "posY": 3.08279014,
+                "posZ": -68.84981,
+                "rotX": 1.09509718,
+                "rotY": 165.205811,
+                "rotZ": 0.326558769,
+                "scaleX": 0.6249991,
+                "scaleY": 0.6249991,
+                "scaleZ": 0.643709838
+              },
+              "Nickname": "Icestorm Platform 231",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958062176095830/956DE25B8633C08D14E856327F59ED021E1B1C6E/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "339424",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": -24.4159126,
+                "posY": 3.093917,
+                "posZ": -68.73273,
+                "rotX": 0.0230126418,
+                "rotY": 240.128326,
+                "rotZ": 0.183149979,
+                "scaleX": 0.3,
+                "scaleY": 0.278457254,
+                "scaleZ": 0.25
+              },
+              "Nickname": "Icestorm Small 1",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958062176100621/58AC48067FAC6BFFD6051D50B3FB45378EBCF150/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "7d26da",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": -24.15467,
+                "posY": 3.03494263,
+                "posZ": -69.128006,
+                "rotX": 0.0235660747,
+                "rotY": 239.984192,
+                "rotZ": 1.69876158,
+                "scaleX": 0.3,
+                "scaleY": 0.278457254,
+                "scaleZ": 0.2
+              },
+              "Nickname": "Icestorm Small 2",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958062176105729/8E94BF60E9CCE093203E1300559E968CBBA556DA/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "5d25c9",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": -23.841404,
+                "posY": 2.93276024,
+                "posZ": -68.26986,
+                "rotX": 355.650269,
+                "rotY": 239.90274,
+                "rotZ": 1.74190557,
+                "scaleX": 0.352716237,
+                "scaleY": 0.352716237,
+                "scaleZ": 0.363275737
+              },
+              "Nickname": "Icestorm Small 3",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958062176103668/6668B37BF8DC65EBA05706C59B103E6E997B2261/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "94aae1",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": -24.2689171,
+                "posY": 3.07826757,
+                "posZ": -69.1275253,
+                "rotX": 0.06527444,
+                "rotY": 240.023621,
+                "rotZ": 0.5294336,
+                "scaleX": 0.3527162,
+                "scaleY": 0.3527162,
+                "scaleZ": 0.363275737
+              },
+              "Nickname": "Icestorm Small 4",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958062176104600/7FB16C652170341FA58B97968D3C33C0345E32F9/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "5653f0",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": -24.0856419,
+                "posY": 3.08379316,
+                "posZ": -68.97346,
+                "rotX": 359.9376,
+                "rotY": 240.021378,
+                "rotZ": 0.374268651,
+                "scaleX": 0.352716237,
+                "scaleY": 0.352716237,
+                "scaleZ": 0.363275737
+              },
+              "Nickname": "Icestorm Small 5",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958062176110192/6381262A9C0E0BC422E4D43FD2CBEEB075435906/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "8f86ed",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": -23.9234123,
+                "posY": 3.04076457,
+                "posZ": -68.7022552,
+                "rotX": 359.968,
+                "rotY": 239.9829,
+                "rotZ": 6.489597,
+                "scaleX": 1.2,
+                "scaleY": 0.6249991,
+                "scaleZ": 0.643709838
+              },
+              "Nickname": "Icestorm Structure long",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958062176124002/6E66F6D56E5AEF6FEC5D5D195F4E8CC563D32DF4/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "db5e7e",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": -24.1538258,
+                "posY": 3.0892024,
+                "posZ": -68.46353,
+                "rotX": 359.915771,
+                "rotY": 240.017822,
+                "rotZ": 0.05924951,
+                "scaleX": 0.7,
+                "scaleY": 0.6249991,
+                "scaleZ": 0.643709838
+              },
+              "Nickname": "Icestorm Structure rectangle",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958062176125255/73C5AB69E8AD0F21F78ECBAEAF2333CF9A537968/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "5999ae",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": -24.24342,
+                "posY": 2.99341488,
+                "posZ": -69.0907745,
+                "rotX": 359.976532,
+                "rotY": 240.454315,
+                "rotZ": 7.47584963,
+                "scaleX": 0.4,
+                "scaleY": 0.6249991,
+                "scaleZ": 0.643709838
+              },
+              "Nickname": "Icestorm Structure short",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958062176114221/83E796626C6C3D3BD24642EB0D0304B2FB41EA3F/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "6a5d72",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": -24.1959362,
+                "posY": 2.99567842,
+                "posZ": -69.15993,
+                "rotX": 0.00149965344,
+                "rotY": 240.1817,
+                "rotZ": 6.835376,
+                "scaleX": 0.6249991,
+                "scaleY": 0.6249991,
+                "scaleZ": 0.643709838
+              },
+              "Nickname": "Icestorm Structure square",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958062176135024/13CA4E75970327BD0387F5D9A411B34A902B643E/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "f96f4c",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": -24.599329,
+                "posY": 3.10436773,
+                "posZ": -68.78225,
+                "rotX": 356.489227,
+                "rotY": 239.967377,
+                "rotZ": 0.112564616,
+                "scaleX": 0.6249991,
+                "scaleY": 0.6249991,
+                "scaleZ": 0.643709838
+              },
+              "Nickname": "Icestorm Unility Bays 1",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958062176138459/6D1A6B863EA0947CF4D76DE3F6C1BF12AAC3A0C6/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "53bca6",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": -24.12232,
+                "posY": 3.08986068,
+                "posZ": -68.88098,
+                "rotX": 359.977234,
+                "rotY": 240.010712,
+                "rotZ": 0.1070741,
+                "scaleX": 0.6249991,
+                "scaleY": 0.6249991,
+                "scaleZ": 0.643709838
+              },
+              "Nickname": "Icestorm Unility Bays 2",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774957822760079221/69A5EB62F1E6D17F89390A2BDF2589B1AC15E778/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "86f9ef",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": -24.06057,
+                "posY": 3.07869983,
+                "posZ": -68.91331,
+                "rotX": 356.787628,
+                "rotY": 239.8225,
+                "rotZ": 0.195453569,
+                "scaleX": 0.6249991,
+                "scaleY": 0.6249991,
+                "scaleZ": 0.643709838
+              },
+              "Nickname": "Icestorm Unility Bays 3",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958062176136263/236BF902E3C27DEBED1317F0E0024CDA440B6976/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            }
+          ]
+        },
+        {
+          "GUID": "b905aa",
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": 12.0692425,
+            "posY": 4.63674831,
+            "posZ": -4.926105,
+            "rotX": -0.00283837947,
+            "rotY": 0.0004152604,
+            "rotZ": 0.007709843,
+            "scaleX": 24.0,
+            "scaleY": 1.0,
+            "scaleZ": 24.0
+          },
+          "Nickname": "Daedalus MAS 48x48",
+          "Description": "A gaming mat by Micro Art Studio licensed by Corvus Belli\n\n(c) Micro Art Studio 2020, (c) Corvus Belli 2020",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.249999136,
+            "g": 0.249999136,
+            "b": 0.249999136
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": false,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": false,
+          "Tooltip": false,
+          "GridProjection": true,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1540751497603823068/C0CA6279F3AB6F32DD8A9B5CC3C77B8085886508/",
+            "ImageSecondaryURL": "http://cloud-3.steamusercontent.com/ugc/1764818447610162076/077667514B9647A58E54408941578615A56F05A7/",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 0,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "d8d26a",
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": 16.8825951,
+            "posY": 4.63336372,
+            "posZ": -3.174592,
+            "rotX": -0.0010878779,
+            "rotY": 4.6897323E-05,
+            "rotZ": 0.00282305945,
+            "scaleX": 24.0,
+            "scaleY": 1.0,
+            "scaleZ": 24.0
+          },
+          "Nickname": "Icestorm MAS 48x48",
+          "Description": "A gaming mat by Micro Art Studio licensed by Corvus Belli\n\n(c) Micro Art Studio 2020, (c) Corvus Belli 2020",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.249999046,
+            "g": 0.249999046,
+            "b": 0.249999046
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": false,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": false,
+          "Tooltip": false,
+          "GridProjection": true,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1651092028035986943/C83D48CE928261212FD0D341F02AD4673EECEB25/",
+            "ImageSecondaryURL": "http://cloud-3.steamusercontent.com/ugc/1764818447610162076/077667514B9647A58E54408941578615A56F05A7/",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 0,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "5f31b9",
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": 16.4853821,
+            "posY": 4.633737,
+            "posZ": -2.04278564,
+            "rotX": -0.00140103023,
+            "rotY": 0.000168405153,
+            "rotZ": 0.00355440937,
+            "scaleX": 24.0,
+            "scaleY": 1.0,
+            "scaleZ": 24.0
+          },
+          "Nickname": "Streets MAS 48x48",
+          "Description": "A gaming mat by Micro Art Studio licensed by Corvus Belli\n\n(c) Micro Art Studio 2020, (c) Corvus Belli 2020",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.249999046,
+            "g": 0.249999046,
+            "b": 0.249999046
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": false,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": false,
+          "Tooltip": false,
+          "GridProjection": true,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1651092028035989866/69555DE4A42EB6CAED7B8C345C906866FE5C26F0/",
+            "ImageSecondaryURL": "http://cloud-3.steamusercontent.com/ugc/1764818447610162076/077667514B9647A58E54408941578615A56F05A7/",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 0,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "2beb26",
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": 13.02614,
+            "posY": 4.63475275,
+            "posZ": -3.47260523,
+            "rotX": -0.00104480062,
+            "rotY": 0.000155806338,
+            "rotZ": 0.00273582037,
+            "scaleX": 24.0,
+            "scaleY": 1.0,
+            "scaleZ": 24.0
+          },
+          "Nickname": "Navajo MAS 48x48",
+          "Description": "A gaming mat by Micro Art Studio licensed by Corvus Belli\n\n(c) Micro Art Studio 2020, (c) Corvus Belli 2020",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.249999136,
+            "g": 0.249999136,
+            "b": 0.249999136
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": false,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": false,
+          "Tooltip": false,
+          "GridProjection": true,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1540751497603830085/E810F67D20DFD4CD48787B03D6EE230CB62CA5CF/",
+            "ImageSecondaryURL": "http://cloud-3.steamusercontent.com/ugc/1764818447610162076/077667514B9647A58E54408941578615A56F05A7/",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 0,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "States": {
+            "2": {
+              "GUID": "517b5c",
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": -0.315058351,
+                "posY": 1.20980513,
+                "posZ": -9.415492,
+                "rotX": 0.59637624,
+                "rotY": 359.965576,
+                "rotZ": -2.10616122E-06,
+                "scaleX": 24.0,
+                "scaleY": 1.0,
+                "scaleZ": 24.0
+              },
+              "Nickname": "Setup Helper",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.249998361,
+                "g": 0.249998361,
+                "b": 0.249998361
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": true,
+              "Grid": true,
+              "Snap": false,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": false,
+              "Tooltip": false,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/929303432069059487/CAB7B049289BB0F5AD20F1BB8FC9F6236695AE01/",
+                "ImageSecondaryURL": "http://cloud-3.steamusercontent.com/ugc/929303432069059487/CAB7B049289BB0F5AD20F1BB8FC9F6236695AE01/",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            }
+          }
+        },
+        {
+          "GUID": "b82b3d",
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -26.1568832,
+            "posY": 4.99734926,
+            "posZ": 12.6932478,
+            "rotX": 0.00368751679,
+            "rotY": 0.001148663,
+            "rotZ": 359.9895,
+            "scaleX": 24.0,
+            "scaleY": 1.0,
+            "scaleZ": 24.0
+          },
+          "Nickname": "Warehouse MAS 48x48",
+          "Description": "A gaming mat by Micro Art Studio licensed by Corvus Belli\n\n(c) Micro Art Studio 2020, (c) Corvus Belli 2020",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.249998927,
+            "g": 0.249998927,
+            "b": 0.249998927
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": false,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": false,
+          "Tooltip": false,
+          "GridProjection": true,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1651092028036045959/BCBB0A11A28E6BAF9B4533AFF083B9DF88DB83E5/",
+            "ImageSecondaryURL": "http://cloud-3.steamusercontent.com/ugc/1764818447610162076/077667514B9647A58E54408941578615A56F05A7/",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 0,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "28c99f",
+          "Name": "Custom_Model_Bag",
+          "Transform": {
+            "posX": -24.2930088,
+            "posY": 4.12656546,
+            "posZ": 12.2290592,
+            "rotX": -7.516005E-05,
+            "rotY": 180.000015,
+            "rotZ": 0.242309734,
+            "scaleX": 7.114314,
+            "scaleY": 0.186112881,
+            "scaleZ": 7.114315
+          },
+          "Nickname": "Terminus Segments mat",
+          "Description": "Micro Art Studio official mats designed for Infinity free for use. \nPlease retain credits information. \n(c)Micro Art Studio, (c)Corvus Belli, (c)Perzan\n\nby [6B7D91]Micro[-] [C20D0D]Art[-] [6B7D91]Studio[-]\n[FF4000]PREPAINTED[-]\n[1E87FF]www.shop.microartstudio.com[-]",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 0.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "MaterialIndex": -1,
+          "MeshIndex": -1,
+          "CustomMesh": {
+            "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1666858152071990826/9AD455F2CBAEC01B2CBCDDB8B6DC4CE48D14B545/",
+            "DiffuseURL": "",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 6,
+            "CastShadows": true
+          },
+          "Bag": {
+            "Order": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "ContainedObjects": [
+            {
+              "GUID": "a83c8a",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": 72.9511261,
+                "posY": 3.42837787,
+                "posZ": -13.2004557,
+                "rotX": 13.714819,
+                "rotY": 359.960632,
+                "rotZ": 359.701843,
+                "scaleX": 0.79,
+                "scaleY": 0.62,
+                "scaleZ": 0.79
+              },
+              "Nickname": "",
+              "Description": "X30006-Blank-06",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": false,
+              "Snap": false,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958469322151229/E537EA1F07400C5E9F6F80202DE4555E2C662CC4/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "899a95",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": 63.79354,
+                "posY": 3.459213,
+                "posZ": -13.7337646,
+                "rotX": 13.7129955,
+                "rotY": 359.836456,
+                "rotZ": 359.371979,
+                "scaleX": 0.79,
+                "scaleY": 0.62,
+                "scaleZ": 0.79
+              },
+              "Nickname": "",
+              "Description": "X30011-Corner-02",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": false,
+              "Snap": false,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958469322172072/51A2BA6ABF675D2B749881F5D423E60F48B46E19/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "bca3fd",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": 58.56138,
+                "posY": 3.70375943,
+                "posZ": -10.52445,
+                "rotX": 16.6493263,
+                "rotY": 359.96048,
+                "rotZ": 359.980225,
+                "scaleX": 0.79,
+                "scaleY": 0.62,
+                "scaleZ": 0.79
+              },
+              "Nickname": "",
+              "Description": "X30015-Diagonal-02",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": false,
+              "Snap": false,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958469322180499/D7188922E9723E2E9779D23FC49CDE276BE0FCBA/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "f4c402",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": 42.88146,
+                "posY": 3.77278566,
+                "posZ": -14.0480261,
+                "rotX": 16.6481762,
+                "rotY": -0.005569211,
+                "rotZ": -0.00171859993,
+                "scaleX": 0.79,
+                "scaleY": 0.62,
+                "scaleZ": 0.79
+              },
+              "Nickname": "",
+              "Description": "X30002-Blank-02",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958469322145565/742E2028D243E4E119F90F2AA14C2EE920C35733/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "1e671e",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": 47.05993,
+                "posY": 4.251957,
+                "posZ": -16.3230038,
+                "rotX": 16.6540546,
+                "rotY": 359.9653,
+                "rotZ": 359.9748,
+                "scaleX": 0.79,
+                "scaleY": 0.62,
+                "scaleZ": 0.79
+              },
+              "Nickname": "",
+              "Description": "X30008-Blank-08",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": false,
+              "Snap": false,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958469322164917/8394885CE63D2D6EC33013FBCFC91C419B51B5E1/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "02ba49",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": 58.84562,
+                "posY": 2.12682581,
+                "posZ": -8.333454,
+                "rotX": 359.9235,
+                "rotY": 0.00181146071,
+                "rotZ": -6.02928449E-05,
+                "scaleX": 0.79,
+                "scaleY": 0.62,
+                "scaleZ": 0.79
+              },
+              "Nickname": "",
+              "Description": "X30016-Diagonal-04",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": false,
+              "Snap": false,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958469322197770/2F18A910AE68B7DA298E5F8EAF334E58C2C45683/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "89dca5",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": 53.1600571,
+                "posY": 3.85328412,
+                "posZ": -7.027816,
+                "rotX": 16.68364,
+                "rotY": 0.008106813,
+                "rotZ": 359.993347,
+                "scaleX": 0.79,
+                "scaleY": 0.62,
+                "scaleZ": 0.79
+              },
+              "Nickname": "",
+              "Description": "X30001-Blank-01",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958469322144241/B8835C7A867EB7FA6B1B15E6E8FB525B33511B0C/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "304bb0",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": 50.5548,
+                "posY": 3.78036761,
+                "posZ": -5.97370434,
+                "rotX": 16.7074852,
+                "rotY": 0.010751754,
+                "rotZ": 359.981323,
+                "scaleX": 0.79,
+                "scaleY": 0.62,
+                "scaleZ": 0.79
+              },
+              "Nickname": "",
+              "Description": "X30012-Corner-03",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": false,
+              "Snap": false,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958469322173235/5FECDCBB3071CD54573B24483247C474481704EC/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "6bed02",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": 47.27708,
+                "posY": 3.73596048,
+                "posZ": -5.12249374,
+                "rotX": 16.7343025,
+                "rotY": 359.9533,
+                "rotZ": 359.9279,
+                "scaleX": 0.79,
+                "scaleY": 0.62,
+                "scaleZ": 0.79
+              },
+              "Nickname": "",
+              "Description": "X30016-Diagonal-03",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": false,
+              "Snap": false,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958469322182160/CF1ADCD92769D03AAADC2355643B09069D591FAB/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "e3311f",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": 48.83566,
+                "posY": 5.41274929,
+                "posZ": -5.493969,
+                "rotX": 16.72508,
+                "rotY": 0.116798744,
+                "rotZ": 0.4979564,
+                "scaleX": 0.79,
+                "scaleY": 0.62,
+                "scaleZ": 0.79
+              },
+              "Nickname": "",
+              "Description": "X30009-Blank-09",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": false,
+              "Snap": false,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958469322168109/C76BB048F6C52B7B1F5B924B26DDE8E3EFCDAF98/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "dd2e22",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": 51.266468,
+                "posY": 3.70579863,
+                "posZ": -0.9249124,
+                "rotX": 16.7391586,
+                "rotY": 0.0156349912,
+                "rotZ": -0.00300147571,
+                "scaleX": 0.79,
+                "scaleY": 0.62,
+                "scaleZ": 0.79
+              },
+              "Nickname": "",
+              "Description": "X30021-YJunction-02",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": false,
+              "Snap": false,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958469322204971/0803725860FA1A792C3AFAD12D96FBCED7320A8A/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "81f57a",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": 40.98259,
+                "posY": 6.93698549,
+                "posZ": 0.0443656147,
+                "rotX": 16.38272,
+                "rotY": 0.1266318,
+                "rotZ": 0.52921474,
+                "scaleX": 0.79,
+                "scaleY": 0.62,
+                "scaleZ": 0.79
+              },
+              "Nickname": "",
+              "Description": "X30003-Blank-03",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": false,
+              "Snap": false,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958469322146599/E7CAB909273FC53BD8D81E5DC1333FC47F1DD534/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "983915",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": 45.2998924,
+                "posY": 5.85200357,
+                "posZ": -0.372043878,
+                "rotX": 13.5908051,
+                "rotY": 0.03976107,
+                "rotZ": 0.211571485,
+                "scaleX": 0.79,
+                "scaleY": 0.62,
+                "scaleZ": 0.79
+              },
+              "Nickname": "",
+              "Description": "X30004-Blank-05",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": false,
+              "Snap": false,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958469322149146/B9F58989B299C91A5A7227C849D4F4CE28CBC5CE/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "67939e",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": 49.549736,
+                "posY": 3.828478,
+                "posZ": 4.31995058,
+                "rotX": 15.7753,
+                "rotY": 0.00689924834,
+                "rotZ": -0.00212975359,
+                "scaleX": 0.79,
+                "scaleY": 0.62,
+                "scaleZ": 0.79
+              },
+              "Nickname": "",
+              "Description": "X30007-Blank-07",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": false,
+              "Snap": false,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958469322163168/27147FFBD78F586BE77CA6DFEF30309544F216DD/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "3f3dee",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": 44.37829,
+                "posY": 8.705176,
+                "posZ": -8.176328,
+                "rotX": 13.5415268,
+                "rotY": 0.0474826135,
+                "rotZ": 0.2698112,
+                "scaleX": 0.79,
+                "scaleY": 0.62,
+                "scaleZ": 0.79
+              },
+              "Nickname": "",
+              "Description": "X30018-Straight-01",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": false,
+              "Snap": false,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958469322199950/8EBB816A6BB72ABC048D9D6894A39C48420FC472/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "1fbbc5",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": 48.36878,
+                "posY": 4.42112446,
+                "posZ": 6.46154451,
+                "rotX": 16.61872,
+                "rotY": 357.911041,
+                "rotZ": 352.792542,
+                "scaleX": 0.79,
+                "scaleY": 0.62,
+                "scaleZ": 0.79
+              },
+              "Nickname": "X30004-Blank-04",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": false,
+              "Snap": false,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958469322148097/4507B2D9669F38C7F6C80E0ED1B1609F84247E47/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "bd0992",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": 43.4630127,
+                "posY": 6.18075,
+                "posZ": 4.01924324,
+                "rotX": 15.8055058,
+                "rotY": 357.5651,
+                "rotZ": 351.1355,
+                "scaleX": 0.79,
+                "scaleY": 0.62,
+                "scaleZ": 0.79
+              },
+              "Nickname": "",
+              "Description": "X30014-Diagonal-01",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": false,
+              "Snap": false,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958469322177391/6C95127CBF44466EE8996D7A0E61B8216DC9FCB6/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "5bb31d",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": 45.7429466,
+                "posY": 4.64766169,
+                "posZ": 6.47017956,
+                "rotX": 17.11051,
+                "rotY": 357.39917,
+                "rotZ": 351.258057,
+                "scaleX": 0.79,
+                "scaleY": 0.62,
+                "scaleZ": 0.79
+              },
+              "Nickname": "",
+              "Description": "X30013-Corner-04",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": false,
+              "Snap": false,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958469322175744/C7657FE9BD43890B0A7B23C6670A6A3CCDCC1EBB/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "4b2fa0",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": 45.9384842,
+                "posY": 5.000634,
+                "posZ": 10.31054,
+                "rotX": 19.4987164,
+                "rotY": 341.49,
+                "rotZ": 349.6352,
+                "scaleX": 0.79,
+                "scaleY": 0.62,
+                "scaleZ": 0.79
+              },
+              "Nickname": "",
+              "Description": "X30019-Straight-02",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": false,
+              "Snap": false,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958469322201678/0193C7AC49111E51596CE1DC732EFF4F083429C1/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "262c62",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": 40.9370079,
+                "posY": 1.97076392,
+                "posZ": 7.08455133,
+                "rotX": 0.0,
+                "rotY": 0.0,
+                "rotZ": 0.0,
+                "scaleX": 0.79,
+                "scaleY": 0.62,
+                "scaleZ": 0.79
+              },
+              "Nickname": "",
+              "Description": "X30020-YJunction-01",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": false,
+              "Snap": false,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958469322203490/CFD1A4758246E9E886279B93145683C548962E75/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            }
+          ],
+          "ChildObjects": [
+            {
+              "GUID": "354ced",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": -4.77014964E-07,
+                "posY": 0.09305624,
+                "posZ": -5.800306E-11,
+                "rotX": -2.39240454E-15,
+                "rotY": -7.86655733E-07,
+                "rotZ": 1.64235366E-23,
+                "scaleX": 0.06561677,
+                "scaleY": 1.96850324,
+                "scaleZ": 0.06561676
+              },
+              "Nickname": "X30001-Blank-01",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921618,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": true,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958469322144241/B8835C7A867EB7FA6B1B15E6E8FB525B33511B0C/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 4,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 7.0,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            }
+          ]
+        }
+      ],
+      "ChildObjects": [
+        {
+          "GUID": "531926",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -2.38809065E-07,
+            "posY": 0.157479942,
+            "posZ": 7.128543E-07,
+            "rotX": 0.0,
+            "rotY": 0.0,
+            "rotZ": 8.488727E-15,
+            "scaleX": 0.0656168,
+            "scaleY": 1.96850383,
+            "scaleZ": 0.0656167939
+          },
+          "Nickname": "X30021-YJunction-02",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.9999998,
+            "g": 0.9921618,
+            "b": 0.9999998
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": false,
+          "Snap": false,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": true,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1753581743896425513/BE06F19C326EAFF247136F6B74AFE53430C6AE74/",
+            "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1774958469322204971/0803725860FA1A792C3AFAD12D96FBCED7320A8A/",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 4,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "SpecularIntensity": 0.0,
+              "SpecularSharpness": 7.0,
+              "FresnelStrength": 0.4
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "cfbf6a",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -1.86376238,
+        "posY": 5.8633523,
+        "posZ": 6.201384,
+        "rotX": 359.949341,
+        "rotY": 89.9999542,
+        "rotZ": 0.0108741857,
+        "scaleX": 1.2,
+        "scaleY": 1.75000024,
+        "scaleZ": 0.2
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=bCi5rSAn",
+        "DiffuseURL": "https://bw-1651cf0d2f737d7adeab84d339dbabd3-bcs.s3.amazonaws.com/products/product_88817/product_image_full_165465.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "AttachedDecals": [
+        {
+          "Transform": {
+            "posX": -0.0123628555,
+            "posY": 0.113352112,
+            "posZ": 1.050001,
+            "rotX": -3.5051162E-10,
+            "rotY": 180.0,
+            "rotZ": 0.1925379,
+            "scaleX": 1.90608776,
+            "scaleY": 1.71429455,
+            "scaleZ": 14.999999
+          },
+          "CustomDecal": {
+            "Name": "a poster",
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1000269372901902971/459EB12029CB905AD14903D93497B864427105C9/",
+            "Size": 3.0
+          }
+        },
+        {
+          "Transform": {
+            "posX": -0.008193457,
+            "posY": 0.124580853,
+            "posZ": -1.05000246,
+            "rotX": 1.78439219E-09,
+            "rotY": -3.968724E-06,
+            "rotZ": 359.787231,
+            "scaleX": 1.9060868,
+            "scaleY": 1.71429646,
+            "scaleZ": 15.0000067
+          },
+          "CustomDecal": {
+            "Name": "b poster",
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1000269372901902153/00DDD10B11252A34A19138CAC03CA1C7CAAAA5CC/",
+            "Size": 3.0
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "9da80c",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -11.086401,
+        "posY": 4.15068865,
+        "posZ": -18.21791,
+        "rotX": 1.19423487E-06,
+        "rotY": 225.010452,
+        "rotZ": 6.0397133E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "ROOF UNSTABLE (cannot stand on roof)",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": true,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/966480765117280301/5F0F43310339CDAF404670B5ECEB85D11FC144B6/",
+        "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/966480765117280490/8447EB7988EAC8A49026483D1A827F583CDD65C3/",
+        "NormalURL": "",
+        "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/966480765118137348/D72837CFC7753DF14B9947295DD1E8BF2E64C6D5/",
+        "Convex": false,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "States": {
+        "1": {
+          "GUID": "e2535f",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -11.086401,
+            "posY": 4.15068865,
+            "posZ": -18.21791,
+            "rotX": 1.19423487E-06,
+            "rotY": 225.010452,
+            "rotZ": 6.0397133E-06,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Building [Heavy Cover]",
+          "Description": "Heavy Cover:\nMini size 7 and below\n\nSides:\nTrooper: Impassable\nGround Vehicle: Impassable\nRepulsor: Impassable\n\nMinis with size > 7 treat this as difficult terrain\n\nRoof:\nAll - Difficult\n\nBalcony:\nAll - Open\n\nHeight: 2\nBalcony Height: 1\n\nMinis can clamber up the ladder without rolling for falling damage\n\nRight-Click and switch states to access different levels\n\nSpecial Thanks: corvusgamesterrain.c",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.896014869,
+            "g": 0.896014869,
+            "b": 0.896014869
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/966480765117280301/5F0F43310339CDAF404670B5ECEB85D11FC144B6/",
+            "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/966480765117280490/8447EB7988EAC8A49026483D1A827F583CDD65C3/",
+            "NormalURL": "",
+            "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/966480765118137486/3461C5AEF3892783DAC1B1E0B557B45F342C5FBD/",
+            "Convex": false,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      }
+    }
+  ]
+}

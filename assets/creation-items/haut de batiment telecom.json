@@ -1,0 +1,75 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "2ea824",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 15.89781,
+        "posY": 12.1831884,
+        "posZ": 18.1124573,
+        "rotX": 0.0459977351,
+        "rotY": 0.236062363,
+        "rotZ": 357.262756,
+        "scaleX": 0.8,
+        "scaleY": 0.8,
+        "scaleZ": 0.8
+      },
+      "Nickname": "[972322]Inaccessible[-]",
+      "Description": "Cannot deploy or move onto the communications array.",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "https://www.dropbox.com/s/ynsehe9zs3t814s/comunication%20arrayobj.obj?dl=1",
+        "DiffuseURL": "https://www.dropbox.com/s/yamk7145ewdaglu/communication%20array%20texture.jpg?dl=1",
+        "NormalURL": "",
+        "ColliderURL": "https://www.dropbox.com/s/ynsehe9zs3t814s/comunication%20arrayobj.obj?dl=1",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": ""
+    }
+  ]
+}

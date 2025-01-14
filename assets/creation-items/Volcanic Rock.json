@@ -1,0 +1,77 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "ae1cc9",
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": 0.0,
+        "posY": 1.0,
+        "posZ": 0.0,
+        "rotX": 1.90833287E-14,
+        "rotY": -4.2026797E-05,
+        "rotZ": 0.244998485,
+        "scaleX": 23.85307,
+        "scaleY": 1.0,
+        "scaleZ": 23.85307
+      },
+      "Nickname": "Volcanic Rock",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.2491273,
+        "g": 0.112410255,
+        "b": 0.112410255
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": false,
+      "Snap": false,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": false,
+      "Tooltip": false,
+      "GridProjection": true,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "http://cloud-3.steamusercontent.com/ugc/951851201220126154/A6222F5020CE5BA191D35C7220A54F7C1DBEF0A7/",
+        "ImageSecondaryURL": "http://cloud-3.steamusercontent.com/ugc/951851201220126154/A6222F5020CE5BA191D35C7220A54F7C1DBEF0A7/",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 0,
+          "Thickness": 0.1,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": ""
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "2dc1c0",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -5.97422,
+        "posY": 0.265657336,
+        "posZ": -10.4415216,
+        "rotX": 358.81546,
+        "rotY": 10.805069,
+        "rotZ": 358.961639,
+        "scaleX": 1.87055838,
+        "scaleY": 1.54999959,
+        "scaleZ": 1.70946229
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": true,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "https://gist.githubusercontent.com/nashjaee/e68a83bba01cae9ca7e2c2c023691c91/raw/257e93a80b6c5a838b3638395c29adf3f36526a6/ice_crystal_model.txt",
+        "DiffuseURL": "https://i.imgur.com/vqYCg4N.jpg",
+        "NormalURL": "",
+        "ColliderURL": "https://gist.githubusercontent.com/nashjaee/143c20bd7dba8474b76ba27f79db14a9/raw/776112d3a03b2212665baaf98028cafef004fd12/ice_crystal_collider.txt",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": ""
+    }
+  ]
+}

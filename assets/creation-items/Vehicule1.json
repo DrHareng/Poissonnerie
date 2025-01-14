@@ -1,0 +1,75 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "be45cf",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 5.82093573,
+        "posY": -4.845684,
+        "posZ": 3.08402,
+        "rotX": 5.852557,
+        "rotY": 211.426163,
+        "rotZ": 340.0906,
+        "scaleX": 5.0,
+        "scaleY": 5.0,
+        "scaleZ": 5.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": false,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/916924328400251615/34B0874BE4C4FB59561013ADFE987624193CE1ED/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/916922973120874384/F0E546E6922B3C29EE9243A77FB66E33B47FDA13/",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "LuaScript": "position = {x = 45.5424842834473, y = -0.208036541938782, z = 2.25067710876465}\nrotation = {x = 0.00160648708697408, y = 179.996490478516, z = -1.33017897496757E-06}\n\n",
+      "LuaScriptState": "",
+      "XmlUI": ""
+    }
+  ]
+}
