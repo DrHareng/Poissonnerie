@@ -1,0 +1,85 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "4f850d",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 15.1794806,
+        "posY": 3.828165,
+        "posZ": -12.66423,
+        "rotX": 359.2886,
+        "rotY": 314.973846,
+        "rotZ": 0.15696162,
+        "scaleX": 0.775000155,
+        "scaleY": 0.775000155,
+        "scaleZ": 0.775000155
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.929411769,
+        "g": 0.796078444,
+        "b": 0.517647
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "https://www.dropbox.com/s/xjf17t02k2bjcfd/Flat_Hill_Mound.obj?dl=1",
+        "DiffuseURL": "https://c2.staticflickr.com/6/5122/5342725359_ccb47d0217_b.jpg",
+        "NormalURL": "",
+        "ColliderURL": "https://www.dropbox.com/s/xjf17t02k2bjcfd/Flat_Hill_Mound.obj?dl=1",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": ""
+    }
+  ]
+}

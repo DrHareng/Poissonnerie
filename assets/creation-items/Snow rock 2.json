@@ -1,0 +1,75 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "a034be",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -8.0,
+        "posY": 1.40149856,
+        "posZ": -6.5,
+        "rotX": 3.41509462E-06,
+        "rotY": 230.000015,
+        "rotZ": 24.9999981,
+        "scaleX": 0.450000465,
+        "scaleY": 0.450000465,
+        "scaleZ": 0.450000465
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/985611310391750083/57420BE7FD77A92E3EB8AE629E38DF1594AA3555/",
+        "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/985611310391666404/6FBF4EFE1C303F006A85838CE5D7BB4131261AB5/",
+        "NormalURL": "https://steamusercontent-a.akamaihd.net/ugc/985611310391806316/B13BE6D0993B30CFF4F767A5CC6866AB9611E159/",
+        "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/985611310391750083/57420BE7FD77A92E3EB8AE629E38DF1594AA3555/",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "LuaScript": "\nBCBtype = \"terrain\"\n",
+      "LuaScriptState": "",
+      "XmlUI": ""
+    }
+  ]
+}

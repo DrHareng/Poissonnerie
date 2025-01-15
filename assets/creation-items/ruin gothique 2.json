@@ -1,0 +1,922 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "8ee5f4",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -2.51885366,
+        "posY": 1.940749,
+        "posZ": 18.6662464,
+        "rotX": 1.20316958,
+        "rotY": 180.0,
+        "rotZ": 1.74969062E-13,
+        "scaleX": 0.719673336,
+        "scaleY": 1.18058,
+        "scaleZ": 0.9948732
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.9921741,
+        "b": 0.9999998
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/1007060051799301645/729955FEA2CDE61A085E48DD9FDBBB1C698CD13A/",
+        "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1007059909072376780/9BD5DC53CBA89288DF395E691399CC35B55E36D0/",
+        "NormalURL": "",
+        "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/1007060051799845262/71F66997DF173177F2B4CDBD1B506E1C112210D2/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 1,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "LuaScript": "\nBCBtype = \"terrain\"\n",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ChildObjects": [
+        {
+          "GUID": "32c5f9",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 4.184181,
+            "posY": 2.09991264,
+            "posZ": -1.05105865,
+            "rotX": 0.000142582547,
+            "rotY": 270.509064,
+            "rotZ": -2.10629132E-05,
+            "scaleX": 1.7994554,
+            "scaleY": 1.63940179,
+            "scaleZ": 1.25
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.9999998,
+            "g": 0.992160261,
+            "b": 0.9999998
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "http://pastebin.com/raw/7aqEErsT",
+            "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/263850294728430037/43DE24A4DD97C0D975580EA7CC0F48B2151666D5/",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 0,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 0.8745098,
+                "g": 0.8117647,
+                "b": 0.745098054
+              },
+              "SpecularIntensity": 0.0,
+              "SpecularSharpness": 3.0,
+              "FresnelStrength": 0.1
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "\nBCBtype = \"terrain\"\n",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "ChildObjects": [
+            {
+              "GUID": "42ccc9",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": -0.547338665,
+                "posY": -1.28089559,
+                "posZ": 3.344935,
+                "rotX": 2.31974973E-05,
+                "rotY": 269.492,
+                "rotZ": 0.000142069825,
+                "scaleX": 0.7999806,
+                "scaleY": 0.609978557,
+                "scaleZ": 0.5557428
+              },
+              "Nickname": "01 Ruin E",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921741,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/1007060051799302602/FEE0BA588915462811097C05EEDAF41FA00EFE4E/",
+                "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1007059909072376780/9BD5DC53CBA89288DF395E691399CC35B55E36D0/",
+                "NormalURL": "",
+                "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/1007060051799845262/71F66997DF173177F2B4CDBD1B506E1C112210D2/",
+                "Convex": true,
+                "MaterialIndex": 3,
+                "TypeIndex": 1,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 2.0,
+                  "FresnelStrength": 0.0
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "ChildObjects": [
+                {
+                  "GUID": "87ef03",
+                  "Name": "Custom_Model",
+                  "Transform": {
+                    "posX": 6.801363,
+                    "posY": 2.9886084E-07,
+                    "posZ": -0.195084736,
+                    "rotX": -5.01884934E-08,
+                    "rotY": -0.00184329727,
+                    "rotZ": 6.019814E-08,
+                    "scaleX": 1.0,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.0
+                  },
+                  "Nickname": "01 Ruin E Mirror",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.9999998,
+                    "g": 0.9921741,
+                    "b": 0.9999998
+                  },
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": true,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": false,
+                  "Hands": false,
+                  "CustomMesh": {
+                    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/1007060051799301645/729955FEA2CDE61A085E48DD9FDBBB1C698CD13A/",
+                    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1007059909072376780/9BD5DC53CBA89288DF395E691399CC35B55E36D0/",
+                    "NormalURL": "",
+                    "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/1007060051799845262/71F66997DF173177F2B4CDBD1B506E1C112210D2/",
+                    "Convex": true,
+                    "MaterialIndex": 3,
+                    "TypeIndex": 1,
+                    "CustomShader": {
+                      "SpecularColor": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0
+                      },
+                      "SpecularIntensity": 0.0,
+                      "SpecularSharpness": 2.0,
+                      "FresnelStrength": 0.0
+                    },
+                    "CastShadows": true
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": "",
+                  "ChildObjects": [
+                    {
+                      "GUID": "bb667c",
+                      "Name": "Custom_Model",
+                      "Transform": {
+                        "posX": 0.008596977,
+                        "posY": -5.0879077E-08,
+                        "posZ": -1.810509,
+                        "rotX": -9.28806855E-07,
+                        "rotY": 179.98616,
+                        "rotZ": 4.972949E-07,
+                        "scaleX": 1.00000012,
+                        "scaleY": 1.0,
+                        "scaleZ": 1.00000012
+                      },
+                      "Nickname": "01 Ruin E",
+                      "Description": "",
+                      "GMNotes": "",
+                      "AltLookAngle": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                      },
+                      "ColorDiffuse": {
+                        "r": 0.9999998,
+                        "g": 0.9921741,
+                        "b": 0.9999998
+                      },
+                      "LayoutGroupSortIndex": 0,
+                      "Value": 0,
+                      "Locked": true,
+                      "Grid": true,
+                      "Snap": true,
+                      "IgnoreFoW": false,
+                      "MeasureMovement": false,
+                      "DragSelectable": true,
+                      "Autoraise": true,
+                      "Sticky": true,
+                      "Tooltip": true,
+                      "GridProjection": false,
+                      "HideWhenFaceDown": false,
+                      "Hands": false,
+                      "CustomMesh": {
+                        "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/1007060051799302602/FEE0BA588915462811097C05EEDAF41FA00EFE4E/",
+                        "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1007059909072376780/9BD5DC53CBA89288DF395E691399CC35B55E36D0/",
+                        "NormalURL": "",
+                        "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/1007060051799845262/71F66997DF173177F2B4CDBD1B506E1C112210D2/",
+                        "Convex": true,
+                        "MaterialIndex": 3,
+                        "TypeIndex": 1,
+                        "CustomShader": {
+                          "SpecularColor": {
+                            "r": 1.0,
+                            "g": 1.0,
+                            "b": 1.0
+                          },
+                          "SpecularIntensity": 0.0,
+                          "SpecularSharpness": 2.0,
+                          "FresnelStrength": 0.0
+                        },
+                        "CastShadows": true
+                      },
+                      "LuaScript": "",
+                      "LuaScriptState": "",
+                      "XmlUI": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "GUID": "f4d55b",
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": 1.4274981,
+            "posY": 3.21709061,
+            "posZ": -1.120547,
+            "rotX": -2.69344437E-05,
+            "rotY": 359.968658,
+            "rotZ": 0.000241967529,
+            "scaleX": 2.74881935,
+            "scaleY": 1.187842,
+            "scaleZ": 2.16120529
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "https://i.pinimg.com/564x/9e/9c/24/9e9c2427b27f7ae83d451b3b9f3d60d9.jpg",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 0,
+              "Thickness": 0.2,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "ChildObjects": [
+            {
+              "GUID": "4665e6",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": 0.615127,
+                "posY": 0.176498,
+                "posZ": -0.3232323,
+                "rotX": -0.00103162543,
+                "rotY": 90.02934,
+                "rotZ": 358.925964,
+                "scaleX": 0.462911278,
+                "scaleY": 0.888074636,
+                "scaleZ": 0.3599142
+              },
+              "Nickname": "01 Ruin D Fill Mirror",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921741,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/1007060051799309759/C70EEFADED05E2B67AAA3599C3B593C6C1394500/",
+                "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1007059909072425067/1EF9732F9EDD0863C47F52D006F14851D7300EE9/",
+                "NormalURL": "",
+                "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/1007060051799474851/7164D0DD5EA74C115A7747E3B2A1A7E7E3E1AFDB/",
+                "Convex": true,
+                "MaterialIndex": 3,
+                "TypeIndex": 1,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 2.0,
+                  "FresnelStrength": 0.0
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "ChildObjects": [
+                {
+                  "GUID": "076b25",
+                  "Name": "Custom_Tile",
+                  "Transform": {
+                    "posX": -0.6890054,
+                    "posY": -0.211561725,
+                    "posZ": -5.45812273,
+                    "rotX": 1.07403624,
+                    "rotY": 269.970673,
+                    "rotZ": -0.00158178667,
+                    "scaleX": 2.77844429,
+                    "scaleY": 1.12578273,
+                    "scaleZ": 2.16118479
+                  },
+                  "Nickname": "",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": true,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": false,
+                  "Hands": false,
+                  "CustomImage": {
+                    "ImageURL": "https://i.pinimg.com/564x/9e/9c/24/9e9c2427b27f7ae83d451b3b9f3d60d9.jpg",
+                    "ImageSecondaryURL": "",
+                    "ImageScalar": 1.0,
+                    "WidthScale": 0.0,
+                    "CustomTile": {
+                      "Type": 0,
+                      "Thickness": 0.2,
+                      "Stackable": false,
+                      "Stretch": true
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": "",
+                  "ChildObjects": [
+                    {
+                      "GUID": "c415d0",
+                      "Name": "Custom_Tile",
+                      "Transform": {
+                        "posX": -1.9882344,
+                        "posY": -0.0134536326,
+                        "posZ": -0.00301293982,
+                        "rotX": 0.0,
+                        "rotY": 0.0,
+                        "rotZ": -3.12661258E-10,
+                        "scaleX": 1.00000083,
+                        "scaleY": 1.0,
+                        "scaleZ": 1.00000072
+                      },
+                      "Nickname": "",
+                      "Description": "",
+                      "GMNotes": "",
+                      "AltLookAngle": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                      },
+                      "ColorDiffuse": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0
+                      },
+                      "LayoutGroupSortIndex": 0,
+                      "Value": 0,
+                      "Locked": true,
+                      "Grid": true,
+                      "Snap": true,
+                      "IgnoreFoW": false,
+                      "MeasureMovement": false,
+                      "DragSelectable": true,
+                      "Autoraise": true,
+                      "Sticky": true,
+                      "Tooltip": true,
+                      "GridProjection": false,
+                      "HideWhenFaceDown": false,
+                      "Hands": false,
+                      "CustomImage": {
+                        "ImageURL": "https://i.pinimg.com/564x/9e/9c/24/9e9c2427b27f7ae83d451b3b9f3d60d9.jpg",
+                        "ImageSecondaryURL": "",
+                        "ImageScalar": 1.0,
+                        "WidthScale": 0.0,
+                        "CustomTile": {
+                          "Type": 0,
+                          "Thickness": 0.2,
+                          "Stackable": false,
+                          "Stretch": true
+                        }
+                      },
+                      "LuaScript": "",
+                      "LuaScriptState": "",
+                      "XmlUI": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "GUID": "c1f132",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": -3.86318779,
+                "posY": 0.165760443,
+                "posZ": 0.7284572,
+                "rotX": 358.774658,
+                "rotY": 0.0197252389,
+                "rotZ": -0.00260531576,
+                "scaleX": 0.359914571,
+                "scaleY": 0.84171,
+                "scaleZ": 0.46290037
+              },
+              "Nickname": "01 Ruin D Fill",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921741,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/1007060051799310463/1D2AEB8F500951CF0CA1006DFCA5031137320320/",
+                "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1007059909072425067/1EF9732F9EDD0863C47F52D006F14851D7300EE9/",
+                "NormalURL": "",
+                "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/1007060051799474851/7164D0DD5EA74C115A7747E3B2A1A7E7E3E1AFDB/",
+                "Convex": true,
+                "MaterialIndex": 3,
+                "TypeIndex": 1,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 2.0,
+                  "FresnelStrength": 0.0
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "ChildObjects": [
+                {
+                  "GUID": "b1f502",
+                  "Name": "Custom_Model",
+                  "Transform": {
+                    "posX": -0.7430425,
+                    "posY": 0.04877235,
+                    "posZ": -2.082624,
+                    "rotX": 359.949554,
+                    "rotY": 270.008423,
+                    "rotZ": 0.132569775,
+                    "scaleX": 1.00000083,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.0000006
+                  },
+                  "Nickname": "01 Ruin D Fill",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.9999998,
+                    "g": 0.9921741,
+                    "b": 0.9999998
+                  },
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": true,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": false,
+                  "Hands": false,
+                  "CustomMesh": {
+                    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/1007060051799310463/1D2AEB8F500951CF0CA1006DFCA5031137320320/",
+                    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1007059909072425067/1EF9732F9EDD0863C47F52D006F14851D7300EE9/",
+                    "NormalURL": "",
+                    "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/1007060051799474851/7164D0DD5EA74C115A7747E3B2A1A7E7E3E1AFDB/",
+                    "Convex": true,
+                    "MaterialIndex": 3,
+                    "TypeIndex": 1,
+                    "CustomShader": {
+                      "SpecularColor": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0
+                      },
+                      "SpecularIntensity": 0.0,
+                      "SpecularSharpness": 2.0,
+                      "FresnelStrength": 0.0
+                    },
+                    "CastShadows": true
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                }
+              ]
+            },
+            {
+              "GUID": "173aec",
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": 0.398990661,
+                "posY": 0.16644983,
+                "posZ": 0.7689167,
+                "rotX": 358.7099,
+                "rotY": 0.03316357,
+                "rotZ": 0.000921110448,
+                "scaleX": 0.359914273,
+                "scaleY": 0.8416011,
+                "scaleZ": 0.4629671
+              },
+              "Nickname": "Manufactorum",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.9921741,
+                "b": 0.9999998
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomMesh": {
+                "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/1007060051799309759/C70EEFADED05E2B67AAA3599C3B593C6C1394500/",
+                "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1007059909072425067/1EF9732F9EDD0863C47F52D006F14851D7300EE9/",
+                "NormalURL": "",
+                "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/1007060051799474851/7164D0DD5EA74C115A7747E3B2A1A7E7E3E1AFDB/",
+                "Convex": true,
+                "MaterialIndex": 3,
+                "TypeIndex": 1,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.0,
+                  "SpecularSharpness": 2.0,
+                  "FresnelStrength": 0.0
+                },
+                "CastShadows": true
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            }
+          ]
+        },
+        {
+          "GUID": "f717bd",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -2.97025752,
+            "posY": 3.243026,
+            "posZ": -2.91241455,
+            "rotX": 358.708282,
+            "rotY": 0.0141601041,
+            "rotZ": 0.008383394,
+            "scaleX": 0.9893293,
+            "scaleY": 1.07210314,
+            "scaleZ": 0.9904017
+          },
+          "Nickname": "01 Ruin B Fill",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.9999998,
+            "g": 0.9921741,
+            "b": 0.9999998
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/1007060051799304722/4A6CB7115D724AD64C19341CC7B9C7FA42A0DFF7/",
+            "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1007059909072413399/3E0E6F5F8844670F6CB38366C06CD3FF06E31ED2/",
+            "NormalURL": "",
+            "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/1007060051799990909/80D7E26EE44768837E9FD1206A19FEC3CE6FF33B/",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 1,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "SpecularIntensity": 0.0,
+              "SpecularSharpness": 2.0,
+              "FresnelStrength": 0.0
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "88ed95",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -3.05094242,
+            "posY": 3.48840046,
+            "posZ": 1.269386,
+            "rotX": 358.708282,
+            "rotY": 0.0141601041,
+            "rotZ": 0.008383394,
+            "scaleX": 0.9893293,
+            "scaleY": 0.9423335,
+            "scaleZ": 0.9904017
+          },
+          "Nickname": "01 Ruin B Fill",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.9999998,
+            "g": 0.9921741,
+            "b": 0.9999998
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/1007060051799304722/4A6CB7115D724AD64C19341CC7B9C7FA42A0DFF7/",
+            "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1007059909072413399/3E0E6F5F8844670F6CB38366C06CD3FF06E31ED2/",
+            "NormalURL": "",
+            "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/1007060051799990909/80D7E26EE44768837E9FD1206A19FEC3CE6FF33B/",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 1,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "SpecularIntensity": 0.0,
+              "SpecularSharpness": 2.0,
+              "FresnelStrength": 0.0
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      ]
+    }
+  ]
+}

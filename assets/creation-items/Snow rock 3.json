@@ -1,0 +1,75 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "15b5a9",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 22.0,
+        "posY": 0.9,
+        "posZ": 14.0,
+        "rotX": 1.66752667E-09,
+        "rotY": 45.0000038,
+        "rotZ": 0.0,
+        "scaleX": 1.59999979,
+        "scaleY": 1.59999979,
+        "scaleZ": 1.59999979
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.9921641,
+        "b": 0.9999998
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "https://www.dropbox.com/s/nltsl835yv8c0tn/CliffEdge_01_itself.obj?dl=1",
+        "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/985611310391760202/D0E2A305C434F6DBDE0C7B44B6DA4FEB9D5B8132/",
+        "NormalURL": "https://www.dropbox.com/s/6trt92dcfbf9sc8/CliffEdge_001_Dif_NRM2.png?dl=1",
+        "ColliderURL": "https://www.dropbox.com/s/nltsl835yv8c0tn/CliffEdge_01_itself.obj?dl=1",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "LuaScript": "\nBCBtype = \"terrain\"\n",
+      "LuaScriptState": "",
+      "XmlUI": ""
+    }
+  ]
+}

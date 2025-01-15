@@ -1,0 +1,152 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "968d26",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -20.8430672,
+        "posY": 6.722268,
+        "posZ": 4.98276567,
+        "rotX": -2.33873252E-05,
+        "rotY": 0.000609662558,
+        "rotZ": 359.992828,
+        "scaleX": 0.975,
+        "scaleY": 0.975,
+        "scaleZ": 0.975
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.9921741,
+        "b": 0.9999998
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/1007060051799317631/D932013875C8E860D60D66BE8AC8A4A9760129AA/",
+        "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1007059909072397235/10879DFF31F05D42B03C0825FEF9E4FCD571E20F/",
+        "NormalURL": "",
+        "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/1007060051799971858/DFFA1F99EF749A55CC710AB91AA007E7E02C2039/",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 1,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 0.875,
+            "g": 0.812880337,
+            "b": 0.7463235
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "LuaScript": "\nBCBtype = \"terrain\"\n",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ChildObjects": [
+        {
+          "GUID": "db66e8",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 0.11968039,
+            "posY": -4.85718155,
+            "posZ": -0.06067383,
+            "rotX": 2.3431352E-05,
+            "rotY": 359.987152,
+            "rotZ": 0.00716266735,
+            "scaleX": 1.025641,
+            "scaleY": 1.025641,
+            "scaleZ": 1.025641
+          },
+          "Nickname": "01 Ruin A lvl1",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.9999998,
+            "g": 0.9921741,
+            "b": 0.9999998
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/1007060051799263179/B16A9CF9C8BDD51C84A03E4F45F1FD24B8DA4B9F/",
+            "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1007059909072390490/6B4602307487F9935E87799FF428D307F62BB55D/",
+            "NormalURL": "",
+            "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/1007060051799766746/58C97FA36EAA63F5FAFD2AFFC056F1607CED831C/",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 1,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "SpecularIntensity": 0.0,
+              "SpecularSharpness": 2.0,
+              "FresnelStrength": 0.0
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "\nBCBtype = \"terrain\"\n",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      ]
+    }
+  ]
+}

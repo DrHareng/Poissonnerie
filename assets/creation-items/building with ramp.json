@@ -1,0 +1,75 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "330e92",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 13.1534386,
+        "posY": 3.70304346,
+        "posZ": -7.352232,
+        "rotX": 1.20905372E-06,
+        "rotY": 209.98,
+        "rotZ": 8.48524849E-07,
+        "scaleX": 0.7145704,
+        "scaleY": 0.819255,
+        "scaleZ": 1.34197032
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.819607854,
+        "g": 0.858823538,
+        "b": 0.8784314
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/785234540546357799/72CABDFD21B00B975AFE137792D6919811330A3B/",
+        "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/785234540546357924/9D095A442946DA7F24C445F9BCD1C898E189CD5F/",
+        "NormalURL": "",
+        "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/785234540546358082/3819AF3FC15706586EEA7E8087598D7EB97B1B39/",
+        "Convex": false,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "LuaScript": "position = {x = 12.3965320587158, y = 1.36664736270905, z = 2.34396839141846}\nrotation = {x = -7.60001330490923E-06, y = 270.161254882813, z = 0.00160335295367986}\n\n",
+      "LuaScriptState": "",
+      "XmlUI": ""
+    }
+  ]
+}

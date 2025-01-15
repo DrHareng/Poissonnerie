@@ -1,0 +1,75 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "b69f96",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -22.7308731,
+        "posY": 3.74670529,
+        "posZ": 0.193552837,
+        "rotX": -0.000103484956,
+        "rotY": 167.1499,
+        "rotZ": 0.000105187246,
+        "scaleX": 2.01404667,
+        "scaleY": 1.25694907,
+        "scaleZ": 2.01404667
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992160261,
+        "b": 0.9999998
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": false,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "https://www.dropbox.com/s/tprp1squknii89a/JellybeanHill2.obj?dl=1",
+        "DiffuseURL": "http://www.psd-dude.com/tutorials/resources-images/over-50-sand-textures-free-download/sand-texture-seamless.jpg",
+        "NormalURL": "",
+        "ColliderURL": "https://www.dropbox.com/s/tprp1squknii89a/JellybeanHill2.obj?dl=1",
+        "Convex": false,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": ""
+    }
+  ]
+}

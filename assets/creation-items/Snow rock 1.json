@@ -1,0 +1,75 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "8c3f4f",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -10.0,
+        "posY": 0.00149852037,
+        "posZ": 3.0,
+        "rotX": 0.0,
+        "rotY": 224.999985,
+        "rotZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/985611310391795166/03CEFF6940D9C8DD7AB3E86B127F89ED069612DB/",
+        "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/985611310391666404/6FBF4EFE1C303F006A85838CE5D7BB4131261AB5/",
+        "NormalURL": "https://steamusercontent-a.akamaihd.net/ugc/985611310391806316/B13BE6D0993B30CFF4F767A5CC6866AB9611E159/",
+        "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/985611310391795166/03CEFF6940D9C8DD7AB3E86B127F89ED069612DB/",
+        "Convex": false,
+        "MaterialIndex": 1,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "LuaScript": "\nBCBtype = \"terrain\"\n",
+      "LuaScriptState": "",
+      "XmlUI": ""
+    }
+  ]
+}

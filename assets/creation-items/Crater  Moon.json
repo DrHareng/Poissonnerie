@@ -1,0 +1,85 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "2e56cf",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 13.1092911,
+        "posY": 1.47106624,
+        "posZ": 26.6002331,
+        "rotX": 359.945435,
+        "rotY": 329.988159,
+        "rotZ": 359.93927,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Crater - Moon",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/1866206274382334949/37B5FF26BAD8157CADCD6BD41993F75576D0F03D/",
+        "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1866206274382362665/99DCE3DD36D075096792EBC23DE325B9FDBE1F66/",
+        "NormalURL": "https://steamusercontent-a.akamaihd.net/ugc/1866206274382365311/B2E3BE5857B01268A530DD1950C3F63D9743EB06/",
+        "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/1866206274382335169/8BA7383BBC532AE16D7D3AD76511463B1BEBD3CC/",
+        "Convex": false,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": ""
+    }
+  ]
+}

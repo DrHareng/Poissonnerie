@@ -1,0 +1,152 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "e700f4",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 10.2040176,
+        "posY": 1.29716814,
+        "posZ": 9.885231,
+        "rotX": 0.0169455,
+        "rotY": 270.000549,
+        "rotZ": 0.279571772,
+        "scaleX": 0.29,
+        "scaleY": 0.26,
+        "scaleZ": 0.39
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "https://pastebin.com/raw/neQc8Lp4",
+        "DiffuseURL": "http://orig04.deviantart.net/5105/f/2017/113/e/a/warehouse_by_itchydani3l-db6xmhb.jpg",
+        "NormalURL": "",
+        "ColliderURL": "https://pastebin.com/raw/8Jk15HuD",
+        "Convex": true,
+        "MaterialIndex": 2,
+        "TypeIndex": 1,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 0.7372549,
+            "g": 0.7372549,
+            "b": 0.7372549
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "States": {
+        "2": {
+          "GUID": "c23a66",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 10.2040176,
+            "posY": 1.29716814,
+            "posZ": 9.885231,
+            "rotX": 0.0169455,
+            "rotY": 270.000549,
+            "rotZ": 0.279571772,
+            "scaleX": 0.29,
+            "scaleY": 0.26,
+            "scaleZ": 0.39
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "https://pastebin.com/raw/FCYrjPd6",
+            "DiffuseURL": "http://orig04.deviantart.net/5105/f/2017/113/e/a/warehouse_by_itchydani3l-db6xmhb.jpg",
+            "NormalURL": "",
+            "ColliderURL": "https://pastebin.com/raw/P2F04pY7",
+            "Convex": true,
+            "MaterialIndex": 2,
+            "TypeIndex": 1,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 0.7372549,
+                "g": 0.7372549,
+                "b": 0.7372549
+              },
+              "SpecularIntensity": 0.0,
+              "SpecularSharpness": 2.0,
+              "FresnelStrength": 0.0
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      }
+    }
+  ]
+}
