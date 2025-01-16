@@ -20,12 +20,12 @@
       "GUID": "1299f7",
       "Name": "Bag",
       "Transform": {
-        "posX": -29.7276821,
-        "posY": 0.823968351,
-        "posZ": -54.09878,
-        "rotX": 1.73090248E-05,
-        "rotY": 270.000031,
-        "rotZ": 2.88747233E-05,
+        "posX": -25.0915623,
+        "posY": 0.8239682,
+        "posZ": -60.170517,
+        "rotX": -2.22190877E-07,
+        "rotY": 270.000061,
+        "rotZ": 8.258993E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -153,8 +153,8 @@
           "HideWhenFaceDown": false,
           "Hands": false,
           "CustomImage": {
-            "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/1764818447610173848/71AA1C1A43420B845544A381BEE31A816F0A7AB8/",
-            "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/1764818447610173848/71AA1C1A43420B845544A381BEE31A816F0A7AB8/",
+            "ImageURL": "https://github.com/DrHareng/Poissonnerie/blob/main/assets/creation-items/redoRedNomadmat.png?raw=true",
+            "ImageSecondaryURL": "https://github.com/DrHareng/Poissonnerie/blob/main/assets/creation-items/redoRedNomadmat.png?raw=true",
             "ImageScalar": 1.0,
             "WidthScale": 0.0,
             "CustomTile": {
