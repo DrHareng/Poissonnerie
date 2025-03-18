@@ -17437,8 +17437,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "[E6DA9B]ALl-DJABELL[-] Rf, LSG, Smoke",
-          "Description": "[b]SK[/b] ● [AAFFAA]Regular[-] \n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 4-4\n[b]CC[/b]: 23\n[b]BS[/b]: 12\n[b]PH[/b]: 13\n[b]WIP[/b]: 15\n[b]ARM[/b]: 1\n[b]BTS[/b]: 0\n[B]VITA[/B]: 1\n[b]S[/b]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nRifle ● Light Shotgun ● Smoke Grenades ● Silenced Pistol ● Viral CC Weapon (PS=5) [-]\n[ddddff][sub]----------Skills----------\n[/sub]\nMartial Arts L4 ● BS Attack (Continuous Damage) ● Surprise Attack (-3) ● Climbing Plus ● Dodge (+2\") ● Stealth ● Impersonation ● Terrain (Total) ● Religious Troop [-]\n[00014f][-]",
+          "Nickname": "[E6DA9B]AL-DJABEL[-] Rf, LSG, Nanopulser, Smoke",
+          "Description": "[b]SK[/b] ● [AAFFAA]Regular[-] \n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 4-4\n[b]CC[/b]: 23\n[b]BS[/b]: 12\n[b]PH[/b]: 13\n[b]WIP[/b]: 15\n[b]ARM[/b]: 1\n[b]BTS[/b]: 0\n[B]VITA[/B]: 1\n[b]S[/b]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nRifle ● Light Shotgun ● Nanopulser ● Smoke Grenades ● Silenced Pistol ● Viral CC Weapon (PS=5) [-]\n[ddddff][sub]----------Skills----------\n[/sub]\nMartial Arts L4 ● BS Attack (Continuous Damage) ● Surprise Attack (-3) ● Climbing Plus ● Dodge (+2\") ● Stealth ● Impersonation ● Terrain (Total) ● Religious Troop [-]\n[00014f][-]",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0.0,
@@ -17651,7 +17651,7 @@
             "scaleZ": 1.0
           },
           "Nickname": "[E6DA9B]FIDAY[-] BSG, Smoke",
-          "Description": "[b]SK[/b] ● [AAFFAA]Regular[-] \r\n[sub]---------Attributes-------\r\n[/sub]\r\n[b]MOV[/b]: 4-4\r\n[b]CC[/b]: 23\r\n[b]BS[/b]: 11\r\n[b]PH[/b]: 12\r\n[b]WIP[/b]: 15\r\n[b]ARM[/b]: 1\r\n[b]BTS[/b]: 0\r\n[B]VITA[/B]: 1\r\n[b]S[/b]: 2\r\n[ffdddd][sub]----------Weapons---------\r\n[/sub]\r\nBoarding Shotgun ● Smoke Grenades ● Pistol ● DA CC Weapon [-]\r\n[ddddff][sub]----------Skills----------\r\n[/sub]\r\nMartial Arts L3 ● Surprise Attack (-3) ● Dodge (+1\") ● Stealth ● Impersonation ● Terrain (Total) ● Religious Troop [-]\r\n[100138][-]",
+          "Description": "[b]SK[/b] ● [AAFFAA]Regular[-] \r\n[sub]---------Attributes-------\r\n[/sub]\r\n[b]MOV[/b]: 4-4\r\n[b]CC[/b]: 23\r\n[b]BS[/b]: 11\r\n[b]PH[/b]: 12\r\n[b]WIP[/b]: 15\r\n[b]ARM[/b]: 1\r\n[b]BTS[/b]: 0\r\n[B]VITA[/B]: 1\r\n[b]S[/b]: 2\r\n[ffdddd][sub]----------Weapons---------\r\n[/sub]\r\nBoarding Shotgun ● Smoke Grenades ● Pistol ● DA CC Weapon (PS=6)[-]\r\n[ddddff][sub]----------Skills----------\r\n[/sub]\r\nMartial Arts L3 ● Surprise Attack (-3) ● Dodge (+1\") ● Stealth ● Impersonation ● Terrain (Total) ● Religious Troop [-]\r\n[100138][-]",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0.0,
@@ -17864,7 +17864,7 @@
             "scaleZ": 1.0
           },
           "Nickname": "[E6DA9B]FIDAY[-] BSG, Smoke",
-          "Description": "[b]SK[/b] ● [AAFFAA]Regular[-] \r\n[sub]---------Attributes-------\r\n[/sub]\r\n[b]MOV[/b]: 4-4\r\n[b]CC[/b]: 23\r\n[b]BS[/b]: 11\r\n[b]PH[/b]: 12\r\n[b]WIP[/b]: 15\r\n[b]ARM[/b]: 1\r\n[b]BTS[/b]: 0\r\n[B]VITA[/B]: 1\r\n[b]S[/b]: 2\r\n[ffdddd][sub]----------Weapons---------\r\n[/sub]\r\nBoarding Shotgun ● Smoke Grenades ● Pistol ● DA CC Weapon [-]\r\n[ddddff][sub]----------Skills----------\r\n[/sub]\r\nMartial Arts L3 ● Surprise Attack (-3) ● Dodge (+1\") ● Stealth ● Impersonation ● Terrain (Total) ● Religious Troop [-]\r\n[100138][-]",
+          "Description": "[b]SK[/b] ● [AAFFAA]Regular[-] \r\n[sub]---------Attributes-------\r\n[/sub]\r\n[b]MOV[/b]: 4-4\r\n[b]CC[/b]: 23\r\n[b]BS[/b]: 11\r\n[b]PH[/b]: 12\r\n[b]WIP[/b]: 15\r\n[b]ARM[/b]: 1\r\n[b]BTS[/b]: 0\r\n[B]VITA[/B]: 1\r\n[b]S[/b]: 2\r\n[ffdddd][sub]----------Weapons---------\r\n[/sub]\r\nBoarding Shotgun ● Smoke Grenades ● Pistol ● DA CC Weapon (PS=6) [-]\r\n[ddddff][sub]----------Skills----------\r\n[/sub]\r\nMartial Arts L3 ● Surprise Attack (-3) ● Dodge (+1\") ● Stealth ● Impersonation ● Terrain (Total) ● Religious Troop [-]\r\n[100138][-]",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0.0,
@@ -18077,7 +18077,7 @@
             "scaleZ": 1.0
           },
           "Nickname": "[E6DA9B]FIDAY[-] Rfl, LSG, Smoke",
-          "Description": "[b]SK[/b] ● [AAFFAA]Regular[-] \r\n[sub]---------Attributes-------\r\n[/sub]\r\n[b]MOV[/b]: 4-4\r\n[b]CC[/b]: 23\r\n[b]BS[/b]: 11\r\n[b]PH[/b]: 12\r\n[b]WIP[/b]: 15\r\n[b]ARM[/b]: 1\r\n[b]BTS[/b]: 0\r\n[B]VITA[/B]: 1\r\n[b]S[/b]: 2\r\n[ffdddd][sub]----------Weapons---------\r\n[/sub]\r\nRifle ● Light Shotgun ● Smoke Grenades ● Pistol ● DA CC Weapon [-]\r\n[ddddff][sub]----------Skills----------\r\n[/sub]\r\nMartial Arts L3 ● Surprise Attack (-3) ● Dodge (+1\") ● Stealth ● Impersonation ● Terrain (Total) ● Religious Troop [-]\r\n[100138][-]",
+          "Description": "[b]SK[/b] ● [AAFFAA]Regular[-] \r\n[sub]---------Attributes-------\r\n[/sub]\r\n[b]MOV[/b]: 4-4\r\n[b]CC[/b]: 23\r\n[b]BS[/b]: 11\r\n[b]PH[/b]: 12\r\n[b]WIP[/b]: 15\r\n[b]ARM[/b]: 1\r\n[b]BTS[/b]: 0\r\n[B]VITA[/B]: 1\r\n[b]S[/b]: 2\r\n[ffdddd][sub]----------Weapons---------\r\n[/sub]\r\nRifle ● Light Shotgun ● Smoke Grenades ● Pistol ● DA CC Weapon (PS=6) [-]\r\n[ddddff][sub]----------Skills----------\r\n[/sub]\r\nMartial Arts L3 ● Surprise Attack (-3) ● Dodge (+1\") ● Stealth ● Impersonation ● Terrain (Total) ● Religious Troop [-]\r\n[100138][-]",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0.0,
@@ -18290,7 +18290,7 @@
             "scaleZ": 1.0
           },
           "Nickname": "[E6DA9B]FIDAY[-] Rfl, LSG, Smoke",
-          "Description": "[b]SK[/b] ● [AAFFAA]Regular[-] \r\n[sub]---------Attributes-------\r\n[/sub]\r\n[b]MOV[/b]: 4-4\r\n[b]CC[/b]: 23\r\n[b]BS[/b]: 11\r\n[b]PH[/b]: 12\r\n[b]WIP[/b]: 15\r\n[b]ARM[/b]: 1\r\n[b]BTS[/b]: 0\r\n[B]VITA[/B]: 1\r\n[b]S[/b]: 2\r\n[ffdddd][sub]----------Weapons---------\r\n[/sub]\r\nRifle ● Light Shotgun ● Smoke Grenades ● Pistol ● DA CC Weapon [-]\r\n[ddddff][sub]----------Skills----------\r\n[/sub]\r\nMartial Arts L3 ● Surprise Attack (-3) ● Dodge (+1\") ● Stealth ● Impersonation ● Terrain (Total) ● Religious Troop [-]\r\n[100138][-]",
+          "Description": "[b]SK[/b] ● [AAFFAA]Regular[-] \r\n[sub]---------Attributes-------\r\n[/sub]\r\n[b]MOV[/b]: 4-4\r\n[b]CC[/b]: 23\r\n[b]BS[/b]: 11\r\n[b]PH[/b]: 12\r\n[b]WIP[/b]: 15\r\n[b]ARM[/b]: 1\r\n[b]BTS[/b]: 0\r\n[B]VITA[/B]: 1\r\n[b]S[/b]: 2\r\n[ffdddd][sub]----------Weapons---------\r\n[/sub]\r\nRifle ● Light Shotgun ● Smoke Grenades ● Pistol ● DA CC Weapon (PS=6) [-]\r\n[ddddff][sub]----------Skills----------\r\n[/sub]\r\nMartial Arts L3 ● Surprise Attack (-3) ● Dodge (+1\") ● Stealth ● Impersonation ● Terrain (Total) ● Religious Troop [-]\r\n[100138][-]",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0.0,
@@ -18502,8 +18502,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "[E6DA9B]FIDAY[-] Rf, LSG, Smoke, Mines, DACCW",
-          "Description": "Painted by Perzan @Hortwerth\n\n[b]SK[/b] ● [AAFFAA]Regular[-] \n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 4-4\n[b]CC[/b]: 23\n[b]BS[/b]: 11\n[b]PH[/b]: 12\n[b]WIP[/b]: 15\n[b]ARM[/b]: 1\n[b]BTS[/b]: 0\n[B]VITA[/B]: 1\n[b]S[/b]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nRifle ● Light Shotgun ● Shock Mines ● Smoke Grenades ● Pistol ● DA CC Weapon [-]\n[ddddff][sub]----------Skills----------\n[/sub]\nMartial Arts L3 ● Surprise Attack (-3) ● Dodge (+1\") ● Stealth ● Impersonation ● Terrain (Total) ● Religious Troop [-]\n[200138][-]",
+          "Nickname": "[E6DA9B]FIDAY[-] Rf, LSG, Shock Mines, Smoke",
+          "Description": "Painted by Perzan @Hortwerth\n\n[b]SK[/b] ● [AAFFAA]Regular[-] \n[sub]---------Attributes-------\n[/sub]\n[b]MOV[/b]: 4-4\n[b]CC[/b]: 23\n[b]BS[/b]: 11\n[b]PH[/b]: 12\n[b]WIP[/b]: 15\n[b]ARM[/b]: 1\n[b]BTS[/b]: 0\n[B]VITA[/B]: 1\n[b]S[/b]: 2\n[ffdddd][sub]----------Weapons---------\n[/sub]\nRifle ● Light Shotgun ● Shock Mines ● Smoke Grenades ● Pistol ● DA CC Weapon (PS=6) [-]\n[ddddff][sub]----------Skills----------\n[/sub]\nMartial Arts L3 ● Surprise Attack (-3) ● Dodge (+1\") ● Stealth ● Impersonation ● Terrain (Total) ● Religious Troop [-]\n[200138][-]",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0.0,
@@ -19727,7 +19727,7 @@
             "scaleZ": 1.0
           },
           "Nickname": "[E6DA9B]FIDAY[-] Rfl, LSG, Shock Mines, Smoke",
-          "Description": "[b]SK[/b] ● [AAFFAA]Regular[-] \r\n[sub]---------Attributes-------\r\n[/sub]\r\n[b]MOV[/b]: 4-4\r\n[b]CC[/b]: 23\r\n[b]BS[/b]: 11\r\n[b]PH[/b]: 12\r\n[b]WIP[/b]: 15\r\n[b]ARM[/b]: 1\r\n[b]BTS[/b]: 0\r\n[B]VITA[/B]: 1\r\n[b]S[/b]: 2\r\n[ffdddd][sub]----------Weapons---------\r\n[/sub]\r\nRifle ● Light Shotgun ● Shock Mines ● Smoke Grenades ● Pistol ● DA CC Weapon [-]\r\n[ddddff][sub]----------Skills----------\r\n[/sub]\r\nMartial Arts L3 ● Surprise Attack (-3) ● Dodge (+1\") ● Stealth ● Impersonation ● Terrain (Total) ● Religious Troop [-]\r\n[100138][-]",
+          "Description": "[b]SK[/b] ● [AAFFAA]Regular[-] \r\n[sub]---------Attributes-------\r\n[/sub]\r\n[b]MOV[/b]: 4-4\r\n[b]CC[/b]: 23\r\n[b]BS[/b]: 11\r\n[b]PH[/b]: 12\r\n[b]WIP[/b]: 15\r\n[b]ARM[/b]: 1\r\n[b]BTS[/b]: 0\r\n[B]VITA[/B]: 1\r\n[b]S[/b]: 2\r\n[ffdddd][sub]----------Weapons---------\r\n[/sub]\r\nRifle ● Light Shotgun ● Shock Mines ● Smoke Grenades ● Pistol ● DA CC Weapon (PS=6) [-]\r\n[ddddff][sub]----------Skills----------\r\n[/sub]\r\nMartial Arts L3 ● Surprise Attack (-3) ● Dodge (+1\") ● Stealth ● Impersonation ● Terrain (Total) ● Religious Troop [-]\r\n[100138][-]",
           "GMNotes": "",
           "AltLookAngle": {
             "x": 0.0,

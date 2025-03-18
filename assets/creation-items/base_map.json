@@ -17,20 +17,20 @@
   "XmlUI": "",
   "ObjectStates": [
     {
-      "GUID": "ffe7c4",
-      "Name": "Custom_Assetbundle",
+      "GUID": "33a9e5",
+      "Name": "BlockSquare",
       "Transform": {
-        "posX": 110.499992,
-        "posY": 1.33628321,
-        "posZ": 62.5000076,
-        "rotX": 0.000213343141,
-        "rotY": -0.000172461921,
-        "rotZ": 0.000859514636,
-        "scaleX": 1.0,
-        "scaleY": 1.0,
-        "scaleZ": 1.0
+        "posX": -61.11402,
+        "posY": 6.29534626,
+        "posZ": -102.379372,
+        "rotX": 0.0,
+        "rotY": 0.00305303978,
+        "rotZ": 0.243549049,
+        "scaleX": 48.03,
+        "scaleY": 13.0,
+        "scaleZ": 48.03
       },
-      "Nickname": "tw2_i9_addon_01_3",
+      "Nickname": "",
       "Description": "",
       "GMNotes": "",
       "AltLookAngle": {
@@ -39,13 +39,13 @@
         "z": 0.0
       },
       "ColorDiffuse": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0
+        "r": 0.796078444,
+        "g": 0.796078444,
+        "b": 0.796078444
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
-      "Locked": false,
+      "Locked": true,
       "Grid": true,
       "Snap": true,
       "IgnoreFoW": false,
@@ -54,16 +54,9 @@
       "Autoraise": true,
       "Sticky": true,
       "Tooltip": true,
-      "GridProjection": false,
+      "GridProjection": true,
       "HideWhenFaceDown": false,
       "Hands": false,
-      "CustomAssetbundle": {
-        "AssetbundleURL": "https://steamusercontent-a.akamaihd.net/ugc/1626319802929776185/42CC3A3839F9373E31DADFE78BCCD43A79AE384D/",
-        "AssetbundleSecondaryURL": "",
-        "MaterialIndex": 3,
-        "TypeIndex": 0,
-        "LoopingEffectIndex": 0
-      },
       "LuaScript": "",
       "LuaScriptState": "",
       "XmlUI": ""
